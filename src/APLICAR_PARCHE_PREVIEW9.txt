@@ -1,0 +1,15 @@
+PALCLAM 1.1.0 PREVIEW 9 - ACTUALIZACION DESDE PREVIEW 8
+
+1. Cierra PalClam en Windows (incluido el icono de la bandeja).
+2. Haz una COPIA de tu carpeta de FUENTES Preview 8.
+3. Extrae el contenido de este ZIP de parche SOBRE esa copia,
+   conservando la estructura de carpetas y sobrescribiendo archivos.
+4. No sustituyas tu carpeta ThirdParty: se mantiene el motor y las firmas.
+5. Ejecuta PRUEBAS.bat y EMPEZAR_AQUI.bat.
+6. Comprueba las pestañas de Opciones y la barra flotante en los seis temas.
+
+El parche es solo para el PROYECTO FUENTE, no sirve como actualización
+binaria de una instalación terminada. Si no tienes los fuentes Preview 8,
+utiliza la descarga del proyecto COMPLETO Preview 9.
+
+Esta Preview no debe distribuirse como estable sin probar en Windows.

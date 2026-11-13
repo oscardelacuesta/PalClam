@@ -1,0 +1,3 @@
+[OK ESTÁTICO] 2055 claves × 6 idiomas = 12330 textos; enlaces, formatos, versión, AppId y bloqueo.
+Esta comprobación es estática. Los resultados de .NET y los ensayos Windows se documentan por separado.
+[OK ESTÁTICO] Referencias de fuentes del instalador y validadores presentes; siete fases BAT. No ejecuta PowerShell ni Inno Setup.

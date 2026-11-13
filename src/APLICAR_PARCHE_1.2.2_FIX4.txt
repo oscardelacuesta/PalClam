@@ -1,0 +1,12 @@
+PALCLAM 1.2.2 GPL3 - FIX4 MAILDIR
+
+Parche exclusivamente sobre PalClam_1.2.2_GPL3_FIX3_COMPLETO.
+1. Extrae el parche en tu carpeta actual FIX3, donde esta EMPEZAR_AQUI.bat.
+2. Acepta sobrescribir los archivos coincidentes y conserva los demas.
+3. Ejecuta EMPEZAR_AQUI.bat como siempre.
+
+El completo FIX4 permite empezar en una carpeta nueva; no necesitas ambos ZIP.
+La correccion afecta a las muestras de PalClam.FeatureTests/Program.cs.
+Se conservan el importador, las comprobaciones, las licencias y los scripts de FIX3.
+La version del programa sigue siendo 1.2.2 y las fuentes publicas generadas no contienen BAT.
+Detalles y limites de las pruebas: CORRECCION_1.2.2_FIX4.md.

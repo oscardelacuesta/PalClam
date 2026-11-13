@@ -1,0 +1,16 @@
+PalClam 1.1.0 Preview 10 — Parche desde Preview 9 FIX3
+
+1. Haz copia de la carpeta COMPLETA de Preview 9 FIX3 antes de modificarla.
+2. Extrae este ZIP en la RAÍZ de dicha carpeta, sobrescribiendo archivos.
+3. El parche incorpora ficheros nuevos: PalClam/UI/OptionsTabAppearance.cs,
+   PalClam.ThemeTests/Program.cs, PalClam.ThemeTests/PalClam.ThemeTests.csproj,
+   CAMBIOS_1.1.0_PREVIEW10.md, docs/PRUEBAS_1.1.0_PREVIEW10.md.
+4. Ejecuta PRUEBAS.bat y verifica las cuatro etapas. No continuar si falla.
+5. Reproduce el cambio de tema durante un escaneo con ClamAV real en Windows.
+6. Cuando funcione, ejecuta EMPEZAR_AQUI.bat para crear el instalador.
+
+NO se adjunta un EXE de Windows ni un instalador precompilado. Esta entrega
+no ha ejecutado la compilación .NET/WPF: la aceptación real queda pendiente.
+El AppId de Inno Setup se conserva y la versión pasa a 1.1.0-preview.10.
+
+Diagnóstico: %LOCALAPPDATA%\PalClam\Diagnostics\fallos.log

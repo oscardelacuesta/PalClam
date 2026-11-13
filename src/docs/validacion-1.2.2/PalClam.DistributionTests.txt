@@ -1,0 +1,1 @@
+PASS 22 comprobaciones de arquitectura y almacenamiento. Sin ejecutar WPF ni ClamAV.

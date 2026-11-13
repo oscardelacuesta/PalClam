@@ -1,0 +1,10 @@
+PARCHE PALCLAM 1.1.0 PREVIEW21 SOBRE PREVIEW20
+
+1. Conserva el ZIP original de Preview 20 como copia de seguridad.
+2. Descomprime este parche sobre una copia limpia de Preview 20, sobrescribiendo archivos.
+3. Ejecuta PRUEBAS.bat desde una carpeta nueva con SDK .NET 10 en Windows.
+4. Tras cinco pasos correctos, ejecuta EMPEZAR_AQUI.bat.
+5. Valida manualmente los casos descritos en docs/PRUEBAS_1.1.0_PREVIEW21.md.
+
+Este ZIP contiene solamente código fuente y documentación; NO incluye un instalador ya compilado.
+Un resultado de clamscan sin detecciones NO prueba que el archivo sea seguro.

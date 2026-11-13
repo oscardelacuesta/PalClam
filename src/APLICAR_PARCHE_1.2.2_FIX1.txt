@@ -1,0 +1,23 @@
+PALCLAM 1.2.2 GPL3 FIX1 — ARRANQUE Y FUENTES PUBLICAS SIN BAT
+
+RECOMENDADO: extraer PalClam_1.2.2_GPL3_FIX1_COMPLETO.zip en una carpeta
+nueva y ejecutar unicamente EMPEZAR_AQUI.bat.
+
+PARCHE: aplicar PalClam_1.2.2_GPL3_FIX1_PARCHE_SOBRE_1.2.2.zip sobre una
+copia de las fuentes extraidas de PalClam_1.2.2_GPL3_COMPLETO.zip.
+SHA256 exacto de ese ZIP base:
+319d092beda0254623eacce6e948a751a33996b2d1f5b6edb6f664a42c6583a2
+
+Sobrescribe los archivos conservando carpetas y ejecuta EMPEZAR_AQUI.bat.
+El alias EMPEZAR-AQUI.bat original se retira automaticamente al arrancar.
+Si lo has modificado, se conserva: utiliza siempre EMPEZAR_AQUI.bat.
+
+Se conserva la version de la aplicacion 1.2.2 y GPLv3 o posterior.
+El codigo C# no cambia. La correccion resuelve el calculo de la carpeta
+antes de compilar en Windows PowerShell 5.1 y elimina los BAT de las
+fuentes publicas que acompanan a instaladores y portables. Para el autor
+se conservan sus accesos de desarrollo; para terceros se incluyen los
+scripts PowerShell y BUILD_FROM_SOURCE.md, necesarios para reconstruir.
+
+Manifiesto vigente: MANIFIESTO_1.2.2_FIX1.json.
+Los documentos anteriores se conservan como historico.

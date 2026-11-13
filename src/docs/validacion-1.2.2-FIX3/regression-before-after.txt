@@ -1,0 +1,2 @@
+FIX2 exit=1; [TEST HANDLE LEAK] (probe runs before child process exit)
+FIX3 exit=1; [TEST HANDLE CLOSED] (probe runs before child process exit)

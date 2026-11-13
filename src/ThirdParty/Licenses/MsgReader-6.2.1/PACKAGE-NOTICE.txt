@@ -1,0 +1,6 @@
+MsgReader/6.2.1
+Authors: Kees van Spelde
+Copyright: (c)2013-2026 - Kees van Spelde
+Declared license: MIT
+Distribution choice: MIT
+Original package metadata: msgreader.nuspec

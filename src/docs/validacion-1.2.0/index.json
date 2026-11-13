@@ -1,0 +1,27 @@
+[
+  {
+    "check": "localization",
+    "exit_code": 0,
+    "log": "docs/validacion-1.2.0/localization.txt"
+  },
+  {
+    "check": "wpf-build",
+    "exit_code": 0,
+    "log": "docs/validacion-1.2.0/wpf-build.txt"
+  },
+  {
+    "check": "service-build",
+    "exit_code": 0,
+    "log": "docs/validacion-1.2.0/service-build.txt"
+  },
+  {
+    "check": "version-and-integrity",
+    "exit_code": 0,
+    "log": "docs/validacion-1.2.0/version-and-integrity.txt"
+  },
+  {
+    "check": "static",
+    "exit_code": 0,
+    "log": "docs/validacion-1.2.0/static.txt"
+  }
+]

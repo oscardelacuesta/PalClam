@@ -1,0 +1,6 @@
+UTF.Unknown/2.8.0
+Authors: Julian Verdurmen, Rustam Sayfutdinov, Rudi Pettazzi, Shy Shalom
+Copyright: 
+Declared license: MPL-1.1
+Distribution choice: GPL-3.0-or-later (version 3 selected under upstream GPL-2.0-or-later alternative)
+Original package metadata: utf.unknown.nuspec

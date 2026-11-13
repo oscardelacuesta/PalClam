@@ -1,0 +1,5 @@
+[OK] GPLv3 embebida: PalClam\dist\win-x64\PalClam.dll
+[OK] GPLv3 embebida: PalClam.Service\dist\win-x64\PalClam.Service.exe
+[OK] GPLv3 embebida: PalClam\dist\win-x86\PalClam.dll
+[OK] GPLv3 embebida: PalClam.Service\dist\win-x86\PalClam.Service.exe
+[OK] GPLv3: 125 fuentes C#, 6 idiomas, metadatos, instalador y licencias de bibliotecas comprobados. ClamAV conserva GPLv2 como programa externo.

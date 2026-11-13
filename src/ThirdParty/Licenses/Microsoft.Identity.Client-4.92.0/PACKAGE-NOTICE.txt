@@ -1,0 +1,6 @@
+Microsoft.Identity.Client/4.92.0
+Authors: Microsoft
+Copyright: © Microsoft Corporation. All rights reserved.
+Declared license: MIT
+Distribution choice: MIT
+Original package metadata: microsoft.identity.client.nuspec

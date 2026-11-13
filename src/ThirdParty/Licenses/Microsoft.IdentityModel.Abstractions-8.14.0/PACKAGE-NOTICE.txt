@@ -1,0 +1,6 @@
+Microsoft.IdentityModel.Abstractions/8.14.0
+Authors: Microsoft
+Copyright: © Microsoft Corporation. All rights reserved.
+Declared license: MIT
+Distribution choice: MIT
+Original package metadata: microsoft.identitymodel.abstractions.nuspec

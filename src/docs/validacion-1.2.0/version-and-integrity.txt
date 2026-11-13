@@ -1,0 +1,14 @@
+[OK] Metadatos generados por el SDK: PalClam, InformationalVersion=1.2.0, FileVersion=1.2.0.0.
+[OK] Metadatos generados por el SDK: PalClam.Service, InformationalVersion=1.2.0, FileVersion=1.2.0.0.
+[OK] PalClam/Services: 66 fuentes C# conservadas byte a byte.
+[OK] PalClam/Infrastructure: 3 fuentes C# conservadas byte a byte.
+[OK] PalClam.Service: 5 fuentes C# conservadas byte a byte.
+[OK] Conservado: PalClam/Resources/update-public.pem
+[OK] Conservado: PalClam/Updater/ApplyUpdate.ps1
+[OK] es: 2052 claves; solo se consolidan etiquetas de versión.
+[OK] en: 2052 claves; solo se consolidan etiquetas de versión.
+[OK] fr: 2052 claves; solo se consolidan etiquetas de versión.
+[OK] de: 2052 claves; solo se consolidan etiquetas de versión.
+[OK] pt: 2052 claves; solo se consolidan etiquetas de versión.
+[OK] it: 2052 claves; solo se consolidan etiquetas de versión.
+[OK] Instalador, referencias de fuentes y acta nueva: 35 comprobaciones pendientes; publicación bloqueada.

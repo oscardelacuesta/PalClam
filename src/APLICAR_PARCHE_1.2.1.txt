@@ -1,0 +1,25 @@
+PALCLAM 1.2.1 — X64, X86, PORTABLES Y LICENCIAS
+
+Recomendado: extraer PalClam_1.2.1_COMPLETO.zip en una carpeta nueva.
+No necesita versiones anteriores. Ejecuta EMPEZAR_AQUI.bat en Windows.
+
+El parche PalClam_1.2.1_PARCHE_SOBRE_1.2.0.zip se aplica UNICAMENTE
+sobre una copia extraida de PalClam_1.2.0_COMPLETO.zip.
+SHA256 de ese ZIP base:
+1ebe88254c895c47d806d040c591f5f9b0a2b6f118c2a1edb9511d9a7222608c
+
+1. Conserva tus fuentes originales y las modificaciones personales.
+2. Extrae el parche sobre la raiz de una copia de las fuentes 1.2.0,
+   sobrescribiendo archivos y conservando la estructura de carpetas.
+3. Ejecuta EMPEZAR_AQUI.bat. La entrada principal sigue siendo la misma.
+4. Se generan tres instaladores en dist/installer y dos ZIP portables
+   en dist/portable, si todas las fases terminan correctamente.
+5. Lee docs/RESULTADOS_1.2.1.md y prueba las salidas en Windows.
+
+No contiene instaladores precompilados. Las compilaciones cruzadas y
+las comprobaciones de empaquetado no sustituyen la ejecucion real de
+Windows. Se conservan AppId y datos de la edicion instalada.
+
+Mantener Licenses, Source y los avisos legales en los distribuibles.
+El manifiesto vigente es MANIFIESTO_1.2.1.json. Los documentos y actas
+con versiones anteriores son historicos. El parche no borra archivos.

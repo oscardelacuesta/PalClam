@@ -1,0 +1,21 @@
+PALCLAM 1.2.2 GPL3 FIX2 — PRUEBAS Y LIMPIEZA DE TEMPORALES
+
+Aplica PalClam_1.2.2_GPL3_FIX2_PARCHE_SOBRE_FIX1.zip sobre la misma
+carpeta donde tienes extraido PalClam_1.2.2_GPL3_FIX1_COMPLETO.zip.
+Sobrescribe archivos y conserva la estructura de carpetas.
+
+SHA256 del ZIP base FIX1:
+043d2fabd6865ba9665857c2c04bad4b7b3fd46ab2137e0c372fb4e5752aa488
+
+Despues ejecuta unicamente EMPEZAR_AQUI.bat.
+
+No necesitas borrar tus temporales manualmente ni desactivar controles.
+Una limpieza temporal pendiente se informa sin ocultar el resultado real
+de las pruebas. Los fallos funcionales siguen deteniendo la entrega.
+
+Los logs detallados de empaquetado se guardan en dist/validation.
+Se conservan la version 1.2.2, GPLv3, las fuentes publicas sin BAT,
+las cinco salidas y todos los controles de seguridad.
+
+Si prefieres una carpeta nueva, utiliza el ZIP completo FIX2.
+Manifiesto vigente: MANIFIESTO_1.2.2_FIX2.json.

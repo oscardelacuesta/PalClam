@@ -1,0 +1,10 @@
+PalClam 1.1.0 Preview 12 — Parche sobre Preview 11
+
+1. Copia de seguridad de tu carpeta Preview 11.
+2. Extrae ESTE ZIP sobre el proyecto Preview 11 completo (sobrescribir).
+3. Ejecuta PRUEBAS.bat en Windows x64 con SDK .NET 10.
+4. Prueba pausas, reanudación, cancelación, temas y resultado de análisis.
+5. Solo cuando las pruebas pasen, ejecuta EMPEZAR_AQUI.bat para generar el instalador.
+
+Este parche NO es el instalador. Si tu proyecto no coincide con Preview 11, usa el ZIP completo.
+No se ha compilado ni probado ClamAV/WPF real en este entorno.

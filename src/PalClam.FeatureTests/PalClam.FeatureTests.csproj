@@ -1,0 +1,19 @@
+<!-- SPDX-FileCopyrightText: 2026 Oscar de la Cuesta Campillo; SPDX-License-Identifier: GPL-3.0-or-later -->
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup><OutputType>Exe</OutputType><TargetFramework>net10.0</TargetFramework><Nullable>enable</Nullable><ImplicitUsings>enable</ImplicitUsings><TreatWarningsAsErrors>true</TreatWarningsAsErrors></PropertyGroup>
+  <ItemGroup>
+    <Compile Include="..\PalClam\Services\DistributionPolicy.cs" Link="DistributionPolicy.cs" />
+    <Compile Include="..\PalClam\Services\DiskLedPolicy.cs" Link="DiskLedPolicy.cs" />
+    <Compile Include="..\PalClam\Services\DiskActivitySampler.cs" Link="DiskActivitySampler.cs" />
+    <Compile Include="..\PalClam\Services\RansomwarePolicy.cs" Link="RansomwarePolicy.cs" />
+    <Compile Include="..\PalClam\Services\SecurityNoticeFeed.cs" Link="SecurityNoticeFeed.cs" />
+    <Compile Include="..\PalClam\Services\RansomwareAudit.cs" Link="RansomwareAudit.cs" />
+    <Compile Include="..\PalClam\Services\DeviceWatchAudit.cs" Link="DeviceWatchAudit.cs" />
+    <Compile Include="..\PalClam\Services\RansomwareMonitor.cs" Link="RansomwareMonitor.cs" />
+    <Compile Include="..\PalClam\Services\MailFinding.cs" Link="MailFinding.cs" />
+    <Compile Include="..\PalClam\Services\MailScanModels.cs" Link="MailScanModels.cs" />
+    <Compile Include="..\PalClam\Services\LocalMailboxImport.cs" Link="LocalMailboxImport.cs" />
+    <PackageReference Include="MimeKit" Version="4.18.0" />
+    <PackageReference Include="System.Security.Cryptography.Pkcs" Version="10.0.14" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,33 @@
+[OK] AI Analyst: resumen de análisis sin rutas, firmas ni texto privado
+[OK] AI Analyst: Guard agregado sin nombres ni detalles de incidentes
+[OK] AI Analyst: alerta seleccionada usa origen y gravedad de lista blanca
+[OK] AI Analyst: salud no incorpora detalles ni nombres ajenos a catálogo
+[OK] AI Analyst: cuarentena solo contadores, sin SHA ni rutas
+[OK] AI Analyst: ausencia de datos no produce diagnóstico inventado
+[OK] AI Analyst: advertencia de privacidad para consultas manuales remotas
+[OK] Aurora: selector acotado, valor por defecto y recuperación de preferencias
+[OK] Aurora: velocidad configurable y más visible por defecto
+[OK] Dashboard 2.0: recuentos solo de análisis válidos y métricas medidas
+[OK] Dashboard 2.0: avisos sin revisar y lecturas parciales visibles
+[OK] Dashboard 2.0: sin registros no se fabrican resultados ni porcentajes
+[OK] Dashboard 2.0: historial con JSON dañado mantiene registros válidos
+[OK] Dashboard 2.0: historia corrupta visible como dato parcial
+[OK] Dashboard 2.0: historia corrupta visible como dato parcial
+[OK] Dashboard 2.0: ausencia de historial no es un análisis correcto
+[OK] Signature Center: ausencia de bases no equivale a disponibilidad
+[OK] Signature Center: main y daily sin contar dos veces CLD/CVD
+[OK] Signature Center: inventario no declara firmas oficiales sin sigtool
+[OK] Signature Center: rechaza rutas relativas o sin directorio absoluto
+[OK] control: modo equilibrado y preciso no ocultan su coste
+[OK] Smart Scan: sin duplicados ni carpetas contenidas en otra raíz
+[OK] Smart Scan: prioridades y lotes efectivos sin alterar firmas
+[OK] Smart Scan: estimación conjunta con exclusiones sin doble recuento
+[OK] Smart Scan: objetivo repetido no amplifica la carga
+[OK] salud 360: falta de motor, firmas y servicio no equivale a operativo
+[OK] salud 360: preferencias sin observadores no muestran cobertura
+[OK] salud 360: prioridad a componentes que requieren revisión
+[OK] salud 360: servicio opcional inactivo no equivale a protección preventiva
+[OK] salud 360: Guard degradado se señala
+[ERROR] System.InvalidOperationException: Prueba fallida: USB Watch: no analiza unidades previas al inicio
+   at SmokeTests.Assert(Boolean ok, String name) in [PROYECTO]/PalClam.SmokeTests/Program.cs:line 9
+   at SmokeTests.Main() in [PROYECTO]/PalClam.SmokeTests/Program.cs:line 207

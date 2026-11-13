@@ -1,0 +1,12 @@
+PALCLAM 1.1.0 PREVIEW 14 FIX3 - PARCHE SOBRE FIX2
+
+1. Descomprime el parche sobre el proyecto Preview 14 FIX2.
+2. Sobrescribe los archivos existentes.
+3. Ejecuta PRUEBAS.bat.
+4. Si supera las 4 etapas, ejecuta EMPEZAR_AQUI.bat.
+
+Archivos de codigo modificados:
+- PalClam/MainWindow.HeaderAurora.cs
+- Tools/VerificarFuentes.ps1
+
+No se cambia la version del instalador ni el AppId.

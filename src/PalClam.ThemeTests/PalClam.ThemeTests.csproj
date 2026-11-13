@@ -1,0 +1,28 @@
+<!-- SPDX-FileCopyrightText: 2026 Oscar de la Cuesta Campillo; SPDX-License-Identifier: GPL-3.0-or-later -->
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <NeutralLanguage>es</NeutralLanguage>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="..\PalClam\Services\DistributionPolicy.cs" Link="DistributionPolicy.cs" />
+    <Compile Include="..\PalClam\Localization\TextCatalog.cs" Link="TextCatalog.cs" />
+    <Compile Include="..\PalClam\Localization\DisplayCatalog.cs" Link="DisplayCatalog.cs" />
+    <Compile Include="..\PalClam\UI\PresentationLocalization.cs" Link="PresentationLocalization.cs" />
+    <EmbeddedResource Include="..\PalClam\Localization\DisplayMetadata.json" LogicalName="PalClam.Localization.DisplayMetadata.json" />
+    <Compile Include="..\PalClam\Localization\UiText.cs" Link="UiText.cs" />
+    <Compile Include="..\PalClam\UI\LocalizedUi.cs" Link="LocalizedUi.cs" />
+    <EmbeddedResource Include="..\PalClam\Localization\Strings*.resx">
+      <ManifestResourceName>PalClam.Localization.%(Filename)</ManifestResourceName>
+    </EmbeddedResource>
+    <!-- Se prueban los MISMOS estilos WPF que usa PalClam. Sin paquetes externos. -->
+    <Compile Include="..\PalClam\UI\OptionsTabAppearance.cs" Link="OptionsTabAppearance.cs" />
+    <Compile Include="..\PalClam\UI\ModernScrollBarTheme.cs" Link="ModernScrollBarTheme.cs" />
+    <Page Include="..\PalClam\UI\ModernScrollBars.xaml" Link="UI\ModernScrollBars.xaml" />
+    <Compile Include="..\PalClam\Services\AppearanceCatalog.cs" Link="AppearanceCatalog.cs" />
+  </ItemGroup>
+</Project>

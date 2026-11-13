@@ -1,0 +1,56 @@
+OK LED reposo
+OK LED lectura
+OK LED escritura
+OK LED lectura/escritura simultáneas
+OK LED análisis
+OK LED detección prevalece sobre espacio y análisis
+OK LED espacio prevalece sobre análisis, umbral inclusivo
+OK LED no inventa disco lleno sin muestra
+OK LED sin contadores no equivale a reposo
+OK LED permite desactivar estados antivirus
+OK LED umbral absoluto GB
+OK LED normaliza ajustes corruptos sin perder colores
+OK normalización LED no modifica el objeto original
+OK persistencia LED y normalización de unidad
+OK PDH no se ejecuta en plataforma incompatible
+OK 100 eventos duplicados no simulan muchos archivos
+OK contador de archivos distintos
+OK correlación de renombrado compatible con cifrado
+OK enfriamiento evita notificaciones repetidas
+OK ventana temporal descarta eventos caducados
+OK renombrar conserva identidad y no duplica el archivo
+OK eliminación masiva se distingue de sospecha de cifrado
+OK contenido aleatorio correlacionado en varios archivos
+OK entropía de datos repetidos
+OK entropía de distribución uniforme
+OK ZIP y documentos comprimidos no se tratan como texto cifrado
+OK distingue renombrado ordinario y extensión añadida
+OK exclusiones respetan límites de directorio
+OK ajustes ransomware corruptos y monitor desactivado por defecto
+OK sospecha de ransomware no se presenta como detección ClamAV
+OK registros corruptos o con categoría desconocida se rechazan
+OK historial filtra avisos anti-ransomware y conserva rutas como datos
+OK MBOX sin extensión importa dos mensajes
+OK From del cuerpo no se interpreta como separador
+OK conserva bytes del cuerpo MBOX escapado
+OK asunto opaco no se convierte en ruta
+OK copias confinadas a la sesión
+OK asunto opaco no se convierte en ruta
+OK copias confinadas a la sesión
+OK resultados conservan origen y número del buzón
+OK limpieza del importador en éxito
+OK MBOX original permanece byte a byte
+OK máximo de mensajes MBOX produce resultado incompleto
+OK las omisiones de importación llegan al resumen antivirus
+OK línea MBOX grande sin asignación ilimitada; sigue al próximo mensaje
+OK límite de lectura descarta el mensaje parcial
+OK formato desconocido no se declara analizado
+OK Maildir sin extensión: cur/new sí, tmp nunca
+OK Maildir conserva contenido y nombre del original
+OK Maildir no sigue enlaces simbólicos
+OK cancelación detiene la importación
+OK cancelación permite eliminar los temporales
+OK monitor de carpetas arranca
+OK eventos reales del sistema de archivos llegan al detector sin ransomware
+OK muestreo real de archivos sintéticos correlaciona alta entropía sin cambiar extensiones
+PASS 55 verificaciones. No ejecuta Outlook, WPF, PDH ni malware real.

@@ -1,0 +1,9 @@
+  Determining projects to restore...
+  Restored [PROYECTO]/PalClam.ThemeTests/PalClam.ThemeTests.csproj (in 976 ms).
+  PalClam.ThemeTests -> [PROYECTO]/PalClam.ThemeTests/bin/Release/net10.0-windows/PalClam.ThemeTests.dll
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:19.06

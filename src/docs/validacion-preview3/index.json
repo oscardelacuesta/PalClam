@@ -1,0 +1,37 @@
+[
+  {
+    "check": "features",
+    "exit_code": 0,
+    "log": "docs/validacion-preview3/features.txt"
+  },
+  {
+    "check": "smoke",
+    "exit_code": 1,
+    "log": "docs/validacion-preview3/smoke.txt"
+  },
+  {
+    "check": "theme-build",
+    "exit_code": 0,
+    "log": "docs/validacion-preview3/theme-build.txt"
+  },
+  {
+    "check": "service-build",
+    "exit_code": 0,
+    "log": "docs/validacion-preview3/service-build.txt"
+  },
+  {
+    "check": "wpf-build",
+    "exit_code": 0,
+    "log": "docs/validacion-preview3/wpf-build.txt"
+  },
+  {
+    "check": "localization",
+    "exit_code": 0,
+    "log": "docs/validacion-preview3/localization.txt"
+  },
+  {
+    "check": "static",
+    "exit_code": 0,
+    "log": "docs/validacion-preview3/static.txt"
+  }
+]

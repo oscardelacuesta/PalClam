@@ -1,0 +1,15 @@
+OpenMcdf 3.4.0 — unmodified upstream source and library.
+
+The original source remains available under MPL-2.0, with all original notices.
+As part of the PalClam GPL-3.0-or-later larger work, the MPL-covered portions are also
+made available under GPL-3.0-or-later pursuant to MPL-2.0 section 3.3. Recipients retain
+the option of either license. Files with separate permissive notices retain them.
+No upstream license headers or sources have been modified.
+
+Exact corresponding source is supplied in Source/Libraries:
+OpenMcdf-3.4.0-687fae728616.zip
+Source commit: 687fae7286167035a2a1f2c7ab39720679a187a5
+SHA256: a3663551aa9f55f8e9305f9327776ee6547cbb75dfa3a5dfedf90665f3c06df5
+
+MPL text: Upstream/License.txt. GPL text: GPL-3.0.txt.
+Mozilla guidance: https://www.mozilla.org/en-US/MPL/2.0/combining-mpl-and-gpl/

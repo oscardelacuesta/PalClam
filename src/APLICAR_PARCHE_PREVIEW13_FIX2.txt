@@ -1,0 +1,12 @@
+PALCLAM 1.1.0 PREVIEW13 FIX2 — INSTRUCCIONES
+
+Recomendado: extraer PalClam_1.1.0_Preview13_FIX2_COMPLETO.zip en una carpeta nueva.
+
+Alternativa: descomprimir PalClam_1.1.0_Preview13_FIX2_PARCHE_SOBRE_FIX1.zip
+SOBRE LA CARPETA DE PREVIEW13 FIX1 COMPLETO, sobrescribiendo los archivos.
+No aplicar este parche directamente sobre Preview 13 sin FIX1.
+
+Ejecutar PRUEBAS.bat y confirmar que finalizan los cuatro pasos.
+Si pasan, ejecutar EMPEZAR_AQUI.bat para compilar y generar instalador.
+La compilacion y la ejecucion de WPF/ClamAV solo se pueden validar en Windows.
+Se mantienen version 1.1.0-preview.13 y el mismo AppId de Inno Setup.

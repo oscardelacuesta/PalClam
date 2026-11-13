@@ -1,0 +1,20 @@
+PALCLAM 1.2.0 PREVIEW 1 - PARCHE SOBRE 1.1.0 CIERRE CODIGO COMPLETO
+
+1. Conserva el ZIP original 1.1.0 y su carpeta congelada.
+2. Extrae una COPIA del paquete 1.1.0 en una carpeta nueva para 1.2.0.
+3. Extrae el ZIP PARCHE en la raiz de esa copia, junto a COMPILAR.bat.
+   Acepta reemplazar los archivos incluidos. No hay archivos que eliminar.
+4. No mezcles bin/obj/dist ni instaladores anteriores con esta nueva carpeta.
+5. Ejecuta PRUEBAS.bat con SDK .NET 10 en Windows.
+6. Si pasa, ejecuta CREAR_INSTALADOR.bat y VALIDAR_PAQUETE.bat.
+7. Completa los ensayos de docs/PRUEBAS_1.2.0_PREVIEW1.md con evidencias.
+   REVISAR_ENTREGA.bat seguira bloqueando la entrega mientras falte aceptacion.
+
+Alternativa: usa directamente el ZIP COMPLETO de 1.2.0 Preview 1 en carpeta nueva.
+
+Esta es la primera fase de traduccion, no una traduccion completa ni una
+version estable validada. No incluye EXE compilado, motor ni firmas.
+La publicacion sigue bloqueada. No modificar el acta de 1.1.0 para aceptar 1.2.0.
+
+Consulta docs/MANIFIESTO_PARCHE_1.2.0_PREVIEW1.json para hashes de archivos
+base/modificados y del ZIP de partida. El parche solo corresponde a esa base.

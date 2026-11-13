@@ -1,0 +1,20 @@
+PALCLAM 1.2.0 — FUENTES SIN ETIQUETA RC/PREVIEW
+
+Recomendado: extraer PalClam_1.2.0_COMPLETO.zip en una carpeta independiente.
+El ZIP completo incluye todas las funciones y no requiere parches anteriores.
+
+El parche PalClam_1.2.0_PARCHE_SOBRE_PREVIEW3.zip es únicamente para una
+copia extraída de PalClam_1.2.0_Preview3_COMPLETO.zip.
+SHA256 de la base:
+b66c63ed0681f5e5859c4574e088ea1d221a03dd3ba4c7a38f1368d9ee54462f
+
+1. Conserva intactas la base y tus modificaciones personales.
+2. Extrae el parche en la raíz de una copia de las fuentes Preview 3,
+   sobrescribiendo los archivos y conservando la estructura de carpetas.
+3. En Windows ejecuta PRUEBAS.bat y después CREAR_INSTALADOR.bat.
+4. El resultado debe llamarse PalClam_1.2.0_Setup_win-x64.exe.
+5. Consulta docs/RESULTADOS_1.2.0.md y completa la aceptación real de Windows.
+
+No contiene un instalador precompilado ni borra archivos. Los documentos y
+manifiestos con nombres anteriores son históricos; el vigente es
+MANIFIESTO_1.2.0.json. La configuración del usuario conserva sus rutas.

@@ -1,0 +1,27 @@
+PALCLAM 1.2.2 — CODIGO PROPIO GPLv3 O POSTERIOR
+
+Recomendado: extraer PalClam_1.2.2_GPL3_COMPLETO.zip en una carpeta nueva.
+Ejecutar EMPEZAR_AQUI.bat en Windows, como en versiones anteriores.
+
+El parche PalClam_1.2.2_GPL3_PARCHE_SOBRE_1.2.1.zip se aplica UNICAMENTE
+sobre una copia extraida de PalClam_1.2.1_COMPLETO.zip.
+SHA256 del ZIP base:
+a48b123c5b22e65a65f3b22634f8cc4ad72fd86cc7553ab693095f86a52c0d2e
+
+1. Conserva las fuentes anteriores y tus cambios personales.
+2. Extrae el parche sobre la raiz de una copia de las fuentes 1.2.1,
+   sobrescribiendo archivos y conservando la estructura de carpetas.
+3. Ejecuta EMPEZAR_AQUI.bat. Se generan tres instaladores en
+   dist/installer y dos portables en dist/portable.
+4. Comprueba las salidas reales en Windows segun ACEPTACION_1.2.2.ini.
+
+La licencia propia es GPL-3.0-or-later: texto integro en COPYING y
+LICENSE-GPL-3.0.txt, alcance en COPYRIGHT.md. La app, el servicio,
+los recursos y los scripts propios se actualizan. La licencia se
+incorpora a los ensamblados y acompana instaladores y portables.
+ClamAV conserva GPLv2 como programa externo; sus fuentes, avisos y
+licencias originales se mantienen, igual que los de otras dependencias.
+
+Las publicaciones antiguas GPLv2 y sus permisos no se revocan.
+El parche no borra archivos, no incluye claves privadas y no publica
+actualizaciones. El manifiesto vigente es MANIFIESTO_1.2.2.json.

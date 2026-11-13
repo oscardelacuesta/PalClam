@@ -1,0 +1,6 @@
+MimeKit/4.18.0
+Authors: Jeffrey Stedfast
+Copyright: .NET Foundation and Contributors
+Declared license: MIT
+Distribution choice: MIT
+Original package metadata: mimekit.nuspec

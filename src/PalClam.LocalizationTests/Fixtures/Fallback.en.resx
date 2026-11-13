@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- SPDX-FileCopyrightText: 2026 Oscar de la Cuesta Campillo; SPDX-License-Identifier: GPL-3.0-or-later -->
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms</value>
+  </resheader>
+  <data name="Files.One" xml:space="preserve">
+    <value>{0} file</value>
+  </data>
+  <data name="Files.Other" xml:space="preserve">
+    <value>{0} files</value>
+  </data>
+</root>

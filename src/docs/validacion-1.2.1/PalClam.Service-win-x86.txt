@@ -1,0 +1,4 @@
+  Determining projects to restore...
+  Restored [PROYECTO]/PalClam.Service/PalClam.Service.csproj (in 442 ms).
+  PalClam.Service -> [PROYECTO]/PalClam.Service/bin/Release/net10.0-windows/win-x86/PalClam.Service.dll
+  PalClam.Service -> [PROYECTO]/PalClam.Service/dist/win-x86/

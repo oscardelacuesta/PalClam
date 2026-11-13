@@ -1,0 +1,7 @@
+  PalClam.Service -> [PROYECTO]/PalClam.Service/bin/Release/net10.0-windows/PalClam.Service.dll
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:08.55

@@ -1,0 +1,25 @@
+ClamAV 1.5.4 - archivos oficiales fijados para PalClam 1.2.2
+
+clamscan.exe y freshclam.exe estan incluidos en el paquete portable completo.
+Binario Windows x64 (ZIP):
+  https://github.com/Cisco-Talos/clamav/releases/download/clamav-1.5.4/clamav-1.5.4.win.x64.zip
+  SHA256 0d9e0228b2674137ea1a2853566c98a0278ad52ab2582c3d6dbd75373848c395
+
+Codigo fuente correspondiente (tar.gz):
+  https://www.clamav.net/downloads/production/clamav-1.5.4.tar.gz
+  SHA256 1af1117a228f1b5bc7fa91a0dabc37848a99e7d25188e9be8043332ce721dfd3
+
+Los hashes se comprueban en Tools/PrepararClamAV.ps1 ANTES de
+incorporar los paquetes al instalador.
+Version fijada para reproducibilidad y comprobacion de licencias.
+Actualizar por separado el motor con una nueva version verificada.
+
+# Edicion win-x86 (ClamAV oficial 1.5.4)
+3b54e5f6b0139f65bffe732fed052d38b351374cb86da395c1cf505494154f89  clamav-1.5.4.win.win32.zip
+# Fuentes exactas de las bibliotecas con obligaciones MPL/GPL
+a3663551aa9f55f8e9305f9327776ee6547cbb75dfa3a5dfedf90665f3c06df5  Libraries/OpenMcdf-3.4.0-687fae728616.zip
+4ccd6a4aaea33472a833fa7e8f6747a4cc8ce89a50af0cdfc726420c86f23ca0  Libraries/UTF.Unknown-2.8.0-4654fbf0cdb4.zip
+
+# Licencia del codigo propio, texto integro oficial GNU GPL version 3
+3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986  ../LICENSE-GPL-3.0.txt
+3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986  ../COPYING

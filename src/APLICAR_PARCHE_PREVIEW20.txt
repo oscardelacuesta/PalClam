@@ -1,0 +1,10 @@
+PALCLAM 1.1.0 PREVIEW 20 — PARCHE SOBRE PREVIEW 19
+
+1. Cierra PalClam completamente, incluido el icono de la bandeja.
+2. Extrae el parche sobre la carpeta de fuentes de Preview 19, manteniendo rutas y sobrescribiendo los archivos existentes.
+3. No copies archivos de código sueltos sobre el directorio de instalación: recompila.
+4. Ejecuta PRUEBAS.bat y revisa que termine las cinco etapas.
+5. Solo si todo funciona, ejecuta EMPEZAR_AQUI.bat.
+6. Instala en un equipo de pruebas. Machine Guard y sus firmas online siguen siendo experimentales y voluntarios; la operación administrativa requiere UAC.
+
+Para evitar confusiones con archivos antiguos, se recomienda el ZIP COMPLETO en una carpeta nueva.

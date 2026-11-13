@@ -1,0 +1,1 @@
+[OK] GPLv3: 125 fuentes C#, 6 idiomas, metadatos, instalador y licencias de bibliotecas comprobados. ClamAV conserva GPLv2 como programa externo.

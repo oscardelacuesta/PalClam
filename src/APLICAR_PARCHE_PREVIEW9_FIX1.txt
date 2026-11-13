@@ -1,0 +1,16 @@
+PALCLAM 1.1.0 PREVIEW 9 FIX1 - CORRECCION Y BOTON DE TEMAS
+
+Si ya tienes las FUENTES Preview 9:
+1. Cierra PalClam y haz una copia de tu carpeta de fuentes.
+2. Descomprime el parche SOBRE esa copia, sobrescribiendo los archivos.
+3. Ejecuta PRUEBAS.bat y EMPEZAR_AQUI.bat.
+4. Comprueba que compila y que el selector TEMA DE COLOR aparece en la cabecera.
+5. Prueba los seis temas, Opciones > Apariencia y la barra flotante.
+
+Si no tienes las fuentes Preview 9, usa el ZIP COMPLETO FIX1.
+
+El parche NO es un EXE ni se aplica sobre el directorio de Program Files;
+solo actualiza los fuentes antes de compilar el instalador.
+No elimina ClamAV, las firmas, el historial ni los ajustes de usuario.
+
+La compilacion WPF y las comprobaciones visuales requieren Windows.

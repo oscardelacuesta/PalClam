@@ -1,0 +1,17 @@
+PALCLAM 1.1.0 PREVIEW 14 — GUARD 2.0 + AURORA + ARRANQUE WINDOWS
+
+PARCHE SOLO SOBRE PREVIEW 13 FIX2 COMPLETO.
+1. Haz una copia de seguridad de Preview 13 FIX2.
+2. Descomprime este ZIP sobre la carpeta del proyecto Preview 13 FIX2,
+   conservando rutas relativas y SOBRESCRIBIENDO los archivos modificados.
+3. Ejecuta PRUEBAS.bat en Windows con SDK .NET 10.
+4. Si supera todas las etapas, prueba Aurora (6 temas), tarjeta de estado,
+   Guard, arranque con Windows en bandeja y salida real.
+5. Ejecuta EMPEZAR_AQUI.bat para compilar y generar el instalador.
+
+ALTERNATIVA RECOMENDADA: descomprime el ZIP COMPLETO en carpeta nueva.
+No se ha compilado .NET/WPF en este entorno.
+No distribuir la Preview sin las pruebas manuales en Windows.
+
+El inicio con Windows es opcional y por usuario. Guard solo vigila cambios
+si se activa por separado, y no sustituye Microsoft Defender.

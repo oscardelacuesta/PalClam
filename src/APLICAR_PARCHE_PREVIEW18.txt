@@ -1,0 +1,9 @@
+PalClam 1.1.0 Preview 18 — Parche sobre Preview 17 FIX1
+
+1. Descomprimir el parche en la raíz del proyecto Preview 17 FIX1.
+2. Confirmar sobrescritura de archivos.
+3. Ejecutar PRUEBAS.bat para verificar fuentes, pruebas y compilación de ambos ejecutables.
+4. Probar Centro de notificaciones, filtros, revisión de avisos y exportación.
+5. Solo tras superar las pruebas, generar instalador con EMPEZAR_AQUI.bat.
+
+Se mantiene el AppId de Inno Setup para conservar la continuidad de instalación.

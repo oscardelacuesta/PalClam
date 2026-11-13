@@ -1,0 +1,16 @@
+<Project>
+  <!-- SPDX-FileCopyrightText: 2026 Oscar de la Cuesta Campillo -->
+  <!-- SPDX-License-Identifier: GPL-3.0-or-later -->
+  <PropertyGroup>
+    <PackageLicenseExpression>GPL-3.0-or-later</PackageLicenseExpression>
+    <Copyright>Copyright (C) 2026 Oscar de la Cuesta Campillo</Copyright>
+    <PackageProjectUrl>https://palclam.com/</PackageProjectUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <AssemblyMetadata Include="License" Value="GPL-3.0-or-later" />
+    <AssemblyMetadata Include="LicenseUrl" Value="https://www.gnu.org/licenses/gpl-3.0.html" />
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)LICENSE-GPL-3.0.txt" LogicalName="PalClam.License.GPL3" />
+    <Content Include="$(MSBuildThisFileDirectory)LICENSE-GPL-3.0.txt" Link="LICENSE-GPL-3.0.txt" CopyToOutputDirectory="PreserveNewest" CopyToPublishDirectory="PreserveNewest" />
+    <Content Include="$(MSBuildThisFileDirectory)COPYING" Link="COPYING" CopyToOutputDirectory="PreserveNewest" CopyToPublishDirectory="PreserveNewest" />
+  </ItemGroup>
+</Project>

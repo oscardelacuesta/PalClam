@@ -1,0 +1,12 @@
+PalClam 1.1.0 Preview 11 — Parche sobre Preview 10 completo
+
+1) Haz una copia de la carpeta de fuentes Preview 10.
+2) Descomprime ESTE ZIP en esa carpeta, aceptando sobrescribir.
+3) Ejecuta PRUEBAS.bat en Windows x64 con .NET 10 SDK.
+4) Prueba todos los temas con un analisis activo, y cambia el ancho de ventana y la escala del texto.
+5) Cuando se superen las pruebas, ejecuta EMPEZAR_AQUI.bat para crear el instalador Inno Setup.
+
+NO ES EL INSTALADOR. Este ZIP contiene cambios en código fuente, scripts y documentación.
+Las pruebas de Windows/WPF, el instalador y el escaneo real NO se han ejecutado aquí.
+Para una instalación limpia o si tu copia no es exactamente Preview 10, usa el ZIP completo.
+Consulta CAMBIOS_1.1.0_PREVIEW11.md y docs/PRUEBAS_1.1.0_PREVIEW11.md.

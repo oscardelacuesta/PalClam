@@ -1,0 +1,23 @@
+PALCLAM 1.2.0 PREVIEW 2 - PARCHE SOBRE PREVIEW 1
+
+Base exacta: PalClam_1.2.0_Preview1_MULTILENGUAJE_COMPLETO.zip
+
+1. Conserva el ZIP y la carpeta Preview 1.
+2. Extrae una copia limpia de ese ZIP en una carpeta NUEVA para Preview 2.
+3. Extrae el parche en la raiz de la copia, junto a COMPILAR.bat.
+   Reemplaza los archivos incluidos. No hay archivos que eliminar.
+4. No mezcles bin, obj, dist ni instaladores de una compilacion anterior.
+5. Ejecuta PRUEBAS.bat en Windows con SDK .NET 10.
+6. Revisa docs/PRUEBAS_1.2.0_PREVIEW2.md y el informe de resultados.
+
+Alternativa recomendada: extrae el ZIP COMPLETO Preview 2 en una carpeta nueva.
+
+Idioma: Ajustes > Apariencia > Idioma de la interfaz.
+Automático usa Windows. La eleccion manual guardada prevalece.
+Preview 1 con idioma es guardado conserva esa eleccion; puedes volver a Automático.
+
+La compilacion y las pruebas de recursos no certifican la aceptacion Windows.
+El acta nueva permanece PENDIENTE y la publicacion esta bloqueada.
+No incluye motor, firmas ni instalador terminado.
+
+El manifiesto de docs incluye hashes de archivos base y de Preview 2.

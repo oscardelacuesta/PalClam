@@ -1,0 +1,10 @@
+PalClam 1.1.0 Preview 16 — parche sobre Preview 15 completo
+
+1. Trabaja con una copia de respaldo de tu proyecto Preview 15.
+2. Descomprime el parche sobre esa carpeta, sobrescribiendo los archivos.
+3. Borra bin/obj antiguos si aparecen errores de caché. No borres datos de PalClam instalados.
+4. Ejecuta PRUEBAS.bat. Si alguna fase falla, NO distribuyas el instalador.
+5. Ejecuta EMPEZAR_AQUI.bat y sigue docs/PRUEBAS_1.1.0_PREVIEW16.md.
+6. Si tenías instalado el servicio experimental Preview 15, retíralo desde
+   su sección Guard ANTES de actualizar el instalador; después actívalo
+   voluntariamente con Preview 16 y comprueba las firmas compartidas.

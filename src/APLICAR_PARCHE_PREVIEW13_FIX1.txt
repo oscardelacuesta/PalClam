@@ -1,0 +1,12 @@
+PALCLAM 1.1.0 PREVIEW 13 FIX1 — CÓMO APLICAR
+
+OPCIÓN RECOMENDADA: descomprime el ZIP COMPLETO FIX1 en una carpeta nueva.
+
+PARCHE: extrae este ZIP sobre la carpeta raíz de la Preview 13 original,
+sobrescribiendo los archivos indicados. No lo apliques sobre Preview 12.
+
+Luego ejecuta PRUEBAS.bat. Si todas las etapas pasan, ejecuta
+EMPEZAR_AQUI.bat para generar el instalador.
+
+Esta entrega mantiene version 1.1.0-preview.13 y el AppId original.
+El error corregido estaba en SmokeTests, no en el motor ClamAV.

@@ -1,0 +1,25 @@
+PalClam 1.1.0 Preview 9 FIX3 (11/11/2026)
+=========================================
+
+ESTE ZIP ES CÓDIGO FUENTE. NO ES UN INSTALADOR COMPILADO.
+
+PARCHE (si ya tienes el proyecto COMPLETO Preview 9 FIX2):
+1. Haz copia de tu carpeta del proyecto FIX2.
+2. Descomprime el ZIP del parche sobre FIX2, respetando carpetas y sustituyendo archivos.
+3. Ejecuta PRUEBAS.bat en Windows con SDK .NET 10. NO continúes si falla.
+4. Inicia un análisis de una carpeta de archivos inofensivos, cambia los seis temas
+   desde la cabecera y desde Opciones y confirma que el escaneo sigue activo.
+5. Revisa las seis pestañas de Opciones, los iconos, el foco, el texto al 130 %,
+   el monitor flotante, la pausa, Guard, AI, Mail y la cuarentena.
+6. Solo si pasa las pruebas, ejecuta EMPEZAR_AQUI.bat para crear instalador.
+
+PROYECTO COMPLETO: descomprime directamente el ZIP COMPLETO FIX3.
+
+DIAGNÓSTICO SI SE PRODUCE UN FALLO:
+%LOCALAPPDATA%\PalClam\Diagnostics\fallos.log
+Revisa su contenido antes de compartirlo.
+
+COMPATIBILIDAD: se mantiene la versión 1.1.0-preview.9 y el AppId original de
+Inno Setup. NO se ha compilado ni probado el ejecutable en Windows aquí.
+
+Lee CORRECCION_1.1.0_PREVIEW9_FIX3.md y docs\PRUEBAS_1.1.0_PREVIEW9.md.

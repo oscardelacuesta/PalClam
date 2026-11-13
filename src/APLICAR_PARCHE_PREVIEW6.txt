@@ -1,0 +1,12 @@
+PALCLAM 1.1.0 PREVIEW 6 — PARCHE DASHBOARD PRO
+
+Este parche es solo para los FUENTES de PalClam 1.1.0 Preview 5 FIX1.
+1. Haz una copia de tu carpeta actual (incluye ThirdParty/ClamAV y firmas).
+2. Extrae el ZIP del parche SOBRE ESA COPIA, conservando la estructura de carpetas.
+3. Ejecuta PRUEBAS.bat y despues EMPEZAR_AQUI.bat.
+4. Comprueba manualmente seis temas, texto al 90/100/130 %, escaneo y acciones.
+
+No se incluye un EXE compilado. El instalador se construye en tu Windows.
+No hay pausa/reanudacion real: con clamscan no es segura sin control por trabajos.
+Detener sigue siendo funcional y visible al estar analizando.
+La version es 1.1.0-preview.6, con mismo identificador Inno Setup.

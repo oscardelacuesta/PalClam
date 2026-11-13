@@ -1,0 +1,10 @@
+Aplicar este parche sobre PalClam 1.1.0 Preview 14.
+
+1. Descomprime el parche sobre tu carpeta de Preview 14.
+2. Sobrescribe los archivos cuando Windows lo solicite.
+3. Ejecuta PRUEBAS.bat.
+4. Comprueba visualmente:
+   - que "Repetir análisis" no se corta,
+   - que la aurora se mueve realmente,
+   - que el título PalClam no hace efecto de botón al pasar el ratón.
+5. Si todo es correcto, ejecuta EMPEZAR_AQUI.bat.

@@ -1,0 +1,11 @@
+PALCLAM 1.1.0 PREVIEW 8 - PARCHE SOBRE FUENTES PREVIEW 7
+
+1. HAZ UNA COPIA de la carpeta completa de PalClam Preview 7.
+2. Extrae el contenido del ZIP PARCHE dentro de la RAIZ de la copia Preview 7.
+3. Acepta sobrescribir BAT, fuentes y recursos.
+4. No borres ThirdParty ni sus firmas locales preparadas; se conservan.
+5. Ejecuta PRUEBAS.bat y luego EMPEZAR_AQUI.bat.
+6. La prueba de pausa se hace con una carpeta inocua de >128 archivos.
+
+LIMITACIONES: pausa cooperativa solo entre lotes; no interrumpe un archivo grande.
+La compilacion y la validacion WPF en Windows deben hacerse antes de distribuir.

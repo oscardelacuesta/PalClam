@@ -1,0 +1,2 @@
+[OK] 2064 claves en 6 idiomas, sin duplicados, con cobertura y parametros equivalentes.
+[OK] PalClam 1.2.1, AppId preservado, localización inicial y publicación bloqueada.

@@ -1,0 +1,4 @@
+Scripts del desarrollador. Ejecuta CREAR_INSTALADOR.bat desde la raiz.
+Tools/PrepararClamAV.ps1 descarga paquetes oficiales, valida SHA-256 y
+prepara ClamAV para incluirlo en Inno Setup. Se necesita Internet en
+la primera compilacion. La carpeta cache no se incluye en ZIP de fuentes.

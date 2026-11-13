@@ -1,0 +1,6 @@
+RtfPipe/2.0.7677.4303
+Authors: Eric Domke
+Copyright: 
+Declared license: 
+Distribution choice: MIT
+Original package metadata: rtfpipe.nuspec

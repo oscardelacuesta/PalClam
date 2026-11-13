@@ -1,0 +1,60 @@
+=== PrepararLicencias.ps1 EXIT 0 ===
+[OK] Licencias: 11 paquetes, runtimes reales y fuentes MPL/GPL comprobados.
+
+
+=== PrepararLicencias.ps1 EXIT 0 ===
+[OK] Licencias: 11 paquetes, runtimes reales y fuentes MPL/GPL comprobados.
+
+
+=== PrepararLicencias.ps1 EXIT 1 ===
+[ERROR LICENCIAS] Texto GPLv3 ausente o modificado: LICENSE-GPL-3.0.txt
+
+
+=== PrepararLicencias.ps1 EXIT 1 ===
+[ERROR LICENCIAS] Falta o se ha alterado un aviso legal: /tmp/PCPkg_3fcc7afb92284483/ThirdParty/Licenses/BouncyCastle.Cryptography-2.7.0/LICENSE.md
+
+
+=== PrepararLicencias.ps1 EXIT 1 ===
+[ERROR LICENCIAS] Dependencia sin licencia revisada: Unreviewed.Dependency/99.0.0. Actualiza el inventario y sus avisos antes de distribuir.
+
+
+=== PrepararLicencias.ps1 EXIT 1 ===
+[ERROR LICENCIAS] Falta fuente correspondiente: /tmp/PCPkg_3fcc7afb92284483/ThirdParty/SourcePackages/Libraries/OpenMcdf-3.4.0-687fae728616.zip
+
+
+=== DistributionSource.ps1 EXIT 0 ===
+[OK] Fuentes correspondientes preparadas; no se incluyen claves privadas ni datos del usuario.
+
+
+=== ArchiveConstructor EXIT 1 ===
+[ERROR FUENTES] System.Management.Automation.RuntimeException: PC_TEST_ArchiveConstructor
+at <ScriptBlock>, /tmp/PCPkg_3fcc7afb92284483/faults/ArchiveConstructor.ps1: line 29
+[TEST HANDLE CLOSED]
+=== ManifestWriterConstructor EXIT 1 ===
+[ERROR FUENTES] System.Management.Automation.RuntimeException: PC_TEST_ManifestWriterConstructor
+at <ScriptBlock>, /tmp/PCPkg_3fcc7afb92284483/faults/ManifestWriterConstructor.ps1: line 52
+[TEST HANDLE CLOSED]
+=== ManifestWrite EXIT 1 ===
+[ERROR FUENTES] System.Management.Automation.RuntimeException: PC_TEST_ManifestWrite
+at <ScriptBlock>, /tmp/PCPkg_3fcc7afb92284483/faults/ManifestWrite.ps1: line 53
+[TEST HANDLE CLOSED]
+=== PrepararLicencias.ps1 EXIT 0 ===
+[OK] Licencias: 11 paquetes, runtimes reales y fuentes MPL/GPL comprobados.
+
+
+=== Portable.ps1 EXIT 0 ===
+[OK] Licencias: 11 paquetes, runtimes reales y fuentes MPL/GPL comprobados.
+[OK] Portable creado: /tmp/PCPkg_3fcc7afb92284483/dist/portable/PalClam_1.2.2_Portable_win-x64.zip
+
+
+=== Portable.ps1 EXIT 0 ===
+[OK] Licencias: 11 paquetes, runtimes reales y fuentes MPL/GPL comprobados.
+[OK] Portable creado: /tmp/PCPkg_3fcc7afb92284483/dist/portable/PalClam_1.2.2_Portable_win-x86.zip
+
+
+=== Portable.ps1 EXIT 1 ===
+[OK] Licencias: 11 paquetes, runtimes reales y fuentes MPL/GPL comprobados.
+[ERROR] Arquitectura incorrecta (win-x86): /tmp/PCPkg_3fcc7afb92284483/ThirdParty/ClamAV/win-x86/clamscan.exe
+
+
+Limpieza: True; etapa: Portable.ps1; 

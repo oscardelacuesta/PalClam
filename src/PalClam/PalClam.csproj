@@ -1,0 +1,45 @@
+<!-- SPDX-FileCopyrightText: 2026 Oscar de la Cuesta Campillo; SPDX-License-Identifier: GPL-3.0-or-later -->
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <UseWindowsForms>true</UseWindowsForms>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <AssemblyName>PalClam</AssemblyName>
+    <RootNamespace>PalClam</RootNamespace>
+    <Version>1.2.2</Version>
+    <InformationalVersion>1.2.2</InformationalVersion>
+    <NeutralLanguage>es</NeutralLanguage>
+    <Company>palentino.es</Company>
+    <Product>PalClam</Product>
+    <Description>PalClam 1.2.2 - correo ampliado, LED de disco y monitor anti-ransomware</Description>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+    <ApplicationIcon>Assets\PalClam.ico</ApplicationIcon>
+    <!-- WPF no admite publicacion recortada fiable; mantener intactas sus dependencias. -->
+    <PublishTrimmed>false</PublishTrimmed>
+  </PropertyGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Localization\DisplayMetadata.json" LogicalName="PalClam.Localization.DisplayMetadata.json" />
+    <Resource Include="Assets\PalClam-256.png" />
+    <Resource Include="Assets\Oscar-PalClam.gif" />
+    <EmbeddedResource Include="Assets\PalClam-Tray-Idle.ico" LogicalName="PalClam.Tray.Idle.ico" />
+    <EmbeddedResource Include="Assets\PalClam-Tray-Background.ico" LogicalName="PalClam.Tray.Background.ico" />
+    <EmbeddedResource Include="Assets\PalClam-Tray-Guard.ico" LogicalName="PalClam.Tray.Guard.ico" />
+    <EmbeddedResource Include="Assets\PalClam-Tray-Scanning.ico" LogicalName="PalClam.Tray.Scanning.ico" />
+    <EmbeddedResource Include="Assets\PalClam-Tray-Paused.ico" LogicalName="PalClam.Tray.Paused.ico" />
+    <EmbeddedResource Include="Assets\PalClam-Tray-Alert.ico" LogicalName="PalClam.Tray.Alert.ico" />
+    <EmbeddedResource Include="Assets\PalClam-Tray-Updating.ico" LogicalName="PalClam.Tray.Updating.ico" />
+    <EmbeddedResource Include="Assets\PalClam-Tray-Error.ico" LogicalName="PalClam.Tray.Error.ico" />
+    <EmbeddedResource Include="Resources\update-public.pem" LogicalName="PalClam.Updates.PublicKey" />
+    <Content Include="Updater\ApplyUpdate.ps1" CopyToOutputDirectory="PreserveNewest" CopyToPublishDirectory="PreserveNewest" />
+  </ItemGroup>
+  <!-- Interpretación local de mensajes y autorización delegada de Microsoft Graph. -->
+  <ItemGroup>
+    <PackageReference Include="MimeKit" Version="4.18.0" />
+    <PackageReference Include="System.Security.Cryptography.Pkcs" Version="10.0.14" />
+    <PackageReference Include="MsgReader" Version="6.2.1" />
+    <PackageReference Include="Microsoft.Identity.Client" Version="4.92.0" />
+  </ItemGroup>
+</Project>

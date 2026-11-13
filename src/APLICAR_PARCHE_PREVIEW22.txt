@@ -1,0 +1,9 @@
+PARCHE PALCLAM 1.1.0 PREVIEW22 SOBRE PREVIEW21
+
+1. Conservar copia del ZIP completo Preview 21.
+2. Descomprimir este parche sobre una copia limpia de Preview 21, sobrescribiendo archivos.
+3. Ejecutar PRUEBAS.bat en Windows con SDK .NET 10.
+4. Si pasan las cinco etapas, ejecutar EMPEZAR_AQUI.bat.
+5. Revisar docs/PRUEBAS_1.1.0_PREVIEW22.md.
+
+Incluye fuentes y scripts, no ejecutables compilados.

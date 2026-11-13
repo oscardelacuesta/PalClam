@@ -1,0 +1,4 @@
+  Determining projects to restore...
+  Restored [PROYECTO]/PalClam/PalClam.csproj (in 466 ms).
+  PalClam -> [PROYECTO]/PalClam/bin/Release/net10.0-windows/win-x64/PalClam.dll
+  PalClam -> [PROYECTO]/PalClam/dist/win-x64/

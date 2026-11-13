@@ -1,0 +1,9 @@
+PALCLAM 1.1.0 PREVIEW 14 FIX2
+
+1. Aplicar sobre el PROYECTO COMPLETO PREVIEW 14 FIX1 (no sobre Preview 14 original).
+2. Descomprimir el parche respetando las carpetas y sobrescribiendo archivos.
+3. Ejecutar PRUEBAS.bat; no generar el instalador si una prueba falla.
+4. Si todo compila, ejecutar EMPEZAR_AQUI.bat.
+5. Para iniciar en TODAS LAS CUENTAS, reinstalar seleccionando instalacion para todos los usuarios,
+   situada en Program Files, y activar la modalidad en Opciones -> General.
+6. Guard necesita activacion separada en cada cuenta y no ofrece bloqueo preventivo.

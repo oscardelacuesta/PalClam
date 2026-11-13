@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>OpenMcdf</id>
+    <version>3.4.0</version>
+    <title>OpenMcdf</title>
+    <authors>ironfede,jeremy-visionaid</authors>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <license type="expression">MPL-2.0</license>
+    <licenseUrl>https://licenses.nuget.org/MPL-2.0</licenseUrl>
+    <icon>icon.png</icon>
+    <readme>README.md</readme>
+    <projectUrl>https://openmcdf.github.io/openmcdf/</projectUrl>
+    <description>OpenMcdf is a 100% .NET / C# component that allows developers to manipulate Microsoft Compound Document File Format for OLE structured storage.
+      It supports read/write operations on streams and storages and traversal of directory trees.</description>
+    <copyright>Copyright © 2010-2026, Federico Blaseotto, Jeremy Powell</copyright>
+    <tags>MS-CFB Compound File Binary File Format Structured Storage</tags>
+    <repository type="git" url="https://github.com/openmcdf/openmcdf" commit="687fae7286167035a2a1f2c7ab39720679a187a5" />
+    <dependencies>
+      <group targetFramework="net10.0" />
+      <group targetFramework="net8.0" />
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="Microsoft.Bcl.HashCode" version="6.0.0" exclude="Build,Analyzers" />
+        <dependency id="System.Memory" version="4.6.3" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+</package>

@@ -1,0 +1,2 @@
+[OK ESTÁTICO] 2052 claves × 6 idiomas = 12312 textos; enlaces, formatos, versión, AppId y bloqueo.
+Esta comprobación es estática. Los resultados de .NET y los ensayos Windows se documentan por separado.

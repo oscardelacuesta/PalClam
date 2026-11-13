@@ -1,0 +1,14 @@
+PALCLAM 1.1.0 PREVIEW 13 — PARCHE SOBRE PREVIEW 12
+
+1. Haz copia de seguridad de tu carpeta actual de Preview 12.
+2. Extrae TODO el contenido de este ZIP en la RAIZ de la carpeta Preview 12,
+   sobrescribiendo los archivos existentes cuando Windows lo solicite.
+3. Ejecuta PRUEBAS.bat con el SDK .NET 10 desde Windows.
+4. Si las pruebas finalizan correctamente, comprueba manualmente el Inspector,
+   el escaneo y el cambio de temas durante un análisis real.
+5. Ejecuta EMPEZAR_AQUI.bat para generar el instalador solo cuando las
+   validaciones anteriores hayan terminado.
+
+IMPORTANTE: este ZIP es CODIGO FUENTE. No es un .exe compilado.
+El certificado Authenticode mostrado es INFORMATIVO; la firma no se valida.
+NO desactives Microsoft Defender. No publiques Preview 13 sin probarla.

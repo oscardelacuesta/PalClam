@@ -1,0 +1,6 @@
+PARCHE PALCLAM 1.1.0 PREVIEW 23 SOBRE PREVIEW 22
+
+Requisito: tener la carpeta completa de Preview 22 sin modificaciones locales.
+Descomprimir el ZIP de parche sobre esa carpeta, manteniendo las rutas relativas y reemplazando archivos.
+No combinar con una versión distinta. Recomendado: usar ZIP completo en carpeta nueva.
+Después ejecutar PRUEBAS.bat, y solo si todo pasa ejecutar EMPEZAR_AQUI.bat.

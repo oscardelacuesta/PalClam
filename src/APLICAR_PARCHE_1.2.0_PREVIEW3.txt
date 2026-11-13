@@ -1,0 +1,24 @@
+PALCLAM 1.2.0 PREVIEW 3
+
+RECOMENDADO: usa el ZIP completo PalClam_1.2.0_Preview3_COMPLETO.zip.
+No requiere aplicar parches anteriores.
+
+PARCHE: exclusivamente sobre una copia extraída del ZIP completo
+PalClam_1.2.0_Preview2_MULTILENGUAJE_COMPLETO.zip.
+SHA256 de esa base:
+e47a77270fb7ac0bd7fe0d01459a6ca12929b532a6411abd1545a0f725ca6148
+
+1. Conserva intacta tu base Preview 2 y tus modificaciones personales.
+2. Extrae una copia de la base y después el parche en esa misma raíz.
+3. Sobrescribe los archivos del parche conservando la estructura de carpetas.
+4. Revisa MANIFIESTO_1.2.0_PREVIEW3.json: incluye hashes previos/nuevos.
+   El parche no borra archivos. No incluye bin/obj ni un instalador compilado.
+5. En Windows ejecuta PRUEBAS.bat y después CREAR_INSTALADOR.bat.
+6. Revisa docs/RESULTADOS_1.2.0_PREVIEW3.md y la aceptación pendiente.
+
+La aplicación conserva los ajustes en el perfil de Windows; no copies carpetas
+bin/obj antiguas al ZIP ni lo apliques a una base diferente.
+
+Novedades: LED en Opciones > General; Anti-ransomware en Protección;
+Outlook clásico/Microsoft Graph, MBOX y Maildir en Correo.
+El monitor anti-ransomware es opcional y reactivo, sin bloqueo preventivo.

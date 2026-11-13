@@ -1,0 +1,2068 @@
+[
+  {
+    "Key": "Display.00d42568942f",
+    "Source": "Outlook / Microsoft 365 (Graph)",
+    "Locations": [
+      {
+        "File": "MainWindow.Mail.cs",
+        "Line": 89,
+        "Start": 5086,
+        "Length": 33,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.01d9b8f679a3",
+    "Source": "Lectura de disco",
+    "Locations": [
+      {
+        "File": "Services/DiskLedPolicy.cs",
+        "Line": 76,
+        "Start": 4089,
+        "Length": 18,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.02f7efe0b951",
+    "Source": "PalClam 1.2.0 Preview 3",
+    "Locations": [
+      {
+        "File": "MainWindow.About.cs",
+        "Line": 24,
+        "Start": 965,
+        "Length": 25,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.077e67666214",
+    "Source": "Monitor detenido; no se observan cambios. El inicio automático conserva su preferencia.",
+    "Locations": [
+      {
+        "File": "MainWindow.Ransomware.cs",
+        "Line": 74,
+        "Start": 6184,
+        "Length": 89,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.07ff0d7723f8",
+    "Source": "Quedan copias temporales de correo sin eliminar: {0}",
+    "Locations": [
+      {
+        "File": "MainWindow.Mail.cs",
+        "Line": 322,
+        "Start": 20622,
+        "Length": 74,
+        "Arguments": [
+          "import.DirectoryPath"
+        ]
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.0a5b681411c1",
+    "Source": "Posible ransomware (no confirmado). Archivos: {0} · Renombrados: {1} · Muestras de alta aleatoriedad: {2} · Eliminados: {3} · Ventana: {4} s.",
+    "Locations": [
+      {
+        "File": "Services/RansomwarePolicy.cs",
+        "Line": 37,
+        "Start": 1906,
+        "Length": 182,
+        "Arguments": [
+          "Files",
+          "Renamed",
+          "HighEntropy",
+          "Deleted",
+          "WindowSeconds"
+        ]
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.0c1efdf2e8d1",
+    "Source": "Alerta ante patrones compatibles con cifrado masivo en las carpetas que elijas. Combina archivos distintos, renombrados y muestras locales de contenido. Se inicia manualmente o al abrir PalClam si activas esa opción.",
+    "Locations": [
+      {
+        "File": "MainWindow.Ransomware.cs",
+        "Line": 25,
+        "Start": 1091,
+        "Length": 218,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.0d32bf430da5",
+    "Source": "Se alcanzó el límite de lectura MBOX (1 GB); el análisis es incompleto.",
+    "Locations": [
+      {
+        "File": "Services/LocalMailboxImport.cs",
+        "Line": 138,
+        "Start": 7483,
+        "Length": 73,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.0eaba431cea4",
+    "Source": "Actividad masiva (no confirma ransomware). Archivos: {0} · Renombrados: {1} · Muestras de alta aleatoriedad: {2} · Eliminados: {3} · Ventana: {4} s.",
+    "Locations": [
+      {
+        "File": "Services/RansomwarePolicy.cs",
+        "Line": 38,
+        "Start": 2099,
+        "Length": 189,
+        "Arguments": [
+          "Files",
+          "Renamed",
+          "HighEntropy",
+          "Deleted",
+          "WindowSeconds"
+        ]
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.0f048846eb86",
+    "Source": "Outlook clásico: elegir carpeta abierta",
+    "Locations": [
+      {
+        "File": "MainWindow.Mail.cs",
+        "Line": 60,
+        "Start": 3114,
+        "Length": 41,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.10293fed139b",
+    "Source": "Abre Outlook clásico y su perfil antes de analizar. El nuevo Outlook utiliza Microsoft Graph.",
+    "Locations": [
+      {
+        "File": "Services/OutlookClassicImport.cs",
+        "Line": 40,
+        "Start": 1918,
+        "Length": 95,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.14492a8e7231",
+    "Source": "Un umbral de espacio a 0 desactiva ese criterio. Si se cumplen ambos criterios de aviso, basta uno para mostrar la alerta. Prioridad: detección, poco espacio, análisis, actividad y reposo. Una detección permanece hasta reconocerla.",
+    "Locations": [
+      {
+        "File": "MainWindow.DiskLed.cs",
+        "Line": 209,
+        "Start": 11608,
+        "Length": 233,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.15c87d9f6119",
+    "Source": "Analizar carpeta de Outlook",
+    "Locations": [
+      {
+        "File": "MainWindow.Outlook.cs",
+        "Line": 64,
+        "Start": 3472,
+        "Length": 29,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.181fa854da25",
+    "Source": "Elige MBOX para un buzón local. PST/OST se abren desde la opción Outlook clásico con la carpeta montada.",
+    "Locations": [
+      {
+        "File": "MainWindow.Mail.cs",
+        "Line": 236,
+        "Start": 15245,
+        "Length": 106,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.1e144d3694c3",
+    "Source": "Analiza de forma voluntaria mensajes recientes de la carpeta elegida mediante Microsoft Graph. Funciona con Outlook.com y buzones Microsoft 365 autorizados. No es vigilancia continua ni lee PST/OST.",
+    "Locations": [
+      {
+        "File": "MainWindow.Outlook.cs",
+        "Line": 29,
+        "Start": 1088,
+        "Length": 217,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.1f71984f4d34",
+    "Source": "Posible ransomware: revisar alertas",
+    "Locations": [
+      {
+        "File": "MainWindow.DiskLed.cs",
+        "Line": 110,
+        "Start": 5126,
+        "Length": 37,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.23d4749205ea",
+    "Source": "Mensaje MBOX por encima del límite; no analizado.",
+    "Locations": [
+      {
+        "File": "Services/LocalMailboxImport.cs",
+        "Line": 93,
+        "Start": 4922,
+        "Length": 51,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.24489cdfa4b7",
+    "Source": "No se pudo guardar la alerta anti-ransomware: {0}",
+    "Locations": [
+      {
+        "File": "MainWindow.Ransomware.cs",
+        "Line": 129,
+        "Start": 11538,
+        "Length": 61,
+        "Arguments": [
+          "ex.Message"
+        ]
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.24fe331cd6fd",
+    "Source": "Mensaje por encima del límite de importación; no analizado.",
+    "Locations": [
+      {
+        "File": "Services/LocalMailboxImport.cs",
+        "Line": 200,
+        "Start": 11046,
+        "Length": 61,
+        "Arguments": []
+      },
+      {
+        "File": "Services/OutlookClassicImport.cs",
+        "Line": 63,
+        "Start": 3469,
+        "Length": 61,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.25e5eb6d0bab",
+    "Source": "Alerta pendiente de revisar",
+    "Locations": [
+      {
+        "File": "Services/DiskLedPolicy.cs",
+        "Line": 78,
+        "Start": 4299,
+        "Length": 29,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.272a713380c7",
+    "Source": "Las señales mínimas no pueden superar el número de archivos.",
+    "Locations": [
+      {
+        "File": "MainWindow.Ransomware.cs",
+        "Line": 101,
+        "Start": 9206,
+        "Length": 62,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.2eff276d8156",
+    "Source": "Elemento distinto de un mensaje de correo; no analizado.",
+    "Locations": [
+      {
+        "File": "Services/OutlookClassicImport.cs",
+        "Line": 60,
+        "Start": 3164,
+        "Length": 58,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.2f9eab459fed",
+    "Source": "Configurar monitor anti-ransomware",
+    "Locations": [
+      {
+        "File": "MainWindow.OptionsTabs.cs",
+        "Line": 99,
+        "Start": 5445,
+        "Length": 36,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.304f3981584c",
+    "Source": "Escritura de disco",
+    "Locations": [
+      {
+        "File": "Services/DiskLedPolicy.cs",
+        "Line": 76,
+        "Start": 4133,
+        "Length": 20,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.339ece70bda9",
+    "Source": "Contadores no disponibles: {0}",
+    "Locations": [
+      {
+        "File": "Services/DiskActivitySampler.cs",
+        "Line": 68,
+        "Start": 3151,
+        "Length": 53,
+        "Arguments": [
+          "status.ToString(\"X8\")"
+        ]
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.33f19dd208e4",
+    "Source": "Solo se copiará el máximo configurado; el resto de la carpeta queda sin analizar.",
+    "Locations": [
+      {
+        "File": "Services/OutlookClassicImport.cs",
+        "Line": 49,
+        "Start": 2534,
+        "Length": 83,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.34c2d17b9ed9",
+    "Source": "Monitor desactivado.",
+    "Locations": [
+      {
+        "File": "MainWindow.Ransomware.cs",
+        "Line": 78,
+        "Start": 6461,
+        "Length": 22,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.359d153251c0",
+    "Source": "Carpetas: {0} · Eventos procesados: {1} · Perdidos en cola: {2} · Muestras no disponibles: {3} · VIGILANCIA INCOMPLETA",
+    "Locations": [
+      {
+        "File": "MainWindow.Ransomware.cs",
+        "Line": 152,
+        "Start": 12866,
+        "Length": 190,
+        "Arguments": [
+          "monitor.WatchedFolders",
+          "monitor.Processed",
+          "monitor.Lost",
+          "monitor.SampleFailures"
+        ]
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.3606ead083ce",
+    "Source": "Autorizar lectura de Outlook clásico",
+    "Locations": [
+      {
+        "File": "MainWindow.Mail.cs",
+        "Line": 241,
+        "Start": 16084,
+        "Length": 38,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.395b9dcb7b58",
+    "Source": "Ante una sospecha, comprueba la actividad y aísla el equipo de la red si confirmas que los archivos se están cifrando. Los avisos se guardan localmente con rutas y contadores; no incluyen contenido de los archivos. Reconocer el LED no borra este historial.",
+    "Locations": [
+      {
+        "File": "MainWindow.Ransomware.cs",
+        "Line": 92,
+        "Start": 8114,
+        "Length": 258,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.3a7e7cf1e755",
+    "Source": "Guardar y aplicar LED",
+    "Locations": [
+      {
+        "File": "MainWindow.DiskLed.cs",
+        "Line": 233,
+        "Start": 13507,
+        "Length": 23,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.3f0ce1e5b8c1",
+    "Source": "El mensaje cambió durante la copia.",
+    "Locations": [
+      {
+        "File": "Services/LocalMailboxImport.cs",
+        "Line": 213,
+        "Start": 11962,
+        "Length": 37,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.3fd59d8ad6eb",
+    "Source": "Copia vacía o por encima del límite de mensaje o de temporales (512 MB); no analizada.",
+    "Locations": [
+      {
+        "File": "Services/LocalMailboxImport.cs",
+        "Line": 31,
+        "Start": 1544,
+        "Length": 88,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.41559d1ef0f1",
+    "Source": "Muestrear contenido local para buscar señales de cifrado",
+    "Locations": [
+      {
+        "File": "MainWindow.Ransomware.cs",
+        "Line": 56,
+        "Start": 4419,
+        "Length": 58,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.4171a4065c5d",
+    "Source": "Pulsación suave durante la actividad",
+    "Locations": [
+      {
+        "File": "MainWindow.DiskLed.cs",
+        "Line": 183,
+        "Start": 9786,
+        "Length": 38,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.4a0986201ea0",
+    "Source": "Analiza mensajes exportados, buzones MBOX, Maildir y una carpeta elegida en Outlook clásico. Para el nuevo Outlook y Microsoft 365 utiliza la conexión Microsoft Graph.",
+    "Locations": [
+      {
+        "File": "MainWindow.Mail.cs",
+        "Line": 46,
+        "Start": 1669,
+        "Length": 169,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.4a5fbca38252",
+    "Source": "Archivos distintos mínimos",
+    "Locations": [
+      {
+        "File": "MainWindow.Ransomware.cs",
+        "Line": 67,
+        "Start": 5343,
+        "Length": 28,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.4adce0d31143",
+    "Source": "Los contadores aún no ofrecen una muestra válida.",
+    "Locations": [
+      {
+        "File": "Services/DiskActivitySampler.cs",
+        "Line": 40,
+        "Start": 1586,
+        "Length": 51,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.4e402a6f4302",
+    "Source": "Elige carpetas de datos de un disco local fijo, no la raíz de una unidad.",
+    "Locations": [
+      {
+        "File": "Services/RansomwareMonitor.cs",
+        "Line": 42,
+        "Start": 2352,
+        "Length": 75,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.4f5d5de8d6ac",
+    "Source": "PalClam 1.2.0 Preview 3 · Guard 2.0",
+    "Locations": [
+      {
+        "File": "MainWindow.cs",
+        "Line": 207,
+        "Start": 9432,
+        "Length": 37,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.55b005a2b0fc",
+    "Source": "Revisa los valores: actividad 0–1048576, porcentaje 0–50, GB 0–10000 y colores #RRGGBB.",
+    "Locations": [
+      {
+        "File": "MainWindow.DiskLed.cs",
+        "Line": 239,
+        "Start": 13938,
+        "Length": 89,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.55ffc179ca88",
+    "Source": "Buzón importado",
+    "Locations": [
+      {
+        "File": "Services/LocalMailboxImport.cs",
+        "Line": 36,
+        "Start": 1926,
+        "Length": 17,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.578714331f08",
+    "Source": "Punto de reanálisis omitido.",
+    "Locations": [
+      {
+        "File": "Services/RansomwareMonitor.cs",
+        "Line": 130,
+        "Start": 8176,
+        "Length": 30,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.590777e83408",
+    "Source": "Origen del correo",
+    "Locations": [
+      {
+        "File": "MainWindow.Mail.cs",
+        "Line": 59,
+        "Start": 2893,
+        "Length": 19,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.599507e37486",
+    "Source": "Se accederá a Outlook clásico que ya esté abierto para que elijas una carpeta. Se guardarán copias temporales de hasta el máximo configurado, sin cambiar los originales. Outlook puede solicitar permisos o descargar contenido. ¿Continuar?",
+    "Locations": [
+      {
+        "File": "MainWindow.Mail.cs",
+        "Line": 240,
+        "Start": 15831,
+        "Length": 239,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.5dfdc12157c9",
+    "Source": "Correo no deseado",
+    "Locations": [
+      {
+        "File": "MainWindow.Outlook.cs",
+        "Line": 68,
+        "Start": 3925,
+        "Length": 19,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.60417682d1af",
+    "Source": "El buzón no contiene mensajes reconocibles.",
+    "Locations": [
+      {
+        "File": "Services/LocalMailboxImport.cs",
+        "Line": 132,
+        "Start": 7194,
+        "Length": 45,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.67aea13ddf33",
+    "Source": "Guardar opciones",
+    "Locations": [
+      {
+        "File": "MainWindow.Ransomware.cs",
+        "Line": 76,
+        "Start": 6330,
+        "Length": 18,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.6bc0e4cc050a",
+    "Source": "Outlook no permitió copiar el mensaje: {0}",
+    "Locations": [
+      {
+        "File": "Services/OutlookClassicImport.cs",
+        "Line": 73,
+        "Start": 4297,
+        "Length": 54,
+        "Arguments": [
+          "ex.Message"
+        ]
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.6bdaaba000ca",
+    "Source": "Un segundo icono muestra la actividad real de lectura y escritura. El aviso de espacio se refiere al volumen elegido. Windows puede guardar el icono en el menú de iconos ocultos.",
+    "Locations": [
+      {
+        "File": "MainWindow.DiskLed.cs",
+        "Line": 173,
+        "Start": 8965,
+        "Length": 180,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.70154c5a049e",
+    "Source": "LED de disco en la bandeja",
+    "Locations": [
+      {
+        "File": "MainWindow.DiskLed.cs",
+        "Line": 172,
+        "Start": 8850,
+        "Length": 28,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.75106276f88c",
+    "Source": "Ventana de observación (s)",
+    "Locations": [
+      {
+        "File": "MainWindow.Ransomware.cs",
+        "Line": 66,
+        "Start": 5229,
+        "Length": 28,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.76210e86a1d4",
+    "Source": "Outlook clásico requiere Windows.",
+    "Locations": [
+      {
+        "File": "Services/OutlookClassicImport.cs",
+        "Line": 11,
+        "Start": 381,
+        "Length": 35,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.765b9bd1c18e",
+    "Source": "Carpeta de Outlook no admitida.",
+    "Locations": [
+      {
+        "File": "Services/OutlookGraphClient.cs",
+        "Line": 73,
+        "Start": 3467,
+        "Length": 33,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.772b34d8f30b",
+    "Source": "Actividad masiva: revisa las alertas de comportamiento.",
+    "Locations": [
+      {
+        "File": "MainWindow.Ransomware.cs",
+        "Line": 126,
+        "Start": 11044,
+        "Length": 57,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.7ab425e0771b",
+    "Source": "Guardar e iniciar monitor",
+    "Locations": [
+      {
+        "File": "MainWindow.Ransomware.cs",
+        "Line": 71,
+        "Start": 5968,
+        "Length": 27,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.7c1ad36f3f66",
+    "Source": "Procesados {0} de {1} mensajes de la carpeta seleccionada. Revisa los resultados; no constituye protección preventiva.",
+    "Locations": [
+      {
+        "File": "MainWindow.Outlook.cs",
+        "Line": 187,
+        "Start": 11344,
+        "Length": 155,
+        "Arguments": [
+          "n",
+          "messages.Count"
+        ]
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.81275da90038",
+    "Source": "No se encontraron las carpetas cur/new de Maildir.",
+    "Locations": [
+      {
+        "File": "Services/LocalMailboxImport.cs",
+        "Line": 187,
+        "Start": 10308,
+        "Length": 52,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.812c2b3b33b7",
+    "Source": "Lectura:",
+    "Locations": [
+      {
+        "File": "MainWindow.DiskLed.cs",
+        "Line": 116,
+        "Start": 5626,
+        "Length": 10,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.8417938df16b",
+    "Source": "Actividad masiva",
+    "Locations": [
+      {
+        "File": "Services/RansomwarePolicy.cs",
+        "Line": 35,
+        "Start": 1828,
+        "Length": 18,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.852ca498395d",
+    "Source": "Límite de importación alcanzado; quedan mensajes sin analizar.",
+    "Locations": [
+      {
+        "File": "Services/LocalMailboxImport.cs",
+        "Line": 111,
+        "Start": 5974,
+        "Length": 64,
+        "Arguments": []
+      },
+      {
+        "File": "Services/LocalMailboxImport.cs",
+        "Line": 168,
+        "Start": 9129,
+        "Length": 64,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.87e07c53701e",
+    "Source": "Cola de eventos llena; puede haber cambios sin observar.",
+    "Locations": [
+      {
+        "File": "Services/RansomwareMonitor.cs",
+        "Line": 70,
+        "Start": 4283,
+        "Length": 58,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.896ae45bd0dd",
+    "Source": "Avisar por debajo de (GB)",
+    "Locations": [
+      {
+        "File": "MainWindow.DiskLed.cs",
+        "Line": 208,
+        "Start": 11532,
+        "Length": 27,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.89eafe01e3ed",
+    "Source": "Posible ransomware (no confirmado)",
+    "Locations": [
+      {
+        "File": "Services/SecurityNoticeFeed.cs",
+        "Line": 161,
+        "Start": 7151,
+        "Length": 36,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.8b6cd1888566",
+    "Source": "Actividad de disco no disponible",
+    "Locations": [
+      {
+        "File": "Services/DiskLedPolicy.cs",
+        "Line": 79,
+        "Start": 4413,
+        "Length": 34,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.8c8b2336e70a",
+    "Source": "El muestreo lee hasta 64 KB por archivo y 20 archivos por segundo. Se buscan datos muy aleatorios en formatos de texto y nombres compatibles con cifrado. Los documentos ya comprimidos y el cifrado lento o parcial pueden pasar inadvertidos. No se envía contenido a Internet.",
+    "Locations": [
+      {
+        "File": "MainWindow.Ransomware.cs",
+        "Line": 69,
+        "Start": 5559,
+        "Length": 275,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.8f5cc2473f13",
+    "Source": "Iniciar este monitor al abrir PalClam",
+    "Locations": [
+      {
+        "File": "MainWindow.Ransomware.cs",
+        "Line": 55,
+        "Start": 4322,
+        "Length": 39,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.90e39d2da4fe",
+    "Source": "No se reconoce un buzón MBOX con separadores From válidos. Exporta a EML si el formato es diferente.",
+    "Locations": [
+      {
+        "File": "Services/LocalMailboxImport.cs",
+        "Line": 117,
+        "Start": 6467,
+        "Length": 102,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.9149b20ed00a",
+    "Source": "Elige el buzón en Mail o ImapMail del perfil de Thunderbird",
+    "Locations": [
+      {
+        "File": "MainWindow.Mail.cs",
+        "Line": 85,
+        "Start": 4716,
+        "Length": 61,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.9182b54fe849",
+    "Source": "Anti-ransomware",
+    "Locations": [
+      {
+        "File": "Services/SecurityNoticeFeed.cs",
+        "Line": 26,
+        "Start": 896,
+        "Length": 17,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.91a45629641c",
+    "Source": "El monitor dejó de procesar eventos: {0}",
+    "Locations": [
+      {
+        "File": "Services/RansomwareMonitor.cs",
+        "Line": 110,
+        "Start": 6839,
+        "Length": 52,
+        "Arguments": [
+          "ex.Message"
+        ]
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.941df3809e9e",
+    "Source": "Selecciona un mensaje o un buzón existente.",
+    "Locations": [
+      {
+        "File": "MainWindow.Mail.cs",
+        "Line": 234,
+        "Start": 14967,
+        "Length": 45,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.97453aa6012d",
+    "Source": "Actividad del volumen seleccionado",
+    "Locations": [
+      {
+        "File": "MainWindow.DiskLed.cs",
+        "Line": 115,
+        "Start": 5505,
+        "Length": 36,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.97bd8bc24e10",
+    "Source": "Añadir carpeta",
+    "Locations": [
+      {
+        "File": "MainWindow.Ransomware.cs",
+        "Line": 36,
+        "Start": 2735,
+        "Length": 16,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.9886d700663a",
+    "Source": "No se pudo consultar PDH: {0}",
+    "Locations": [
+      {
+        "File": "Services/DiskActivitySampler.cs",
+        "Line": 43,
+        "Start": 1754,
+        "Length": 52,
+        "Arguments": [
+          "status.ToString(\"X8\")"
+        ]
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.9ef0b6f1594d",
+    "Source": "Mostrar análisis antivirus y detecciones en el LED",
+    "Locations": [
+      {
+        "File": "MainWindow.DiskLed.cs",
+        "Line": 181,
+        "Start": 9601,
+        "Length": 52,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.a267039c7000",
+    "Source": "Carpeta Maildir (cur / new)",
+    "Locations": [
+      {
+        "File": "MainWindow.Mail.cs",
+        "Line": 60,
+        "Start": 3083,
+        "Length": 29,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.a28758cfce69",
+    "Source": "Historial local · Guard personal, USB Watch, anti-ransomware y servicio Windows",
+    "Locations": [
+      {
+        "File": "MainWindow.SecurityCenter.cs",
+        "Line": 38,
+        "Start": 1670,
+        "Length": 81,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.a50cc1ccb577",
+    "Source": "Monitor detenido.",
+    "Locations": [
+      {
+        "File": "MainWindow.Ransomware.cs",
+        "Line": 151,
+        "Start": 12811,
+        "Length": 19,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.a5a87ec7d080",
+    "Source": "Posible ransomware: revisa las alertas de comportamiento.",
+    "Locations": [
+      {
+        "File": "MainWindow.Ransomware.cs",
+        "Line": 126,
+        "Start": 10982,
+        "Length": 59,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.ab3a4e05fcd4",
+    "Source": "No hay carpetas operativas; el monitor no está vigilando.",
+    "Locations": [
+      {
+        "File": "MainWindow.Ransomware.cs",
+        "Line": 143,
+        "Start": 12389,
+        "Length": 59,
+        "Arguments": []
+      },
+      {
+        "File": "Services/RansomwareMonitor.cs",
+        "Line": 63,
+        "Start": 3861,
+        "Length": 59,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.ad2aef3e533a",
+    "Source": "Añadir Documentos y Escritorio",
+    "Locations": [
+      {
+        "File": "MainWindow.Ransomware.cs",
+        "Line": 42,
+        "Start": 3195,
+        "Length": 32,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.3a2148c6d890",
+    "Source": "Fuentes: Guard personal, USB Watch, anti-ransomware y servicio compartido, incluidos sus registros rotados. Se muestran hasta 400 eventos recientes. {0}No elimina, analiza ni pone archivos en cuarentena.",
+    "Locations": [
+      {
+        "File": "MainWindow.SecurityCenter.cs",
+        "Line": 166,
+        "Start": 9072,
+        "Length": 639,
+        "Arguments": [
+          "(result.Limited ? \"Lectura parcial por límite de tamaño o cantidad. \" : \"\")",
+          "(result.UnreadableFiles > 0 ?\n                        $\"Registros inaccesibles: {result.UnreadableFiles}. \" : \"\")",
+          "(result.InvalidEntries > 0 ?\n                        $\"Líneas inválidas: {result.InvalidEntries}. \" : \"\")"
+        ]
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.ade031a47da9",
+    "Source": "Opciones guardadas. Inicia o reinicia el monitor para aplicarlas.",
+    "Locations": [
+      {
+        "File": "MainWindow.Ransomware.cs",
+        "Line": 109,
+        "Start": 9845,
+        "Length": 67,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.aef883613c9a",
+    "Source": "Configurar LED de disco",
+    "Locations": [
+      {
+        "File": "MainWindow.DiskLed.cs",
+        "Line": 51,
+        "Start": 2398,
+        "Length": 25,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.b0580433543b",
+    "Source": "Anti-ransomware · Monitor de cifrado",
+    "Locations": [
+      {
+        "File": "MainWindow.Ransomware.cs",
+        "Line": 24,
+        "Start": 967,
+        "Length": 38,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.b39049b10de2",
+    "Source": "Carpetas: {0} · Eventos procesados: {1} · Perdidos en cola: {2} · Muestras no disponibles: {3}",
+    "Locations": [
+      {
+        "File": "MainWindow.Ransomware.cs",
+        "Line": 153,
+        "Start": 13071,
+        "Length": 166,
+        "Arguments": [
+          "monitor.WatchedFolders",
+          "monitor.Processed",
+          "monitor.Lost",
+          "monitor.SampleFailures"
+        ]
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.b3c0ce74a73c",
+    "Source": "Una ruta por línea. Elige Documentos, Escritorio u otras carpetas locales concretas; evita la raíz del disco y carpetas de Windows. Funciona mientras PalClam esté abierto, también en la bandeja.",
+    "Locations": [
+      {
+        "File": "MainWindow.Ransomware.cs",
+        "Line": 31,
+        "Start": 2059,
+        "Length": 196,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.b3c6c9057e3d",
+    "Source": "No se pudo guardar la configuración: {0}",
+    "Locations": [
+      {
+        "File": "MainWindow.Ransomware.cs",
+        "Line": 111,
+        "Start": 10115,
+        "Length": 52,
+        "Arguments": [
+          "ex.Message"
+        ]
+      },
+      {
+        "File": "MainWindow.DiskLed.cs",
+        "Line": 254,
+        "Start": 15077,
+        "Length": 52,
+        "Arguments": [
+          "ex.Message"
+        ]
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.b48dca0e8dcc",
+    "Source": "No se atraviesan enlaces simbólicos ni puntos de reanálisis.",
+    "Locations": [
+      {
+        "File": "Services/LocalMailboxImport.cs",
+        "Line": 60,
+        "Start": 3100,
+        "Length": 62,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.b578f1796eca",
+    "Source": "Se alcanzó el límite de carpetas Maildir.",
+    "Locations": [
+      {
+        "File": "Services/LocalMailboxImport.cs",
+        "Line": 156,
+        "Start": 8444,
+        "Length": 43,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.b7debf15aa82",
+    "Source": "El buzón cambió durante la copia; repite con el cliente de correo cerrado.",
+    "Locations": [
+      {
+        "File": "Services/LocalMailboxImport.cs",
+        "Line": 143,
+        "Start": 7775,
+        "Length": 76,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.bb2066339216",
+    "Source": "Actividad mínima (KB/s)",
+    "Locations": [
+      {
+        "File": "MainWindow.DiskLed.cs",
+        "Line": 206,
+        "Start": 11373,
+        "Length": 25,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.bc75edd8922b",
+    "Source": "Mostrar LED de disco",
+    "Locations": [
+      {
+        "File": "MainWindow.DiskLed.cs",
+        "Line": 179,
+        "Start": 9423,
+        "Length": 22,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.bdc0d0be296c",
+    "Source": "Análisis local y acceso de solo lectura",
+    "Locations": [
+      {
+        "File": "MainWindow.Mail.cs",
+        "Line": 50,
+        "Start": 2046,
+        "Length": 41,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.be33393578d7",
+    "Source": "No se pudo leer la carpeta Maildir: {0}",
+    "Locations": [
+      {
+        "File": "Services/LocalMailboxImport.cs",
+        "Line": 185,
+        "Start": 10182,
+        "Length": 51,
+        "Arguments": [
+          "ex.Message"
+        ]
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.c06b3589c270",
+    "Source": "Preferencias del LED guardadas y aplicadas.",
+    "Locations": [
+      {
+        "File": "MainWindow.DiskLed.cs",
+        "Line": 251,
+        "Start": 14842,
+        "Length": 45,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.c08b05500231",
+    "Source": "Actividad de todos los discos físicos",
+    "Locations": [
+      {
+        "File": "MainWindow.DiskLed.cs",
+        "Line": 115,
+        "Start": 5463,
+        "Length": 39,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.c2a855af31ae",
+    "Source": "Medir la actividad conjunta de todos los discos físicos",
+    "Locations": [
+      {
+        "File": "MainWindow.DiskLed.cs",
+        "Line": 180,
+        "Start": 9487,
+        "Length": 57,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.c3508db3d1ae",
+    "Source": "Señales mínimas de cifrado",
+    "Locations": [
+      {
+        "File": "MainWindow.Ransomware.cs",
+        "Line": 68,
+        "Start": 5457,
+        "Length": 28,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.c3a44575d62a",
+    "Source": "Avisar también de cambios o eliminaciones masivos",
+    "Locations": [
+      {
+        "File": "MainWindow.Ransomware.cs",
+        "Line": 57,
+        "Start": 4533,
+        "Length": 51,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.c5d39777824c",
+    "Source": "Restablecer colores",
+    "Locations": [
+      {
+        "File": "MainWindow.DiskLed.cs",
+        "Line": 229,
+        "Start": 13306,
+        "Length": 21,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.cb0b19540df6",
+    "Source": "Usa rutas absolutas y un máximo de 32 carpetas y 32 exclusiones.",
+    "Locations": [
+      {
+        "File": "MainWindow.Ransomware.cs",
+        "Line": 99,
+        "Start": 8907,
+        "Length": 66,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.cb73cafd54e4",
+    "Source": "Se han perdido eventos o una carpeta dejó de estar disponible. Reinicia el monitor tras revisar las rutas.",
+    "Locations": [
+      {
+        "File": "Services/RansomwareMonitor.cs",
+        "Line": 55,
+        "Start": 3316,
+        "Length": 108,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.ccd25f870139",
+    "Source": "Avisar de poco espacio libre",
+    "Locations": [
+      {
+        "File": "MainWindow.DiskLed.cs",
+        "Line": 182,
+        "Start": 9707,
+        "Length": 30,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.cd02c48dff01",
+    "Source": "Alertas de comportamiento",
+    "Locations": [
+      {
+        "File": "MainWindow.Ransomware.cs",
+        "Line": 81,
+        "Start": 6895,
+        "Length": 27,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.cf1fe4993418",
+    "Source": "Análisis antivirus en curso",
+    "Locations": [
+      {
+        "File": "Services/DiskLedPolicy.cs",
+        "Line": 77,
+        "Start": 4237,
+        "Length": 29,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.cfbdd497918e",
+    "Source": "La copia supera el límite configurado.",
+    "Locations": [
+      {
+        "File": "Services/LocalMailboxImport.cs",
+        "Line": 208,
+        "Start": 11693,
+        "Length": 40,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.d31f5cd45316",
+    "Source": "Carpetas excluidas (una por línea)",
+    "Locations": [
+      {
+        "File": "MainWindow.Ransomware.cs",
+        "Line": 49,
+        "Start": 3707,
+        "Length": 36,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.d4a71f8d1676",
+    "Source": "Ver historial de notificaciones",
+    "Locations": [
+      {
+        "File": "MainWindow.Ransomware.cs",
+        "Line": 91,
+        "Start": 8005,
+        "Length": 33,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.d6100365770c",
+    "Source": "No se pudieron borrar las copias temporales: {0}",
+    "Locations": [
+      {
+        "File": "MainWindow.Mail.cs",
+        "Line": 321,
+        "Start": 20498,
+        "Length": 70,
+        "Arguments": [
+          "import.DirectoryPath"
+        ]
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.db378456e3b0",
+    "Source": "Carpetas de datos que quieres vigilar",
+    "Locations": [
+      {
+        "File": "MainWindow.Ransomware.cs",
+        "Line": 30,
+        "Start": 1960,
+        "Length": 39,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.db48e24dfa46",
+    "Source": "POSIBLE RANSOMWARE",
+    "Locations": [
+      {
+        "File": "Services/RansomwarePolicy.cs",
+        "Line": 35,
+        "Start": 1805,
+        "Length": 20,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.de0cf713b631",
+    "Source": "Avisar por debajo de (%)",
+    "Locations": [
+      {
+        "File": "MainWindow.DiskLed.cs",
+        "Line": 207,
+        "Start": 11457,
+        "Length": 26,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.de8ad919f505",
+    "Source": "Detener monitor",
+    "Locations": [
+      {
+        "File": "MainWindow.Ransomware.cs",
+        "Line": 72,
+        "Start": 6083,
+        "Length": 17,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.e01e70285565",
+    "Source": "Localizar correo de Thunderbird",
+    "Locations": [
+      {
+        "File": "MainWindow.Mail.cs",
+        "Line": 82,
+        "Start": 4469,
+        "Length": 33,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.e03c29c87215",
+    "Source": "MBOX requiere un archivo y Maildir una carpeta.",
+    "Locations": [
+      {
+        "File": "MainWindow.Mail.cs",
+        "Line": 238,
+        "Start": 15614,
+        "Length": 49,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.e216b6b91a5b",
+    "Source": "Correo y buzones (*.eml;*.msg;*.oft;*.mbox;*.mbx)|*.eml;*.msg;*.oft;*.mbox;*.mbx|Todos los archivos, incluidos MBOX sin extensión (*.*)|*.*",
+    "Locations": [
+      {
+        "File": "MainWindow.Mail.cs",
+        "Line": 70,
+        "Start": 3734,
+        "Length": 141,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.e2ae63471000",
+    "Source": "El monitor ya se ha iniciado.",
+    "Locations": [
+      {
+        "File": "Services/RansomwareMonitor.cs",
+        "Line": 31,
+        "Start": 1696,
+        "Length": 31,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.e66bf91c9427",
+    "Source": "Enlace de carpeta omitido; no analizado.",
+    "Locations": [
+      {
+        "File": "Services/LocalMailboxImport.cs",
+        "Line": 179,
+        "Start": 9768,
+        "Length": 42,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.e88f0214ab53",
+    "Source": "Se analizan copias temporales sin modificar los correos originales ni abrir enlaces. Outlook clásico debe estar abierto; su proveedor puede descargar mensajes al copiarlos. Graph requiere autorización y conexión a Microsoft. No se analizan archivos PST/OST directamente: selecciona la carpeta montada en Outlook clásico.",
+    "Locations": [
+      {
+        "File": "MainWindow.Mail.cs",
+        "Line": 51,
+        "Start": 2185,
+        "Length": 322,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.e8da9e7567f8",
+    "Source": "Elegir carpeta para el monitor anti-ransomware",
+    "Locations": [
+      {
+        "File": "MainWindow.Ransomware.cs",
+        "Line": 38,
+        "Start": 2852,
+        "Length": 48,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.ea3a8883edd7",
+    "Source": "Copiando mensajes para el análisis local...",
+    "Locations": [
+      {
+        "File": "MainWindow.Mail.cs",
+        "Line": 299,
+        "Start": 19081,
+        "Length": 45,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.ea5e4bcd091e",
+    "Source": "Espacio libre:",
+    "Locations": [
+      {
+        "File": "MainWindow.DiskLed.cs",
+        "Line": 120,
+        "Start": 6001,
+        "Length": 16,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.eb182f9f2a4e",
+    "Source": "Es una sospecha de comportamiento, no una detección confirmada ni un bloqueo preventivo. Puede avisar después de que se hayan dañado archivos. No detecta el cifrado de volumen de BitLocker, no descifra datos y no sustituye copias de seguridad. Las sincronizaciones, compresiones y cambios legítimos también pueden generar avisos.",
+    "Locations": [
+      {
+        "File": "MainWindow.Ransomware.cs",
+        "Line": 27,
+        "Start": 1437,
+        "Length": 331,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.ec4b2d346790",
+    "Source": "MBOX: selecciona el archivo del buzón, también sin extensión; no un índice .msf. Maildir: selecciona su carpeta raíz; se leen cur/new y se omite tmp. Cierra el cliente durante la copia. Importación limitada a 512 MB temporales y 1 GB de lectura por MBOX. Outlook clásico permite cancelar entre mensajes, después de cerrar su selector de carpetas.",
+    "Locations": [
+      {
+        "File": "MainWindow.Mail.cs",
+        "Line": 150,
+        "Start": 9503,
+        "Length": 348,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.ed22b0d56411",
+    "Source": "Carpeta sin vigilancia: {0} · {1}",
+    "Locations": [
+      {
+        "File": "Services/RansomwareMonitor.cs",
+        "Line": 60,
+        "Start": 3709,
+        "Length": 53,
+        "Arguments": [
+          "raw",
+          "ex.Message"
+        ]
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.eda8dcd4519b",
+    "Source": "PalClam 1.2.0 Preview 3 iniciado. Guard es una vigilancia opcional de cambios, no bloqueo preventivo; no sustituye Defender.",
+    "Locations": [
+      {
+        "File": "MainWindow.cs",
+        "Line": 272,
+        "Start": 12129,
+        "Length": 126,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.ef78c33a4bda",
+    "Source": "Escritura:",
+    "Locations": [
+      {
+        "File": "MainWindow.DiskLed.cs",
+        "Line": 118,
+        "Start": 5812,
+        "Length": 12,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.efa40af096cf",
+    "Source": "Límite de temporales alcanzado; quedan mensajes sin analizar.",
+    "Locations": [
+      {
+        "File": "Services/OutlookClassicImport.cs",
+        "Line": 69,
+        "Start": 4001,
+        "Length": 63,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.f5b889e02544",
+    "Source": "Bandeja de entrada",
+    "Locations": [
+      {
+        "File": "MainWindow.Outlook.cs",
+        "Line": 68,
+        "Start": 3891,
+        "Length": 20,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.f6e1aaf5f9f4",
+    "Source": "Ruta de archivo MBOX, mensaje exportado o carpeta Maildir",
+    "Locations": [
+      {
+        "File": "MainWindow.Mail.cs",
+        "Line": 63,
+        "Start": 3302,
+        "Length": 59,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.fa7ecc667537",
+    "Source": "La carpeta de Outlook cambió durante la copia; el resultado es incompleto.",
+    "Locations": [
+      {
+        "File": "Services/OutlookClassicImport.cs",
+        "Line": 77,
+        "Start": 4525,
+        "Length": 76,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.fc4062634aa4",
+    "Source": "Mensaje no importado: {0}",
+    "Locations": [
+      {
+        "File": "Services/LocalMailboxImport.cs",
+        "Line": 217,
+        "Start": 12256,
+        "Length": 37,
+        "Arguments": [
+          "ex.Message"
+        ]
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.fd73bdb5c7ed",
+    "Source": "Límite de profundidad Maildir.",
+    "Locations": [
+      {
+        "File": "Services/LocalMailboxImport.cs",
+        "Line": 180,
+        "Start": 9917,
+        "Length": 32,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.fdde6c97bbaa",
+    "Source": "Monitor activo en las carpetas disponibles. No bloquea escrituras.",
+    "Locations": [
+      {
+        "File": "MainWindow.Ransomware.cs",
+        "Line": 143,
+        "Start": 12318,
+        "Length": 68,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.ffca41b602ff",
+    "Source": "Buzón MBOX (Thunderbird y otros)",
+    "Locations": [
+      {
+        "File": "MainWindow.Mail.cs",
+        "Line": 60,
+        "Start": 3047,
+        "Length": 34,
+        "Arguments": []
+      }
+    ],
+    "Labels": []
+  },
+  {
+    "Key": "Display.1bab6122093b",
+    "Source": "Disco en reposo",
+    "Locations": [],
+    "Labels": []
+  },
+  {
+    "Key": "Display.82b4f7d28c89",
+    "Source": "Lectura y escritura",
+    "Locations": [],
+    "Labels": []
+  },
+  {
+    "Key": "Display.ddeb6a90f022",
+    "Source": "Poco espacio libre",
+    "Locations": [],
+    "Labels": []
+  },
+  {
+    "Key": "Display.b98a4e3700a7",
+    "Source": "Intervalo (ms)",
+    "Locations": [],
+    "Labels": []
+  },
+  {
+    "Key": "Display.c229ae0f7c27",
+    "Source": "Enviados",
+    "Locations": [],
+    "Labels": []
+  },
+  {
+    "Key": "Display.9b7da456a008",
+    "Source": "Borradores",
+    "Locations": [],
+    "Labels": []
+  },
+  {
+    "Key": "Display.de5bd1456f09",
+    "Source": "PalClam · Anti-ransomware",
+    "Locations": [],
+    "Labels": []
+  },
+  {
+    "Key": "Display.c5c5134bb972",
+    "Source": "Correo y buzones (*.eml;*.msg;*.oft;*.mbox;*.mbx)",
+    "Locations": [],
+    "Labels": []
+  },
+  {
+    "Key": "Display.94425b4b6869",
+    "Source": "Todos los archivos, incluidos MBOX sin extensión (*.*)",
+    "Locations": [],
+    "Labels": []
+  },
+  {
+    "Key": "Display.b206fca40c34",
+    "Source": "Mensajes exportados (EML / MSG / OFT)",
+    "Locations": [],
+    "Labels": []
+  },
+  {
+    "Key": "Display.f7cb50ad21ef",
+    "Source": "Volumen (auto = Windows)",
+    "Locations": [],
+    "Labels": []
+  }
+]

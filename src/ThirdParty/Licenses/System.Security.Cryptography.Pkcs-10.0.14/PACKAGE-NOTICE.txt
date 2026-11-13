@@ -1,0 +1,6 @@
+System.Security.Cryptography.Pkcs/10.0.14
+Authors: Microsoft
+Copyright: © Microsoft Corporation. All rights reserved.
+Declared license: MIT
+Distribution choice: MIT
+Original package metadata: system.security.cryptography.pkcs.nuspec

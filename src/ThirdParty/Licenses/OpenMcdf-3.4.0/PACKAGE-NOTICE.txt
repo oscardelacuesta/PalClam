@@ -1,0 +1,6 @@
+OpenMcdf/3.4.0
+Authors: ironfede,jeremy-visionaid
+Copyright: Copyright © 2010-2026, Federico Blaseotto, Jeremy Powell
+Declared license: MPL-2.0
+Distribution choice: MPL-2.0; additionally GPL-3.0-or-later under MPL section 3.3 as part of the PalClam GPL larger work
+Original package metadata: openmcdf.nuspec

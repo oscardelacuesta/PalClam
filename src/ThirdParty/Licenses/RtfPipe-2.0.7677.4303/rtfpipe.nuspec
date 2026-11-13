@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>RtfPipe</id>
+    <version>2.0.7677.4303</version>
+    <authors>Eric Domke</authors>
+    <owners>Eric Domke</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <projectUrl>https://github.com/erdomke/RtfPipe</projectUrl>
+    <description>RtfPipe is a .NET library for parsing Rich Text Format (RTF) streams and converting them to HTML</description>
+    <tags>html,rtf,rich text</tags>
+    <repository type="git" url="git://github.com/erdomke/RtfPipe" />
+    <dependencies>
+      <group targetFramework=".NETFramework4.0" />
+      <group targetFramework=".NETFramework4.5" />
+      <group targetFramework=".NETStandard2.0" />
+    </dependencies>
+  </metadata>
+</package>

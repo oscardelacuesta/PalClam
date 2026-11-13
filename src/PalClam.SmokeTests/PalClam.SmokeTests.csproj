@@ -1,0 +1,57 @@
+<!-- SPDX-FileCopyrightText: 2026 Oscar de la Cuesta Campillo; SPDX-License-Identifier: GPL-3.0-or-later -->
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+    <DefineConstants>$(DefineConstants);PALCLAM_SMOKETEST</DefineConstants>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="..\PalClam\Services\DistributionPolicy.cs" Link="DistributionPolicy.cs" />
+    <Compile Include="..\PalClam\Localization\TextCatalog.cs" Link="TextCatalog.cs" />
+    <Compile Include="..\PalClam\Services\AppearanceCatalog.cs" Link="AppearanceCatalog.cs" />
+    <Compile Include="..\PalClam\Services\AuroraMotionProfiles.cs" Link="AuroraMotionProfiles.cs" />
+    <Compile Include="..\PalClam\Services\DashboardLayoutPolicy.cs" Link="DashboardLayoutPolicy.cs" />
+    <Compile Include="..\PalClam\Services\DashboardOverviewPolicy.cs" Link="DashboardOverviewPolicy.cs" />
+    <Compile Include="..\PalClam\Services\DashboardOverviewReader.cs" Link="DashboardOverviewReader.cs" />
+    <Compile Include="..\PalClam\Services\StartupLaunchPolicy.cs" Link="StartupLaunchPolicy.cs" />
+    <Compile Include="..\PalClam\Services\MachineServiceSnapshot.cs" Link="MachineServiceSnapshot.cs" />
+    <Compile Include="..\PalClam\Services\SignatureHealthService.cs" Link="SignatureHealthService.cs" />
+    <Compile Include="..\PalClam\Services\SignatureCenterInventory.cs" Link="SignatureCenterInventory.cs" />
+    <Compile Include="..\PalClam\Services\MailFinding.cs" Link="MailFinding.cs" />
+    <Compile Include="..\PalClam\Services\MailTriageService.cs" Link="MailTriageService.cs" />
+    <Compile Include="..\PalClam\Services\SecurityAdviceCatalog.cs" Link="SecurityAdviceCatalog.cs" />
+    <Compile Include="..\PalClam\Services\HelpContentCatalog.cs" Link="HelpContentCatalog.cs" />
+    <Compile Include="..\PalClam\Services\AiProviderCatalog.cs" Link="AiProviderCatalog.cs" />
+    <Compile Include="..\PalClam\Services\AiGateway.cs" Link="AiGateway.cs" />
+    <Compile Include="..\PalClam\Services\AiSecurityAnalyst.cs" Link="AiSecurityAnalyst.cs" />
+    <Compile Include="..\PalClam\Services\ScanOutputParser.cs" Link="ScanOutputParser.cs" />
+    <Compile Include="..\PalClam\Services\FileInspectorService.cs" Link="FileInspectorService.cs" />
+    <Compile Include="..\PalClam\Services\GuardTuning.cs" Link="GuardTuning.cs" />
+    <Compile Include="..\PalClam\Services\GuardNoticeGate.cs" Link="GuardNoticeGate.cs" />
+    <Compile Include="..\PalClam\Services\MachineGuardNoticePolicy.cs" Link="MachineGuardNoticePolicy.cs" />
+    <Compile Include="..\PalClam\Services\RansomwarePolicy.cs" Link="RansomwarePolicy.cs" />
+    <Compile Include="..\PalClam\Services\RansomwareAudit.cs" Link="RansomwareAudit.cs" />
+    <Compile Include="..\PalClam\Services\SecurityNoticeFeed.cs" Link="SecurityNoticeFeed.cs" />
+    <Compile Include="..\PalClam\Services\ProcessRunner.cs" Link="ProcessRunner.cs" />
+    <Compile Include="..\PalClam\Services\ControlledScanRunner.cs" Link="ControlledScanRunner.cs" />
+    <Compile Include="..\PalClam\Services\ScanProgressPolicy.cs" Link="ScanProgressPolicy.cs" />
+    <Compile Include="..\PalClam\Services\ScanPerformanceMath.cs" Link="ScanPerformanceMath.cs" />
+    <Compile Include="..\PalClam\Services\ScanPerformanceSeries.cs" Link="ScanPerformanceSeries.cs" />
+    <Compile Include="..\PalClam\Services\ScanComparisonService.cs" Link="ScanComparisonService.cs" />
+    <Compile Include="..\PalClam\Infrastructure\ScanHistory.cs" Link="ScanHistory.cs" />
+    <Compile Include="..\PalClam\Services\ScanVerdictPolicy.cs" Link="ScanVerdictPolicy.cs" />
+    <Compile Include="..\PalClam\Services\ScanExclusions.cs" Link="ScanExclusions.cs" />
+    <Compile Include="..\PalClam\Services\ScanFileEstimator.cs" Link="ScanFileEstimator.cs" />
+    <Compile Include="..\PalClam\Services\SmartScanPlanPolicy.cs" Link="SmartScanPlanPolicy.cs" />
+    <Compile Include="..\PalClam\Services\QuarantineStore.cs" Link="QuarantineStore.cs" />
+    <Compile Include="..\PalClam\Services\QuarantineReviewPolicy.cs" Link="QuarantineReviewPolicy.cs" />
+    <Compile Include="..\PalClam\Services\RemediationAuditLog.cs" Link="RemediationAuditLog.cs" />
+    <Compile Include="..\PalClam\Services\AppUpdateService.cs" Link="AppUpdateService.cs" />
+    <Compile Include="..\PalClam\Services\ProtectionHealthPolicy.cs" Link="ProtectionHealthPolicy.cs" />
+    <Compile Include="..\PalClam\Services\RemovableDriveMonitor.cs" Link="RemovableDriveMonitor.cs" />
+    <Compile Include="..\PalClam\Services\DeviceWatchAudit.cs" Link="DeviceWatchAudit.cs" />
+  </ItemGroup>
+</Project>

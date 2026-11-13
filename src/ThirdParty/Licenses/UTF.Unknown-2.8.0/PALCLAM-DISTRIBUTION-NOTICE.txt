@@ -1,0 +1,5 @@
+UTF.Unknown 2.8.0 is distributed with unmodified corresponding source.
+Upstream offers MPL-1.1 / GPL-2.0-or-later / LGPL-2.1-or-later.
+For PalClam 1.2.2, version 3 of the GPL alternative is selected.
+All original notices and license alternatives remain unchanged.
+See GPL-3.0.txt and the corresponding source ZIP in Source/Libraries.

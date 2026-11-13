@@ -1,0 +1,9 @@
+PalClam 1.1.0 Preview 17 FIX1 — parche sobre Preview 17
+
+1. Haz copia de la carpeta Preview 17.
+2. Descomprime este ZIP sobre esa carpeta y acepta sobrescribir Tools\VerificarFuentes.ps1 y README.md.
+3. Ejecuta PRUEBAS.bat.
+4. Si las cinco etapas terminan correctamente, ejecuta EMPEZAR_AQUI.bat para generar el instalador.
+5. Si aparece algún error nuevo, conserva el registro íntegro para diagnosticarlo.
+
+También puedes usar el proyecto completo FIX1 en una carpeta nueva.

@@ -1,0 +1,2119 @@
+{
+    "Version":  "1.2.2",
+    "License":  "GPL-3.0-or-later",
+    "BatWrappersIncluded":  false,
+    "Files":  [
+                  {
+                      "File":  "APLICAR_PARCHE_1.2.0.txt",
+                      "Sha256":  "09ecbbe179a35f7f2b3474f0d5803d1875d87858f2d6b77d8c1aa91dad06ae38"
+                  },
+                  {
+                      "File":  "APLICAR_PARCHE_1.2.0_PREVIEW1.txt",
+                      "Sha256":  "cb89ebc0e679c440e1cec947e9bb3b39f1215a648cd9ee468ce7d17289ff3d92"
+                  },
+                  {
+                      "File":  "APLICAR_PARCHE_1.2.0_PREVIEW2.txt",
+                      "Sha256":  "2c710d439b0d9511afc424931ed23366479ee68af96e08566e6059a7e042db22"
+                  },
+                  {
+                      "File":  "APLICAR_PARCHE_1.2.0_PREVIEW3.txt",
+                      "Sha256":  "86da75f586397537e849243d76a3037d8ca0e89b0dd4efc8322bec11e66c16f3"
+                  },
+                  {
+                      "File":  "APLICAR_PARCHE_1.2.1.txt",
+                      "Sha256":  "27a3cd0e88d47826786053047a1a9ec094a9caf5c1cfa0497e7b2d3816a9bb53"
+                  },
+                  {
+                      "File":  "APLICAR_PARCHE_1.2.2.txt",
+                      "Sha256":  "fce8561d0475ddb1e558664a5d8976659f8324f564777830b34523c67a01d1e0"
+                  },
+                  {
+                      "File":  "APLICAR_PARCHE_1.2.2_FIX1.txt",
+                      "Sha256":  "8d04db59b6ba16642dc4e802f8aee05d230739a1435930a19200b61665232277"
+                  },
+                  {
+                      "File":  "APLICAR_PARCHE_1.2.2_FIX2.txt",
+                      "Sha256":  "9365c86f9a311c9a48343ed24d792fe9c48cc0de087426d83340e54f99f41bf6"
+                  },
+                  {
+                      "File":  "APLICAR_PARCHE_1.2.2_FIX3.txt",
+                      "Sha256":  "4fbc75f25a242d819e0ed2bfd94e22fc0a1e686571278c0588114523e67eb461"
+                  },
+                  {
+                      "File":  "APLICAR_PARCHE_1.2.2_FIX4.txt",
+                      "Sha256":  "e03f982032842da28e16668659b3d64c9d723a541f9c5abbf367ced08a883945"
+                  },
+                  {
+                      "File":  "APLICAR_PARCHE_PREVIEW10.txt",
+                      "Sha256":  "9027a4a44e96e419b544828c778eb9bddba6e156ae3f7de08a752168a6995694"
+                  },
+                  {
+                      "File":  "APLICAR_PARCHE_PREVIEW11.txt",
+                      "Sha256":  "1187f716425ef8d9ea82b129be6f6288d4e26c86a32b2606b794b0f5b304ce26"
+                  },
+                  {
+                      "File":  "APLICAR_PARCHE_PREVIEW12.txt",
+                      "Sha256":  "0de49b6c37983c94d91b1447245be454337ced2904fc71de0cbec8ddca71dc99"
+                  },
+                  {
+                      "File":  "APLICAR_PARCHE_PREVIEW13.txt",
+                      "Sha256":  "633b92084b2365bf6c68fddfb3586f5410ea5c7927559b08e94b2e9618411ad1"
+                  },
+                  {
+                      "File":  "APLICAR_PARCHE_PREVIEW13_FIX1.txt",
+                      "Sha256":  "4626b6e11cf3c9678a7d41cf9667326878057731c78d1d3a4dc93fd0ed2ae009"
+                  },
+                  {
+                      "File":  "APLICAR_PARCHE_PREVIEW13_FIX2.txt",
+                      "Sha256":  "2982b357e1586ee6f2cb7bd48e2b83c89343443cec75588f147abc2334b2b97f"
+                  },
+                  {
+                      "File":  "APLICAR_PARCHE_PREVIEW14.txt",
+                      "Sha256":  "6f4a81d6e16c00f2e4e601e01f6a42cbb97757d7eb6aff4af97eeee51e9f2079"
+                  },
+                  {
+                      "File":  "APLICAR_PARCHE_PREVIEW14_FIX1.txt",
+                      "Sha256":  "977a1a80f39e7c0c6e421296df71a8a977514946008c2002f4cab2d1bf3314bb"
+                  },
+                  {
+                      "File":  "APLICAR_PARCHE_PREVIEW14_FIX2.txt",
+                      "Sha256":  "fa189a7193783a8d3a66a65b8d6db0e2838db61174611abc60813aea05a3c00a"
+                  },
+                  {
+                      "File":  "APLICAR_PARCHE_PREVIEW14_FIX3.txt",
+                      "Sha256":  "b743918dba9509066a1b6d6e98f6947d3fe425fe3cdc193ada06ef2ed6140541"
+                  },
+                  {
+                      "File":  "APLICAR_PARCHE_PREVIEW16.txt",
+                      "Sha256":  "eeb34ca9338e7cb583b06a17bf55e206e2109872b58d0bb1eade47f7d0e7fa30"
+                  },
+                  {
+                      "File":  "APLICAR_PARCHE_PREVIEW17.txt",
+                      "Sha256":  "ce2d0230d81274e856c11feef6591b20b56d8097492723b7f2d95aa1e1e5a4df"
+                  },
+                  {
+                      "File":  "APLICAR_PARCHE_PREVIEW17_FIX1.txt",
+                      "Sha256":  "5c19efaeedc516a2a4b16778938ebf022a98578eac50d6af675f6fe2081bc202"
+                  },
+                  {
+                      "File":  "APLICAR_PARCHE_PREVIEW18.txt",
+                      "Sha256":  "1708865fe037634be34a31994120d5ae7ed0bb0a000fd8fd3e4d772d8604e999"
+                  },
+                  {
+                      "File":  "APLICAR_PARCHE_PREVIEW20.txt",
+                      "Sha256":  "b1d6500992a4f88e03086c72582a133f6969f0f89af3d964ca97c3b0805f52a4"
+                  },
+                  {
+                      "File":  "APLICAR_PARCHE_PREVIEW21.txt",
+                      "Sha256":  "09622db7742180c4f91913968fe5698adc9ae55171aa614c875794d362e29ca5"
+                  },
+                  {
+                      "File":  "APLICAR_PARCHE_PREVIEW22.txt",
+                      "Sha256":  "83e0031d382a7e84128c845f98ea0d25d77972b59207f16709b528e06d0dce7e"
+                  },
+                  {
+                      "File":  "APLICAR_PARCHE_PREVIEW23.txt",
+                      "Sha256":  "1daf3f4e5b33f70f70724278a11410a3ceaccbd926ad40cc0a16de9258860a57"
+                  },
+                  {
+                      "File":  "APLICAR_PARCHE_PREVIEW24.txt",
+                      "Sha256":  "3cd5db164cff60c00ac6cfb90e13df15729cfa0e7d27854ae6e16ebe5f77967f"
+                  },
+                  {
+                      "File":  "APLICAR_PARCHE_PREVIEW25.txt",
+                      "Sha256":  "8f0e386bc9c3377544ae8362b0d05fea2d1b54acc524960f06c17c4da1460cdd"
+                  },
+                  {
+                      "File":  "APLICAR_PARCHE_PREVIEW6.txt",
+                      "Sha256":  "d8a9d621682f8ad8d0f3d2b6d626788fb585c73b18994ffd71fbf563f7eed90f"
+                  },
+                  {
+                      "File":  "APLICAR_PARche_PREVIEW7.txt",
+                      "Sha256":  "9dc1582455be349cf373dbf53d51216f3a0bbff1fc3213372a3615c62b58ca6c"
+                  },
+                  {
+                      "File":  "APLICAR_PARCHE_PREVIEW9.txt",
+                      "Sha256":  "53b6434595c9997f9ebcae2d89d54b4d87998b9aef832222d9cdf39b28f0d1a3"
+                  },
+                  {
+                      "File":  "APLICAR_PARCHE_PREVIEW9_FIX1.txt",
+                      "Sha256":  "a05f252c100eaa6e5a25b248c3dd55f830a1008eb0674bfe6eb19122d8ebc94e"
+                  },
+                  {
+                      "File":  "APLICAR_PARCHE_PREVIEW9_FIX3.txt",
+                      "Sha256":  "e0b462091a372b6f992b457fc1d0a409dd81c49883e161253a0ab6eab1866896"
+                  },
+                  {
+                      "File":  "BUILD_FROM_SOURCE.md",
+                      "Sha256":  "96011d3e3ad3402c8e5cb3ba2c0d7140c4f30277416fd51997f345bd2b57b46c"
+                  },
+                  {
+                      "File":  "CAMBIOS_0.10.0.md",
+                      "Sha256":  "50bea969579f4e2d9d74699d88327f35293745af7cb02f2ca3ec45194458eed0"
+                  },
+                  {
+                      "File":  "CAMBIOS_0.6.0.md",
+                      "Sha256":  "b72fe39d7cb508c7140e02a7567f3b6e46f3dfc5c60e2a01107a70e61984ece0"
+                  },
+                  {
+                      "File":  "CAMBIOS_0.7.0.md",
+                      "Sha256":  "d59b772ba9ebbc9ce45d2bc94a85c144e75980231c27e8c9cbfe02f9c80183b8"
+                  },
+                  {
+                      "File":  "CAMBIOS_0.8.0.md",
+                      "Sha256":  "bad677e5b36982b5a0341b27f55ccee8622f9de86f46952dda995b7976dfb21f"
+                  },
+                  {
+                      "File":  "CAMBIOS_0.9.0.md",
+                      "Sha256":  "fd1d58ea9fd9ccc8c0ac8d916796ec323ff48682f8ba4a57ba48aa9382a47e15"
+                  },
+                  {
+                      "File":  "CAMBIOS_1.0.0.md",
+                      "Sha256":  "b31fa5223384fe240c9fd2cab54b4b7773c9f04833881dbfc1b5fbfcbc2a51f8"
+                  },
+                  {
+                      "File":  "CAMBIOS_1.0.0_RC1.md",
+                      "Sha256":  "f45f68c9b68ffdb5c403f66caa60bd17c2cf142a7335a4009bc5629046478cf2"
+                  },
+                  {
+                      "File":  "CAMBIOS_1.0.0_RC2.md",
+                      "Sha256":  "bdbccbc0e668e37222897481086becb0cb697ad51b18399ec97ae6c2dd63cd48"
+                  },
+                  {
+                      "File":  "CAMBIOS_1.0.0_RC3.md",
+                      "Sha256":  "9f2b23d2ecad08a39c88b4e6b0b344a7d6cc996e36b7dedf622ed3ca87c6bd73"
+                  },
+                  {
+                      "File":  "CAMBIOS_1.0.0_RC4.md",
+                      "Sha256":  "761f6d0702b6022b79af83e4b8469464ab69e0be8929e8e64d8170b1e93389f4"
+                  },
+                  {
+                      "File":  "CAMBIOS_1.0.0_RC5.md",
+                      "Sha256":  "24845aec0fb8e7629ed56b85e4e2ac85b50229e5a90b2f4355469cb51c55693e"
+                  },
+                  {
+                      "File":  "CAMBIOS_1.0.0_RC6.md",
+                      "Sha256":  "b6d68fc49569b7d2b168b7dbc1388a69e1a9bd6459a1d9c651174669e49bea4e"
+                  },
+                  {
+                      "File":  "CAMBIOS_1.0.0_RC7.md",
+                      "Sha256":  "7ed1be9d0cb3d2ec031a43d94b899248daf91b79cc26c9ad94f0d6bc7ab3c6b9"
+                  },
+                  {
+                      "File":  "CAMBIOS_1.0.0_RC8.md",
+                      "Sha256":  "c0ea926dea7ee7366b6240cb3c35a6e73d95c35594e757440806979b395652c4"
+                  },
+                  {
+                      "File":  "CAMBIOS_1.1.0_FINAL.md",
+                      "Sha256":  "61e7e1fd29dfd7ab5e032996f970af9e2ef87a96a8f6ca29b42f97e160f222e8"
+                  },
+                  {
+                      "File":  "CAMBIOS_1.1.0_PREVIEW1.md",
+                      "Sha256":  "05f58b8f40978cee60bdb5330106ba2e28ff993e01f5c94335b0236e99a7c47a"
+                  },
+                  {
+                      "File":  "CAMBIOS_1.1.0_PREVIEW10.md",
+                      "Sha256":  "cefee14a5273bf69f2c34b6cdef26a0544a717fb64f27076c49bd59b75b73658"
+                  },
+                  {
+                      "File":  "CAMBIOS_1.1.0_PREVIEW11.md",
+                      "Sha256":  "7ca5ad5a764f9caca7ca6a7731b5a69dbc27e9253de41a92fedeede42272468f"
+                  },
+                  {
+                      "File":  "CAMBIOS_1.1.0_PREVIEW12.md",
+                      "Sha256":  "0e9f815c3dd3c5c977cb4e53b0707ec258ffd204d7e61f19fff12c4950b812b4"
+                  },
+                  {
+                      "File":  "CAMBIOS_1.1.0_PREVIEW13.md",
+                      "Sha256":  "c3888364737db235b230e244de6467b06753727a7ed54c25de4e277f01d9f80b"
+                  },
+                  {
+                      "File":  "CAMBIOS_1.1.0_PREVIEW14.md",
+                      "Sha256":  "2795d171c9e8feb7c5cbbe5ba2d492a41d769b295ba8668f9d50d1c90076909c"
+                  },
+                  {
+                      "File":  "CAMBIOS_1.1.0_PREVIEW15.md",
+                      "Sha256":  "db6bae3594858c0fc579b7bb67141196624757f5eb9ee01341b7be154da026d6"
+                  },
+                  {
+                      "File":  "CAMBIOS_1.1.0_PREVIEW16.md",
+                      "Sha256":  "e8ba5bf0bf07fea4346ecd59293c7bb8fa13cb906f21c5de97695768fa635e01"
+                  },
+                  {
+                      "File":  "CAMBIOS_1.1.0_PREVIEW17.md",
+                      "Sha256":  "71f9506832c1d318fed316068fecec686cb02461bcda4d16c19c90f6f9f55f34"
+                  },
+                  {
+                      "File":  "CAMBIOS_1.1.0_PREVIEW18.md",
+                      "Sha256":  "03faf18443b871193465a65e5572f91930ba67c4c80383f5707a245b7b513f97"
+                  },
+                  {
+                      "File":  "CAMBIOS_1.1.0_PREVIEW19.md",
+                      "Sha256":  "0105af7648575a937f8d2d5a806734866ffc6a84157b7993849f45535984e4e1"
+                  },
+                  {
+                      "File":  "CAMBIOS_1.1.0_PREVIEW2.md",
+                      "Sha256":  "a3f885322230376e5c26bda0f7da805456d872de61eb6cba6995978f21db7947"
+                  },
+                  {
+                      "File":  "CAMBIOS_1.1.0_PREVIEW20.md",
+                      "Sha256":  "864a04aa1f9056e87baa9e6d57e4d9dc87311f54489125661d07c7477d8d05ba"
+                  },
+                  {
+                      "File":  "CAMBIOS_1.1.0_PREVIEW21.md",
+                      "Sha256":  "f57e33378f1f8d9397ce2267c746fe831238f2c228250f2720c0f29380c58b5d"
+                  },
+                  {
+                      "File":  "CAMBIOS_1.1.0_PREVIEW22.md",
+                      "Sha256":  "d58861e9f5e41b8f165ea74cad86fb3150af2cca234a147bf4073494c90e37a0"
+                  },
+                  {
+                      "File":  "CAMBIOS_1.1.0_PREVIEW23.md",
+                      "Sha256":  "f41bbbaecb5050eef02dbfc5776cb201f582e98df373fcbdde5cde1951cca046"
+                  },
+                  {
+                      "File":  "CAMBIOS_1.1.0_PREVIEW24.md",
+                      "Sha256":  "725de9ed16ff98ee9d5562f90b5214e8d71e7205a413182784b70de630a39066"
+                  },
+                  {
+                      "File":  "CAMBIOS_1.1.0_PREVIEW25.md",
+                      "Sha256":  "ab3a27b7db8ba7bcc46c2d448bb0704023827a7f7c7f8b8a015c39485cf8349e"
+                  },
+                  {
+                      "File":  "CAMBIOS_1.1.0_PREVIEW3.md",
+                      "Sha256":  "110ddaab27146b30a87fb5a73b39e168b9e10f0095cbcb2e08dc7dd4c5b7fb32"
+                  },
+                  {
+                      "File":  "CAMBIOS_1.1.0_PREVIEW4.md",
+                      "Sha256":  "d1c657e012019817d154e32f30341e4eca8b112141cac9554ee07e5fbca63b68"
+                  },
+                  {
+                      "File":  "CAMBIOS_1.1.0_PREVIEW5.md",
+                      "Sha256":  "99e03f4738f0f3b86c4c6df174bced98cc22eff9631451f196476c9e326c3818"
+                  },
+                  {
+                      "File":  "CAMBIOS_1.1.0_PREVIEW6.md",
+                      "Sha256":  "ac5aa9ab3d98c5091df3e64ed4533a3789c06bceed1fa0a1fb012c73135eb57d"
+                  },
+                  {
+                      "File":  "CAMBIOS_1.1.0_PREVIEW7.md",
+                      "Sha256":  "51bfdacc4c8ac7724ad85a93df602fd4b5cdac87b4ec6e4c1bb57f7ef80c1e61"
+                  },
+                  {
+                      "File":  "CAMBIOS_1.1.0_PREVIEW8.md",
+                      "Sha256":  "ebb8cc99e97da6a415b94bced0572022c1fa894d03771c4c1663f8121749da0c"
+                  },
+                  {
+                      "File":  "CAMBIOS_1.1.0_PREVIEW9.md",
+                      "Sha256":  "5c266a3364b47ba89daac082cdd40a8d517714ec1e8ae279717d7517d4717a6f"
+                  },
+                  {
+                      "File":  "CAMBIOS_1.1.0_RC1.md",
+                      "Sha256":  "8c056d9482ee683b2214b9ff79af33673f966260a6b9cc220c395ab2e606082d"
+                  },
+                  {
+                      "File":  "CAMBIOS_1.1.0_RC1_CIERRE_VISUAL.md",
+                      "Sha256":  "ca2e1abc2e395583b050f9232bb72cba354da8c4b83bc49ddd9fdd460a18e4e3"
+                  },
+                  {
+                      "File":  "CAMBIOS_1.2.0.md",
+                      "Sha256":  "b05f72866cbd115c6aa227baee972d50b3ebb651f80a31e1f2642a8d5b1dd11c"
+                  },
+                  {
+                      "File":  "CAMBIOS_1.2.0_PREVIEW1.md",
+                      "Sha256":  "b5343f778214d3baa7ea837c5cc51466c2d4ccbfe6b8db35e96f9bf0645d48e6"
+                  },
+                  {
+                      "File":  "CAMBIOS_1.2.0_PREVIEW2.md",
+                      "Sha256":  "7690b6eafd150bc282dd13da806facef0db835ae8112f96d6be0b5d2de5cba20"
+                  },
+                  {
+                      "File":  "CAMBIOS_1.2.0_PREVIEW3.md",
+                      "Sha256":  "71de8f7ac95406aa10dc4bb400de70a66155c5a68ff370197dba6997f8db31ba"
+                  },
+                  {
+                      "File":  "CAMBIOS_1.2.1.md",
+                      "Sha256":  "aee733819e4c4de11e2e1b79de154b3f9623c69792a2e4da832d33ec5f1c7c54"
+                  },
+                  {
+                      "File":  "CAMBIOS_1.2.2.md",
+                      "Sha256":  "d132f3876b00dc18366026b548cf880a19116af3853ab0128759a40cecc6ee8b"
+                  },
+                  {
+                      "File":  "COPYING",
+                      "Sha256":  "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+                  },
+                  {
+                      "File":  "COPYRIGHT.md",
+                      "Sha256":  "9a72efb8a4bbc6da001fb27a89d112fdaf7f009b9e0b32f9f5b36d656316c07f"
+                  },
+                  {
+                      "File":  "CORRECCION_1.1.0_PREVIEW13_FIX1.md",
+                      "Sha256":  "58333ec17d7a42ad5387ea513fde6092da83b41d82c93874ccbd2018d49d13c7"
+                  },
+                  {
+                      "File":  "CORRECCION_1.1.0_PREVIEW13_FIX2.md",
+                      "Sha256":  "db587a3b21dc40d8efa4f2185800d56db4b3125d278db192679db0c84120aed8"
+                  },
+                  {
+                      "File":  "CORRECCION_1.1.0_PREVIEW14_FIX1.md",
+                      "Sha256":  "0bfd2c89fe3db5fb682b1fa746494671fbf617765d3ef258bc959dd02853cf44"
+                  },
+                  {
+                      "File":  "CORRECCION_1.1.0_PREVIEW14_FIX2.md",
+                      "Sha256":  "1bf76a438ee5a535414903450c1b563444b35ff700b723cbc581576af3c74845"
+                  },
+                  {
+                      "File":  "CORRECCION_1.1.0_PREVIEW14_FIX3.md",
+                      "Sha256":  "d426d296aa13cd056a9611084b2cc10165d9ae828ecf20e657ab726f7dc81e0b"
+                  },
+                  {
+                      "File":  "CORRECCION_1.1.0_PREVIEW17_FIX1.md",
+                      "Sha256":  "11dd906a95da7f2a9b61b94a4c299aea9496dc6e28f2b17533d32840d1cd3573"
+                  },
+                  {
+                      "File":  "CORRECCION_1.1.0_PREVIEW2_FIX1.md",
+                      "Sha256":  "a67e93426cf80a83cb3e51366d1b035d594b184895d112be1ef89b40bbb4c4bb"
+                  },
+                  {
+                      "File":  "CORRECCION_1.1.0_PREVIEW3_FIX1.md",
+                      "Sha256":  "37739c55e458eaa1d61a80a4055a4758cffc07063abad71c6041d8d2b572e78c"
+                  },
+                  {
+                      "File":  "CORRECCION_1.1.0_PREVIEW5_FIX1.md",
+                      "Sha256":  "f1d244961f8a4dc04bf887d02061e9b767ea9c2bd334b47dc01e02df19e760dd"
+                  },
+                  {
+                      "File":  "CORRECCION_1.1.0_PREVIEW9_FIX1.md",
+                      "Sha256":  "1ecd2245f4ca97c14b2b7905720a0f1e66975cc096c9f62d8d46da69f8d072d2"
+                  },
+                  {
+                      "File":  "CORRECCION_1.1.0_PREVIEW9_FIX2.md",
+                      "Sha256":  "343747681a2cfa6b1c5ef304d2d5002975c120255b430159b29d8cad6f28db62"
+                  },
+                  {
+                      "File":  "CORRECCION_1.1.0_PREVIEW9_FIX3.md",
+                      "Sha256":  "e57e1eaa390f1b83751e7afb8589e4001315ebc2f19993dc594202cc3fbfa10c"
+                  },
+                  {
+                      "File":  "CORRECCION_1.1.0_RC1_CIERRE_VISUAL_FIX1.md",
+                      "Sha256":  "342f7938d2eab5d617be58957e8efba72e078008258fb1ce8d887f24c7f49394"
+                  },
+                  {
+                      "File":  "CORRECCION_1.1.0_RC1_CIERRE_VISUAL_FIX2_AURORA.md",
+                      "Sha256":  "781066f3b8d078b14ca1b669c485b6fbc5c97c67693ebda76e6a396af8c385f7"
+                  },
+                  {
+                      "File":  "CORRECCION_1.1.0_RC1_CIERRE_VISUAL_FIX3_AYUDA.md",
+                      "Sha256":  "8794882e1c0e8a208baae16804e0e72c1712206894b8e61f7dd262fdd94fa712"
+                  },
+                  {
+                      "File":  "CORRECCION_1.1.0_RC1_FIX1.md",
+                      "Sha256":  "ae9e75604af610f88acb0f589686088e6eb47aa5d44c6dafd5e4354fe5961fa0"
+                  },
+                  {
+                      "File":  "CORRECCION_1.1.0_RC1_FIX2.md",
+                      "Sha256":  "39e285cc91fbd0d46bbfe367ce0089c13f221ecc455b31e43a9bc240999f0357"
+                  },
+                  {
+                      "File":  "CORRECCION_1.2.2_FIX1.md",
+                      "Sha256":  "744f7b911248b30b0222bd1954321ada2148263e262d71c601ed411e275c48b0"
+                  },
+                  {
+                      "File":  "CORRECCION_1.2.2_FIX2.md",
+                      "Sha256":  "bff22eff508b9ca5961ee34ccf7dacac08f7aa9fcaf95060590f133c6b5c344c"
+                  },
+                  {
+                      "File":  "CORRECCION_1.2.2_FIX3.md",
+                      "Sha256":  "11a9ce726498fa953b6c14e4876564a2ce843a702b325be1c21966a779185493"
+                  },
+                  {
+                      "File":  "CORRECCION_1.2.2_FIX4.md",
+                      "Sha256":  "ab412207da5ee43ccdd92750df8fdbed1cc1e3654819d6d47bfe9663d356f5e9"
+                  },
+                  {
+                      "File":  "CORRECCION_RC1_FIX1.md",
+                      "Sha256":  "d2c5aed553373a586b42963902d11a317bcd363480623b6f5bc967736810269f"
+                  },
+                  {
+                      "File":  "CORRECCION_RC1_FIX2.md",
+                      "Sha256":  "8417d54c65e9bd23d2dbc1e04d7b4d8a015ddfea5751beb334239863b87f9159"
+                  },
+                  {
+                      "File":  "CORRECCION_RC8_FIX1.md",
+                      "Sha256":  "d114143f327cd8b761c300447da0ffdc4ca46699bbe40e4a4251a588cbe97573"
+                  },
+                  {
+                      "File":  "CORRECCION_RC8_FIX2.md",
+                      "Sha256":  "5779a4fe0a412f669c162a1443e7a9d0867f29fd385c598bf0cc7f90a7e783c9"
+                  },
+                  {
+                      "File":  "Directory.Build.props",
+                      "Sha256":  "81c7e81f0bd130e405c4c6e57bcb3242e0e929cafbaa33491a63a9654d5d2043"
+                  },
+                  {
+                      "File":  "LICENSE-GPL-2.0.txt",
+                      "Sha256":  "edaef632cbb643e4e7a221717a6c441a4c1a7c918e6e4d56debc3d8739b233f6"
+                  },
+                  {
+                      "File":  "LICENSE-GPL-3.0.txt",
+                      "Sha256":  "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+                  },
+                  {
+                      "File":  "README.md",
+                      "Sha256":  "96011d3e3ad3402c8e5cb3ba2c0d7140c4f30277416fd51997f345bd2b57b46c"
+                  },
+                  {
+                      "File":  "THIRD-PARTY-NOTICES.md",
+                      "Sha256":  "dc5f6aee5ea506c35f3f3548a37a93ae88a0395dbd90d0258d893c0d8f88df9e"
+                  },
+                  {
+                      "File":  "ThirdParty/CHECKSUMS.txt",
+                      "Sha256":  "34b2aeed3f7d82bfe3d531c420bd845d7b7036926ab62179a296b82062b26f4c"
+                  },
+                  {
+                      "File":  "ThirdParty/README.md",
+                      "Sha256":  "9fe3daf66d4ae8f70a838a6b5061a2671348d56a2a5a4cd0ed89ff385b975ea7"
+                  },
+                  {
+                      "File":  "PalClam/app.manifest",
+                      "Sha256":  "9c25ab1f895e76925a105c57b26e2ec00570cb0dd039a69154e22a15b81cdd0c"
+                  },
+                  {
+                      "File":  "PalClam/FloatingScanWindow.cs",
+                      "Sha256":  "63576a7b3a433ff8b88cfc0f02309d41f4567483b1c2c4ce648a8266e1d32e12"
+                  },
+                  {
+                      "File":  "PalClam/GlobalUsings.cs",
+                      "Sha256":  "598f9b2662e11451cabafd6342e82211c955b88e194088e8a41ba162ea04835c"
+                  },
+                  {
+                      "File":  "PalClam/HistoryWindow.cs",
+                      "Sha256":  "080d115e7954845c99300d66baa1a4e05ea229ec5117c68a30712c8ef4f5ea3d"
+                  },
+                  {
+                      "File":  "PalClam/MainWindow.About.cs",
+                      "Sha256":  "c0e3ac284bc7f8b20eae5c2bffacd10cdc85a703f9641b7ea048a003aca3f029"
+                  },
+                  {
+                      "File":  "PalClam/MainWindow.Advice.cs",
+                      "Sha256":  "d0fb05a298f5c132a9a50a7d804cbcee546e6b409832bc68ea4773c7ec74c01a"
+                  },
+                  {
+                      "File":  "PalClam/MainWindow.AI.cs",
+                      "Sha256":  "3bc35cb7c35dec379672da868b6ec9d55d48284a539a6a6c367f045834807909"
+                  },
+                  {
+                      "File":  "PalClam/MainWindow.AiSecurityAnalyst.cs",
+                      "Sha256":  "2bddb05fd9e3b84b66bc4cca2f3df5f738c078aaf6c04ac9d5929b6427c65d86"
+                  },
+                  {
+                      "File":  "PalClam/MainWindow.Appearance.cs",
+                      "Sha256":  "ce57a2d97ce23ca3025bc8fb1bdf5b6ab47605bc9286a6fc9276dc920c9d20b9"
+                  },
+                  {
+                      "File":  "PalClam/MainWindow.cs",
+                      "Sha256":  "4205343958f6b919f3c1e5095ebdbba07fb7a450c7be0c46222cab81e1753c45"
+                  },
+                  {
+                      "File":  "PalClam/MainWindow.Dashboard.cs",
+                      "Sha256":  "fbe4164c955d1e2270ac74ba1932e86c4c49bff05d501576fabd3a4cc84021a1"
+                  },
+                  {
+                      "File":  "PalClam/MainWindow.DashboardInsights.cs",
+                      "Sha256":  "ea347686c333bef8353d6ec41837f4fb091c84d593f7a87e9fdd3b2b145fe6e2"
+                  },
+                  {
+                      "File":  "PalClam/MainWindow.DiskLed.cs",
+                      "Sha256":  "2005b94413533bf3f1981a94df2bdb7c88b41cf06675cf68667d3592e4b27881"
+                  },
+                  {
+                      "File":  "PalClam/MainWindow.Guard.cs",
+                      "Sha256":  "418d46e06e2535c7a96932ed537fac11f631e66ebeb95d31d9e9a2ae804d3bbd"
+                  },
+                  {
+                      "File":  "PalClam/MainWindow.HeaderAurora.cs",
+                      "Sha256":  "a10c668d4b0f7ae5069c4c27a03adfa1c611989b735d5af0b8924da1a9648a32"
+                  },
+                  {
+                      "File":  "PalClam/MainWindow.Help.cs",
+                      "Sha256":  "00e73157ee52402db199b02e97f3e1844907a7bd56b32e20afd089d496007dca"
+                  },
+                  {
+                      "File":  "PalClam/MainWindow.Inspector.cs",
+                      "Sha256":  "9ccfbc0184ebe37d2a90556b423821f6f5f9f5eef814723508bac352511282a0"
+                  },
+                  {
+                      "File":  "PalClam/MainWindow.Localization.cs",
+                      "Sha256":  "ca14689caafdcad4bcf04c04aa778889366b1e6dbe603d6a2182adb2c8e14350"
+                  },
+                  {
+                      "File":  "PalClam/MainWindow.MachineService.cs",
+                      "Sha256":  "387c56d96160901af3995901648818a3a31e3d4883a8867ef9f895c048a2651b"
+                  },
+                  {
+                      "File":  "PalClam/MainWindow.Mail.cs",
+                      "Sha256":  "e2d7f8ed0620f2152e63f502c0b809ed7ec71c78938d268855d8f96b2872de1e"
+                  },
+                  {
+                      "File":  "PalClam/MainWindow.OptionsTabs.cs",
+                      "Sha256":  "41a1a5b0b840a95f8ecb897f314dd203c9590a82d73ed3380666f6e1e2105258"
+                  },
+                  {
+                      "File":  "PalClam/MainWindow.Outlook.cs",
+                      "Sha256":  "88b26903c3c506ac6b948d71f492601877e473fd87529bb1d435dabdd796ae85"
+                  },
+                  {
+                      "File":  "PalClam/MainWindow.Protection360.cs",
+                      "Sha256":  "675a499b57a11c8ce81b5fa7ab51076d1a940a2af05e910d41f300299f97d622"
+                  },
+                  {
+                      "File":  "PalClam/MainWindow.QuickThemes.cs",
+                      "Sha256":  "1b29581e2c016d09108acafec27e16c4be87982ea66688b91eca9a8625dd76bf"
+                  },
+                  {
+                      "File":  "PalClam/MainWindow.Ransomware.cs",
+                      "Sha256":  "cf7a23451ed36bb2ce76e7121bf3963397691d35b934b25f5983939ce1a39f8c"
+                  },
+                  {
+                      "File":  "PalClam/MainWindow.Remediation.cs",
+                      "Sha256":  "c76c99b4a2027f8a8b86ba2c27af8b05c358cd5f0cca79f59bdff530d615b39b"
+                  },
+                  {
+                      "File":  "PalClam/MainWindow.ScanUX.cs",
+                      "Sha256":  "c3765615fb39537a00f046843f8a9d1198f0344ec76528a7158ee2563380ff20"
+                  },
+                  {
+                      "File":  "PalClam/MainWindow.SecurityCenter.cs",
+                      "Sha256":  "fe3af9f803ba48af16acf41a084c5239e337cc1e95649e54ca95dcdb570d24a2"
+                  },
+                  {
+                      "File":  "PalClam/MainWindow.SelfDefense.cs",
+                      "Sha256":  "a6b1b23154d6d8548cdee18ecdf00ebcbbdf9427827a21fe8aa572091dcf363d"
+                  },
+                  {
+                      "File":  "PalClam/MainWindow.SignatureCenter.cs",
+                      "Sha256":  "ff1423834ef00ca4cba1bd3fc30e85d22aa4c331ece541ebd701ee8070dd2ed5"
+                  },
+                  {
+                      "File":  "PalClam/MainWindow.SmartScan.cs",
+                      "Sha256":  "b689ef928b7ee7213e4868392e2d73db0528f39808942c9df1f238c0208c3f86"
+                  },
+                  {
+                      "File":  "PalClam/MainWindow.Tray.cs",
+                      "Sha256":  "d96c05c9843a8983488ffacc5900eb4912eefa4716639011e06af082f4793466"
+                  },
+                  {
+                      "File":  "PalClam/MainWindow.WindowsStartup.cs",
+                      "Sha256":  "2017d05547423b3bde927ea601e1190886f8be5e578f35883c4ae30efd909331"
+                  },
+                  {
+                      "File":  "PalClam/PalClam.csproj",
+                      "Sha256":  "e12120701d6334d8639eb60109d79a1d798c6539f424f8318f04436c1347fbaf"
+                  },
+                  {
+                      "File":  "PalClam/PerformanceWindow.cs",
+                      "Sha256":  "3602b02486bdf9f27764576a5bb25c63d7bd3aa795cc674dee2914728abeea8f"
+                  },
+                  {
+                      "File":  "PalClam/Program.cs",
+                      "Sha256":  "f95af94c9575578556290080ed83154d7c0224a4133cc92b9b8ac2ca52bc3211"
+                  },
+                  {
+                      "File":  "PalClam/Assets/Oscar-PalClam.gif",
+                      "Sha256":  "050ccd2743bc3199970537f0d581f454d0dc59e355d98b4ccc2f0d21a41a4c39"
+                  },
+                  {
+                      "File":  "PalClam/Assets/PalClam-256.png",
+                      "Sha256":  "220b8158e2d9984d2a6dce88e22fb1c3d419941a77e1b9669322638983efb9b5"
+                  },
+                  {
+                      "File":  "PalClam/Assets/PalClam-Tray-Alert.ico",
+                      "Sha256":  "23eecdef192dd591640e22c5393c57d75e7fe4324d1ddd842e01339fd742fac1"
+                  },
+                  {
+                      "File":  "PalClam/Assets/PalClam-Tray-Alert.png",
+                      "Sha256":  "4e6209deffb4858a9bfd99b5d67205123abf8e99645a367ba08f6937df427046"
+                  },
+                  {
+                      "File":  "PalClam/Assets/PalClam-Tray-Background.ico",
+                      "Sha256":  "4617fb39823cf1d77fe7460a0c147ffcfc5929821a92e5a0d07111a6165e8840"
+                  },
+                  {
+                      "File":  "PalClam/Assets/PalClam-Tray-Background.png",
+                      "Sha256":  "08fed70412fc17f45437fd75b628c32eeef7720a6c66dcb40fd6611df21654e5"
+                  },
+                  {
+                      "File":  "PalClam/Assets/PalClam-Tray-Error.ico",
+                      "Sha256":  "283851ad8f2397aad21097358e2b6e8caabd4b8a0991c1fc0dc131f9553e386b"
+                  },
+                  {
+                      "File":  "PalClam/Assets/PalClam-Tray-Error.png",
+                      "Sha256":  "59a5bccb43cf3b0f46f54580496b75afba69a1a4fafa73411afe49cc85a9a4d1"
+                  },
+                  {
+                      "File":  "PalClam/Assets/PalClam-Tray-Guard.ico",
+                      "Sha256":  "346e7d300f80ca1bfbbde230745b74296f1fbc6bff11fd8aab09df1d3298a523"
+                  },
+                  {
+                      "File":  "PalClam/Assets/PalClam-Tray-Guard.png",
+                      "Sha256":  "905738c7611004bec3df1449854ea3703d670c791fe19c3347eeb959bbfd26b8"
+                  },
+                  {
+                      "File":  "PalClam/Assets/PalClam-Tray-Idle.ico",
+                      "Sha256":  "d9e1212e0872bbc772a5f06b303327e6744cc7201aa381eb3d43e556675c1acf"
+                  },
+                  {
+                      "File":  "PalClam/Assets/PalClam-Tray-Idle.png",
+                      "Sha256":  "4e15dd87436c26421f2abcf90fbeeb43f9c58baf0540d50cb60a7564a5be2d83"
+                  },
+                  {
+                      "File":  "PalClam/Assets/PalClam-Tray-Paused.ico",
+                      "Sha256":  "2c5a9d9f3336a4f72d17b5e4d3377d47a801f3edd044b27d08531b975e4e9c5f"
+                  },
+                  {
+                      "File":  "PalClam/Assets/PalClam-Tray-Paused.png",
+                      "Sha256":  "43a6b273a691ce5f8198fb969a1b42b27f3de53bb8ff56eb002e77ad452079e0"
+                  },
+                  {
+                      "File":  "PalClam/Assets/PalClam-Tray-Scanning.ico",
+                      "Sha256":  "2df95b5eed1f1ff4f093b52de23d0d3c1ab5d0ef4b7db3696c5f2644917d26d2"
+                  },
+                  {
+                      "File":  "PalClam/Assets/PalClam-Tray-Scanning.png",
+                      "Sha256":  "769c992b279d2316f578ffbc297bded5de818faecaf1e8643e75c9288f491e21"
+                  },
+                  {
+                      "File":  "PalClam/Assets/PalClam-Tray-Updating.ico",
+                      "Sha256":  "00f5758d27652bdbf4009be5036ae41aa39ec469796861af01258fe5782e6334"
+                  },
+                  {
+                      "File":  "PalClam/Assets/PalClam-Tray-Updating.png",
+                      "Sha256":  "aaa2051d4281af92c5b0e5f136709617ef2638ce2a26857a51ede08464b7593f"
+                  },
+                  {
+                      "File":  "PalClam/Assets/PalClam.ico",
+                      "Sha256":  "a3cbedca822a3c561d56d528e23f1364511395b71f94ca1d20b897e4dd524964"
+                  },
+                  {
+                      "File":  "PalClam/Infrastructure/AiSecretsStore.cs",
+                      "Sha256":  "5bcaa3ce99bc4f7fc742333090ebc9980617a37adb8d37dfcece1641aa8f7825"
+                  },
+                  {
+                      "File":  "PalClam/Infrastructure/ScanHistory.cs",
+                      "Sha256":  "cd3704ab761b89163a3a03856404c6c29ec035ee632cfd1fe95ccfd9f195d9c0"
+                  },
+                  {
+                      "File":  "PalClam/Infrastructure/SettingsStore.cs",
+                      "Sha256":  "4c585d15b234097806ddea0271f1fbd2ab081d0dec55bb6fcbc1eadb99d4e197"
+                  },
+                  {
+                      "File":  "PalClam/Localization/DisplayCatalog.cs",
+                      "Sha256":  "d532c760e09f689092f04b3db87a332674c89ed253aeb059f8f20541042dde11"
+                  },
+                  {
+                      "File":  "PalClam/Localization/DisplayMetadata.json",
+                      "Sha256":  "cbcd3c0547f19721875f3161d35395b30744099759dfc3ac73e53c6242beaf64"
+                  },
+                  {
+                      "File":  "PalClam/Localization/Strings.de.resx",
+                      "Sha256":  "942e9014c1c6556606dae38e92f2064489d54c91eb8f7038f6fe3f402627da78"
+                  },
+                  {
+                      "File":  "PalClam/Localization/Strings.en.resx",
+                      "Sha256":  "d1a5f7d1eb16bec1e3ed3aaed7f764796e1c5b9824c1c4754dbc0100e8f5fb7e"
+                  },
+                  {
+                      "File":  "PalClam/Localization/Strings.fr.resx",
+                      "Sha256":  "dedeb2039306ea22fcfbcd15d237085f3db4e22e59171204a99aa942b3a8aa16"
+                  },
+                  {
+                      "File":  "PalClam/Localization/Strings.it.resx",
+                      "Sha256":  "25bbb5e32e4e54e029e4e3db08c29be4e201f4cc5492b7ff1627c123146035a5"
+                  },
+                  {
+                      "File":  "PalClam/Localization/Strings.pt.resx",
+                      "Sha256":  "90cdcf646d5907cb398c0715e35ca791b4bb60dcd15535308ab904c917645760"
+                  },
+                  {
+                      "File":  "PalClam/Localization/Strings.resx",
+                      "Sha256":  "cc180dab0696e4840c3e2b5186809864b5d71591d470669a1f1bc9a22f21cdc3"
+                  },
+                  {
+                      "File":  "PalClam/Localization/TextCatalog.cs",
+                      "Sha256":  "78a6ac659195469404dea1dcec7e4b32d00a3a071b4e1df8fc5d42529416e6ec"
+                  },
+                  {
+                      "File":  "PalClam/Localization/UiText.cs",
+                      "Sha256":  "f13929e489e11699e6675d50a0c5618fe6eff41ad73808e432446bb74c4e30d7"
+                  },
+                  {
+                      "File":  "PalClam/Resources/update-public.pem",
+                      "Sha256":  "bed3d81673414f001d4729921f5faa7cbb51a92ad0ba3088a60018ff332f2875"
+                  },
+                  {
+                      "File":  "PalClam/Services/AiGateway.cs",
+                      "Sha256":  "2659c885f8ce2f1cb8a8a3612a5b52bbd96ac7922ee8255283b514a75988831f"
+                  },
+                  {
+                      "File":  "PalClam/Services/AiProviderCatalog.cs",
+                      "Sha256":  "3361678a3d79b8b893131289d5fb5e8268cb7a57f04210589e9c7066a3bf164a"
+                  },
+                  {
+                      "File":  "PalClam/Services/AiSecurityAnalyst.cs",
+                      "Sha256":  "b75620da04366c55d4075d09631f342814317648c3b972382336cd47b01f6a33"
+                  },
+                  {
+                      "File":  "PalClam/Services/AppearanceCatalog.cs",
+                      "Sha256":  "6fa296d4d4eb7a3d6770f5f046b1bff0b82c59fba32e924b593740137cef6193"
+                  },
+                  {
+                      "File":  "PalClam/Services/AppUpdateService.cs",
+                      "Sha256":  "da1a9452b76063ad63173ffc0b5513332144e3fa18137b81448ebea366bfe4bc"
+                  },
+                  {
+                      "File":  "PalClam/Services/AuroraMotionProfiles.cs",
+                      "Sha256":  "bf350907a4d3aa38095e21bfef14af4e76ff606a04bdc12e003b1353cf770381"
+                  },
+                  {
+                      "File":  "PalClam/Services/ClamAvEngineManager.cs",
+                      "Sha256":  "33a908d993fb668b396efde886f4c78de9eac18dae3120d3dc4e02a341afb5ff"
+                  },
+                  {
+                      "File":  "PalClam/Services/ClamAvLocator.cs",
+                      "Sha256":  "f0ce9649836188c11fa6d060f229b0ba7cf285c6e20650c98105e3a7efb33b0f"
+                  },
+                  {
+                      "File":  "PalClam/Services/ControlledScanRunner.cs",
+                      "Sha256":  "699b00f17851840c2a331897dceb8462df5f8a14df5bdcf6969711a448856fed"
+                  },
+                  {
+                      "File":  "PalClam/Services/CrashDiagnostics.cs",
+                      "Sha256":  "0e7a8a39a8237604f3abd90327d5a4f10fd438460276be132579d1428084e794"
+                  },
+                  {
+                      "File":  "PalClam/Services/DashboardLayoutPolicy.cs",
+                      "Sha256":  "127574d19a01d753e7ff9f000dfc3e10aacd0e75b6b2c4eb3e22344a1ff99d31"
+                  },
+                  {
+                      "File":  "PalClam/Services/DashboardOverviewPolicy.cs",
+                      "Sha256":  "ce30c9ad73155d0bb823ebc50fe0321fc6048cb7ffe80b9aa66353a85f676b78"
+                  },
+                  {
+                      "File":  "PalClam/Services/DashboardOverviewReader.cs",
+                      "Sha256":  "fc3d7e6dfc738e22c4c54329bd00a893b9042e3f9566462033b63bcc169be65e"
+                  },
+                  {
+                      "File":  "PalClam/Services/DesktopNotifications.cs",
+                      "Sha256":  "5606c943b61261c23d4ee9724f303f5fcec5b1bb981dea081825892e3348b4c3"
+                  },
+                  {
+                      "File":  "PalClam/Services/DeviceWatchAudit.cs",
+                      "Sha256":  "6d3db6dc88e047f54ae741bcf50bd158d50beba4f8872204498d80bfa5977007"
+                  },
+                  {
+                      "File":  "PalClam/Services/DiagnosticReport.cs",
+                      "Sha256":  "4b068b3b925f6c5a976c0cfb717e4e7606df4a42cdf8ed5f6385461fda6be6f7"
+                  },
+                  {
+                      "File":  "PalClam/Services/DiskActivitySampler.cs",
+                      "Sha256":  "aa34ccb6d719338da803e3de5da433bbc9befa44cdbbb459c5f5930035d1fc69"
+                  },
+                  {
+                      "File":  "PalClam/Services/DiskLedPolicy.cs",
+                      "Sha256":  "31096db10be4da84846784ba5d8d190f23e8a64cb593f4b75391a7d1a5714076"
+                  },
+                  {
+                      "File":  "PalClam/Services/DistributionPolicy.cs",
+                      "Sha256":  "09ce47091ca701a40ee0d2817e3b2b5f42d3e5634a0d00c9c147f63d937bc1ad"
+                  },
+                  {
+                      "File":  "PalClam/Services/ExplorerIntegration.cs",
+                      "Sha256":  "8e82cbc05787970f9a5e790f17bbc704ce26ce421e3e54d71d280cce31e8f8ae"
+                  },
+                  {
+                      "File":  "PalClam/Services/FileInspectorService.cs",
+                      "Sha256":  "54646c590ca7eae4e6a10c91a2ff8088869ce84681c7790a1c6ae7f80027f480"
+                  },
+                  {
+                      "File":  "PalClam/Services/GuardAuditLog.cs",
+                      "Sha256":  "5f99008d5daf25248c347a7927e6c13f62f511d1a803d3b18113f312005821fb"
+                  },
+                  {
+                      "File":  "PalClam/Services/GuardNoticeGate.cs",
+                      "Sha256":  "42ca4bfb264558e83cb97f67231edc232de541b1e21aa7bb24b1a8b1c62c6f1c"
+                  },
+                  {
+                      "File":  "PalClam/Services/GuardService.cs",
+                      "Sha256":  "b5217a4757c62d92cab65bd753e7fe881864de02280dbb52b165d6c5eafb496b"
+                  },
+                  {
+                      "File":  "PalClam/Services/GuardTuning.cs",
+                      "Sha256":  "907d59f694cfd6bb54aba4651546f892c2143cc3fcfea55bc9f1a91ed523700b"
+                  },
+                  {
+                      "File":  "PalClam/Services/HelpContentCatalog.cs",
+                      "Sha256":  "7e780db7b0a19713870c9576561533f8af803953b0fe9e8d68a3318d6f6cf246"
+                  },
+                  {
+                      "File":  "PalClam/Services/LocalMailboxImport.cs",
+                      "Sha256":  "982e7dd4bca70c0104dcb8cbc2aee4d4127ad069e0ff1fba637dbaf1cb57d824"
+                  },
+                  {
+                      "File":  "PalClam/Services/MachineGuardNoticePolicy.cs",
+                      "Sha256":  "972f08db5b15643366112f4c50520a4f80d553640618e35cca8a84c3bad39379"
+                  },
+                  {
+                      "File":  "PalClam/Services/MachineServiceSnapshot.cs",
+                      "Sha256":  "43ca08613dac1ebdf2b3cb12bba66ebeaa4fda1b97e64eeab4d772b72b3d6ec5"
+                  },
+                  {
+                      "File":  "PalClam/Services/MailFinding.cs",
+                      "Sha256":  "e891d9dd94d4bdcb443a1a86a4aa6f1a215830b328de282698c70ec88734d1fb"
+                  },
+                  {
+                      "File":  "PalClam/Services/MailScanModels.cs",
+                      "Sha256":  "7702f3d8fb87401e62a1a7bbdd50f5f6c47a267edc19a8cd4034b82b736f6fb6"
+                  },
+                  {
+                      "File":  "PalClam/Services/MailScanService.cs",
+                      "Sha256":  "7378d25000bfddae61929553fb66ff05bf95f948042c5620d0fd3dea4ecbd79b"
+                  },
+                  {
+                      "File":  "PalClam/Services/MailTriageService.cs",
+                      "Sha256":  "26bb33a2546bf86fc4513858e8cbf00b5afd8885541fa06fbc885845aa754642"
+                  },
+                  {
+                      "File":  "PalClam/Services/OutlookClassicImport.cs",
+                      "Sha256":  "fa4e4e9153ddb04ed0bb33fd11e9d35fefd46a43b72040d4a4dd1b1696dfe9d4"
+                  },
+                  {
+                      "File":  "PalClam/Services/OutlookGraphClient.cs",
+                      "Sha256":  "762ff712459c630fa7ddfd29a15d8621c218a1180da7f3751588c62fcbda0063"
+                  },
+                  {
+                      "File":  "PalClam/Services/ProcessRunner.cs",
+                      "Sha256":  "0c8eb46746323c37a2b6f6ce53cdca68ead01aba4a8c434a60916e1db449d6e8"
+                  },
+                  {
+                      "File":  "PalClam/Services/ProtectionHealthPolicy.cs",
+                      "Sha256":  "35587e48941faf8276a409d33c687dee105719c768b16523f312dc6fbb962a24"
+                  },
+                  {
+                      "File":  "PalClam/Services/QuarantineRescanService.cs",
+                      "Sha256":  "735c735ad1d8db2a7da841610bbe2ab315d5bb027baa4798497f49f123caeee0"
+                  },
+                  {
+                      "File":  "PalClam/Services/QuarantineReviewPolicy.cs",
+                      "Sha256":  "44fa64049ca48fc0c3fc0802a789d7c89d18e4e23aa63b75b33315db659210bd"
+                  },
+                  {
+                      "File":  "PalClam/Services/QuarantineStore.cs",
+                      "Sha256":  "44ed63cef24c5c8daf3a5d94dd3fb0cc670c70b9a78be52292ca0d7decf3d414"
+                  },
+                  {
+                      "File":  "PalClam/Services/RansomwareAudit.cs",
+                      "Sha256":  "e09cd6c72b909320d827cd8a39b150b106be153551a789ace1775efbfc8f5cce"
+                  },
+                  {
+                      "File":  "PalClam/Services/RansomwareMonitor.cs",
+                      "Sha256":  "5c6829002e67a65032dd9eae9c49258ba2f423af895d0d3e74bd46cae5f148cd"
+                  },
+                  {
+                      "File":  "PalClam/Services/RansomwarePolicy.cs",
+                      "Sha256":  "bf3b14a68df1794e61f3266f9459e5c3ad1beb55859ddeccb1a95ebb7d8eb03c"
+                  },
+                  {
+                      "File":  "PalClam/Services/RemediationAuditLog.cs",
+                      "Sha256":  "53b511b14a5a112db825bc5edf3d5c4dc5057947ffaeb6bed971693aa1c31495"
+                  },
+                  {
+                      "File":  "PalClam/Services/RemovableDriveMonitor.cs",
+                      "Sha256":  "0ec54a3814816d686fcc26e6773c41082a4c2400a9f0c47883f145ac2bb57d8e"
+                  },
+                  {
+                      "File":  "PalClam/Services/ScanComparisonService.cs",
+                      "Sha256":  "72a8e010c2f7b01e31c2a811a9eaaea3e2ed53ffa1228a93bbeab29363cc5898"
+                  },
+                  {
+                      "File":  "PalClam/Services/ScanExclusions.cs",
+                      "Sha256":  "7dae2fefd3bfe455fd7b24393f3577b7b633324e4606984304c5e3a3eaf5aad5"
+                  },
+                  {
+                      "File":  "PalClam/Services/ScanFileEstimator.cs",
+                      "Sha256":  "d22b9dff4c67c47997d7fed2cbce77f6fefe7e83b48b41ad9a7e1783e5c64122"
+                  },
+                  {
+                      "File":  "PalClam/Services/ScanLogWriter.cs",
+                      "Sha256":  "f3b644cbe5542fd1c0fe5b3a2d13e8244face1476e01c38fa5826db7bcb04859"
+                  },
+                  {
+                      "File":  "PalClam/Services/ScanOutputParser.cs",
+                      "Sha256":  "1592f17caae3b70e03c09aa8e0af9d6e9d0ae834569801990ae2138b35d7e7d4"
+                  },
+                  {
+                      "File":  "PalClam/Services/ScanPerformanceMath.cs",
+                      "Sha256":  "597fb4ae23d85c8eb40b4c76c3717933346f374bf2f5ed1894ff7094cc45358d"
+                  },
+                  {
+                      "File":  "PalClam/Services/ScanPerformanceSeries.cs",
+                      "Sha256":  "f9e77e70e0c8650c987569b2784cca9408b422ce70ee1beb1f3fe14bfc344a10"
+                  },
+                  {
+                      "File":  "PalClam/Services/ScanProgressPolicy.cs",
+                      "Sha256":  "9ab38f3024a13398a38a8a39b3f2ee619a9665ddaaae69fda0ea18e4fc38822c"
+                  },
+                  {
+                      "File":  "PalClam/Services/ScanVerdictPolicy.cs",
+                      "Sha256":  "20c7293a81d2e404ba40c20a034c7a4221f3187f3d71e8a4bcddaebf5784d087"
+                  },
+                  {
+                      "File":  "PalClam/Services/ScheduledScanRunner.cs",
+                      "Sha256":  "329f45a4ca8bd88a7c4d7afa0904ae806b28acec72c9d35607f7d3e40c4bce43"
+                  },
+                  {
+                      "File":  "PalClam/Services/ScheduledTasksService.cs",
+                      "Sha256":  "c8bcf624e6b82e9ff290f7f60ea3154c75cc40bbc5dbf5d8c20d98d5958d1116"
+                  },
+                  {
+                      "File":  "PalClam/Services/SecurityAdviceCatalog.cs",
+                      "Sha256":  "192cc341c15b218c8706b7fca90f430b76093d20d27d326e41c65757753ddd45"
+                  },
+                  {
+                      "File":  "PalClam/Services/SecurityNoticeFeed.cs",
+                      "Sha256":  "b123124ab2842cda9a8c8890caba964a9887586fa40918b9535143e9edebc99a"
+                  },
+                  {
+                      "File":  "PalClam/Services/SelfDefenseMonitor.cs",
+                      "Sha256":  "701509c2e34ad652919fe6182d53fe5fa38d3c3544930327b7c1aadb320e2938"
+                  },
+                  {
+                      "File":  "PalClam/Services/SignatureCenterInventory.cs",
+                      "Sha256":  "9c7041fcdd864308f8ae750fbb59e39f3d1589f4892d6408e87d20660436a718"
+                  },
+                  {
+                      "File":  "PalClam/Services/SignatureHealthService.cs",
+                      "Sha256":  "e42afd1013b99a1a59186936a8efca22dba9ef79bd57de9e80772630662defc4"
+                  },
+                  {
+                      "File":  "PalClam/Services/SignatureInfoService.cs",
+                      "Sha256":  "74f48be5b9c879e89e0064adc4e809e077de3ba8cec8dc196a50af548b264470"
+                  },
+                  {
+                      "File":  "PalClam/Services/SignatureStore.cs",
+                      "Sha256":  "39e43275e09b3b0b715d2d41d47070c2f863144f6e1f059aca9f32f30e7df61d"
+                  },
+                  {
+                      "File":  "PalClam/Services/SmartScanPlanPolicy.cs",
+                      "Sha256":  "40e013bc6027f6e49b3ba99cc928fcec9bd021999c5411dc252b6a83e2ef60d2"
+                  },
+                  {
+                      "File":  "PalClam/Services/StartupLaunchPolicy.cs",
+                      "Sha256":  "8362ac1e79e1b04ee9a4c91512ad609db91549ef403ae34951109bba8db39281"
+                  },
+                  {
+                      "File":  "PalClam/Services/UpdateLauncher.cs",
+                      "Sha256":  "b44a2e6f69245314f852efe87ca61fb01f8e1b86b257b6f4d57653894777c38f"
+                  },
+                  {
+                      "File":  "PalClam/Services/WindowsStartupRegistration.cs",
+                      "Sha256":  "78f0d216d17b2a89ea4faf51459a8cac66d68de7a92718404db155cd108cd71e"
+                  },
+                  {
+                      "File":  "PalClam/UI/LocalizedDialogs.cs",
+                      "Sha256":  "e7878d0142f57571851e7f7d384e2818a09e2c01a7b1e17d916b74e0c7469faa"
+                  },
+                  {
+                      "File":  "PalClam/UI/LocalizedMessageBox.cs",
+                      "Sha256":  "fe8095bac735182fa1e440d7a4ee061f1b420e46a23edb85721e81897c4baa21"
+                  },
+                  {
+                      "File":  "PalClam/UI/LocalizedUi.cs",
+                      "Sha256":  "38758053cbf0c12a4e64f8015973cdf9831c390c7e3e908b97eea4db8379038a"
+                  },
+                  {
+                      "File":  "PalClam/UI/ModernScrollBars.xaml",
+                      "Sha256":  "87855697537c2a89f4951c5db18328ec0f6c48d3d92676b883a681921c3996de"
+                  },
+                  {
+                      "File":  "PalClam/UI/ModernScrollBarTheme.cs",
+                      "Sha256":  "5eaccb8d023109a0d901b34b8cb3805031a62e1785a8bce11a9cf0ace515761d"
+                  },
+                  {
+                      "File":  "PalClam/UI/OptionsTabAppearance.cs",
+                      "Sha256":  "0ca6ea0a0fa4f9f3b56e71420701f5d12c34c949bd37a2baa61538e6642e1d5e"
+                  },
+                  {
+                      "File":  "PalClam/UI/PresentationLocalization.cs",
+                      "Sha256":  "4b236933525e5f94f8bf5b8deecccf5889c82aa97adf6d91423d957fdb7e43a1"
+                  },
+                  {
+                      "File":  "PalClam/Updater/ApplyUpdate.ps1",
+                      "Sha256":  "8664b0a0a41b14ed7f5b3d7ec4392489173e216bf7d4b53c6ce220bf757636e3"
+                  },
+                  {
+                      "File":  "PalClam.Service/MachineGuard.cs",
+                      "Sha256":  "6bfc69aee59c6ddf03690a93585efdef0e2b3c130c5a139c09c01def04d7f5ac"
+                  },
+                  {
+                      "File":  "PalClam.Service/MachineGuardPolicy.cs",
+                      "Sha256":  "ce8b601b1c8c61f0499cae4722912883a8c56915ef7defe7ad368cde60f02d88"
+                  },
+                  {
+                      "File":  "PalClam.Service/PalClam.Service.csproj",
+                      "Sha256":  "fecaf22d9a90fcf246b51f9d59534622c8eedd57f550475fa0f25204a3627f45"
+                  },
+                  {
+                      "File":  "PalClam.Service/Program.cs",
+                      "Sha256":  "cc6c9831edcdfba4d5444ee81b71dd8b7c74ad4ff202757f3d201c615de85099"
+                  },
+                  {
+                      "File":  "PalClam.Service/ServicePaths.cs",
+                      "Sha256":  "9a073e878835a5fa83b9711723b52241d4ac9230f198712e9b67dfd13d832da3"
+                  },
+                  {
+                      "File":  "PalClam.Service/WindowsServiceHost.cs",
+                      "Sha256":  "a68614c0ea8c0f76911613c4bab643e5397b44235a7d74e594ad94519ea13006"
+                  },
+                  {
+                      "File":  "PalClam.SmokeTests/PalClam.SmokeTests.csproj",
+                      "Sha256":  "54c7d32161a51dca8b0065dfb8f20410df469b1e7c0bf718fc25f628e7957137"
+                  },
+                  {
+                      "File":  "PalClam.SmokeTests/Program.cs",
+                      "Sha256":  "58c22ef7986fa20272e87c783b5e0152db80fd3bee86574ca90c9c2c70c270a7"
+                  },
+                  {
+                      "File":  "PalClam.ThemeTests/PalClam.ThemeTests.csproj",
+                      "Sha256":  "938201076943fe033e1c965d9af80496b8094b71a1037282a2c3397ebdf9332c"
+                  },
+                  {
+                      "File":  "PalClam.ThemeTests/Program.cs",
+                      "Sha256":  "9e21e591f974e438480b389d22751e2b8238e3678a95af39ef8130a3b2912a4a"
+                  },
+                  {
+                      "File":  "PalClam.LocalizationTests/PalClam.LocalizationTests.csproj",
+                      "Sha256":  "ee6a9bf76459a48043bf354a285ff7891698a632ba34aaac0c04b9f291d90421"
+                  },
+                  {
+                      "File":  "PalClam.LocalizationTests/Program.cs",
+                      "Sha256":  "05886233879ecfb54aa882190ddef20847349f26456e6a2c93ec27def6438347"
+                  },
+                  {
+                      "File":  "PalClam.LocalizationTests/Fixtures/Fallback.en.resx",
+                      "Sha256":  "111a9ccb7dda8c9efe13dd691c8895a7872b5ae4db1c8c48ffea26a96467bcf3"
+                  },
+                  {
+                      "File":  "PalClam.LocalizationTests/Fixtures/Fallback.resx",
+                      "Sha256":  "515dcefc78ca329320a4b545b85a877f702815ffd21f334dcfee06ea4ab4e7cc"
+                  },
+                  {
+                      "File":  "PalClam.FeatureTests/PalClam.FeatureTests.csproj",
+                      "Sha256":  "def6f643240bdb0008049a9fb81c39a1b82fc374d180618194f4e08f98d2f9de"
+                  },
+                  {
+                      "File":  "PalClam.FeatureTests/Program.cs",
+                      "Sha256":  "43474484968c7ff2ae090aa7730c563c4a08fe981d4fd511bef696f7a8ee05d2"
+                  },
+                  {
+                      "File":  "PalClam.DistributionTests/PalClam.DistributionTests.csproj",
+                      "Sha256":  "fced17e1c52a54dec94fd69ad2ece8e6d1e6de18affaf30c02765e06b814212f"
+                  },
+                  {
+                      "File":  "PalClam.DistributionTests/Program.cs",
+                      "Sha256":  "be19667137266ae0347f39cb77de7518c1eea18f43343f82c2d368c802e5e85d"
+                  },
+                  {
+                      "File":  "Tools/ConstruirDistribucion.ps1",
+                      "Sha256":  "30e81541d71655db24e3eef9fd59ff065cd80af0742e002eb4e79d1e0afc7c6e"
+                  },
+                  {
+                      "File":  "Tools/Distribution.psm1",
+                      "Sha256":  "35c9638778045f6af99a1c6981a9e7e046ff6a2de9f1f2e278a6e649a7378a6f"
+                  },
+                  {
+                      "File":  "Tools/DistributionPackagingTests.ps1",
+                      "Sha256":  "f744348d5bcf893838e35c0feaa97bcb6b9ff40b524d36513d9d6de4563bcee9"
+                  },
+                  {
+                      "File":  "Tools/DistributionSource.ps1",
+                      "Sha256":  "0c61c253fcddc6798cc7a299eedbd50d67575412d31b0773f5ff69e99f3096fd"
+                  },
+                  {
+                      "File":  "Tools/LEEME.txt",
+                      "Sha256":  "a5564b9c9bc4a5d9d4f9a49ed73fa92570577027272ac4fbc113971e8054009d"
+                  },
+                  {
+                      "File":  "Tools/licenses-lock.json",
+                      "Sha256":  "5edac04f36cfbf0463289f3d1501297ea415921dc5c55cdb8db47e2806591aa8"
+                  },
+                  {
+                      "File":  "Tools/MachineService.ps1",
+                      "Sha256":  "3df14e39fe5da98fe37c5d698a36a84ea566d012af6afb3aa4161dad5e18d236"
+                  },
+                  {
+                      "File":  "Tools/Portable.ps1",
+                      "Sha256":  "f6a5e4b725266216a77b8077eadeade069acbbd21db97b4a2a6d47bbdff43b3c"
+                  },
+                  {
+                      "File":  "Tools/PrepararClamAV.ps1",
+                      "Sha256":  "7d50c4062d85da1296c882ec92b5c82b8c2f4a25eec4c052a7152af1c9fff611"
+                  },
+                  {
+                      "File":  "Tools/PrepararFirmasOffline.ps1",
+                      "Sha256":  "c5d909adac1fc13570061b9e9b672834f810eb7168ac59778133c767e3aecae2"
+                  },
+                  {
+                      "File":  "Tools/PrepararLicencias.ps1",
+                      "Sha256":  "8d67b4607508244f818b71f0bc9fb1a2e112d0bd37664f9b5a5525a62d772ef8"
+                  },
+                  {
+                      "File":  "Tools/PublicacionBloqueada.ps1",
+                      "Sha256":  "f9cd3f835d2680627a8b0473b45ace9158ea985b38381d1d71bd94405626650e"
+                  },
+                  {
+                      "File":  "Tools/ScriptBootstrapTests.ps1",
+                      "Sha256":  "db61c9a05c87e0606637bed72a6a0c387441c87a179b0b6a489d15d51017bccb"
+                  },
+                  {
+                      "File":  "Tools/TestSupport.psm1",
+                      "Sha256":  "ba2df3f0d96432dfe9c11a2229ca61694b1f3f527e0781c5cf4179af89b4db57"
+                  },
+                  {
+                      "File":  "Tools/TestSupportTests.ps1",
+                      "Sha256":  "c88e22db2f453257a0606cc68477cb7fd785490410b1265ca12a6d198876b82f"
+                  },
+                  {
+                      "File":  "Tools/ValidarAceptacion.ps1",
+                      "Sha256":  "e9092be15c5e952decee1333d2995d139d19b53bc593a7ab68b1bd3b64b5a514"
+                  },
+                  {
+                      "File":  "Tools/ValidarCandidataRC1.ps1",
+                      "Sha256":  "dde863583650b9cae90f110fae9f9d5c27659bddc6471e90dfa5fda0b9b4c3b1"
+                  },
+                  {
+                      "File":  "Tools/ValidarDistribucion.ps1",
+                      "Sha256":  "f50aaa930e743c5dbd58cea1c77c362e7c111b4c9f33c2f9a9171e8746e3c433"
+                  },
+                  {
+                      "File":  "Tools/ValidarEntrega110.ps1",
+                      "Sha256":  "ab72a38e99dea39fb763c9f39d0b4cb80158f9ab95c09e955b3a93e0e2a078de"
+                  },
+                  {
+                      "File":  "Tools/ValidarEntrega120.ps1",
+                      "Sha256":  "ee1e46f2b37dc0e47d4594f912e356e0e077a8630275726c8ab481eafe2bb746"
+                  },
+                  {
+                      "File":  "Tools/ValidarEntrega121.ps1",
+                      "Sha256":  "f2bd8627b02e8e3b702a24c2f35889defcc073c590411ccf63465956c0a4bd93"
+                  },
+                  {
+                      "File":  "Tools/ValidarEntrega122.ps1",
+                      "Sha256":  "9446bd519b4a38633f193cbd8fe7839fb8100010189e267f88e5619c001ac6ea"
+                  },
+                  {
+                      "File":  "Tools/ValidarPaquete.ps1",
+                      "Sha256":  "d79cdd644862e4fedb1923b13ae8c8625c36c6447bf3905cd399f4c4c9076751"
+                  },
+                  {
+                      "File":  "Tools/validate_localization.py",
+                      "Sha256":  "4e72e9abc1f49165de178e3016398368e51daf46f1e2b8d8e14f37f5ef691163"
+                  },
+                  {
+                      "File":  "Tools/VerificarFuentes.ps1",
+                      "Sha256":  "870dec52fcb970e26350c3c91cbdccbc29fe9358d9979ac901ccc39e81eb24d1"
+                  },
+                  {
+                      "File":  "Tools/VerificarGPL3.ps1",
+                      "Sha256":  "d5ce768cc5ce1fd92edf523f1f26eb8a40b076826883010b391ff2874eb5dfdd"
+                  },
+                  {
+                      "File":  "Tools/VerificarLocalizacion.ps1",
+                      "Sha256":  "70176cb8f68fd4e87bab3dfdf5dfaa0d0b3c0771907e3c0ab172a7de47170953"
+                  },
+                  {
+                      "File":  "Tools/LocalizationInventory/LocalizationInventory.csproj",
+                      "Sha256":  "58a53af4cb8fbbeb14aca72a1d56b0984c5df089f2d71b3ed9b2680c4073dd66"
+                  },
+                  {
+                      "File":  "Tools/LocalizationInventory/Program.cs",
+                      "Sha256":  "913e00078ed4dd478471091ed1b99c37cd67e7cd7bff2d7becd74dcd6769da3b"
+                  },
+                  {
+                      "File":  "Tools/ReleaseSigner/Program.cs",
+                      "Sha256":  "57ee58972eda1f177fe84792fd2ec644ed8d55c9a0718323e0539d44f6672474"
+                  },
+                  {
+                      "File":  "Tools/ReleaseSigner/ReleaseSigner.csproj",
+                      "Sha256":  "06b2159e52f7d611395afe515001963838a1d13cfbadf2dc3814d01f124cb968"
+                  },
+                  {
+                      "File":  "Installer/PalClam.iss",
+                      "Sha256":  "5a656989d356f68f2c297b7c94cc29e3e4d2e98a9ea4cf76d076beada88b24d4"
+                  },
+                  {
+                      "File":  "docs/ACEPTACION_1.0.0.ini",
+                      "Sha256":  "c8d4c5b48dfafd87fe17f7130e51c20c3096f4a8ed354b436b6350196fc46139"
+                  },
+                  {
+                      "File":  "docs/ACEPTACION_1.1.0_FINAL.ini",
+                      "Sha256":  "a660cd33163bb47553ea7b6579a7ba0a15f354e55ec8ffdd60fa92ec8df26d6e"
+                  },
+                  {
+                      "File":  "docs/ACEPTACION_1.1.0_RC1.ini",
+                      "Sha256":  "2eb035465e9bfa854c5c3f935cb42ee84d1239c6d0dcdd93ee0c05b94061184b"
+                  },
+                  {
+                      "File":  "docs/ACEPTACION_1.2.0.ini",
+                      "Sha256":  "4dfbcd19bd3a0063e320e39baf96f16efdfd81928415e34fbe549119b3c70940"
+                  },
+                  {
+                      "File":  "docs/ACEPTACION_1.2.0_PREVIEW1.ini",
+                      "Sha256":  "9f054029906d30e33ef303744c164c3a73fc937befa34f2774567ca78d570f80"
+                  },
+                  {
+                      "File":  "docs/ACEPTACION_1.2.0_PREVIEW2.ini",
+                      "Sha256":  "5edf345bdbe3f9f78bbec606d353dd141a61627f4651a2b16f22079548cb0bce"
+                  },
+                  {
+                      "File":  "docs/ACEPTACION_1.2.0_PREVIEW3.ini",
+                      "Sha256":  "3adb7d91faa89ec03bb6dd3351378cb6f386baae544b789738701e004744f186"
+                  },
+                  {
+                      "File":  "docs/ACEPTACION_1.2.1.ini",
+                      "Sha256":  "f45593ef6e79ddac9dbfd5bd71cd53313b78538f56358eb33ee67cf4a217dc51"
+                  },
+                  {
+                      "File":  "docs/ACEPTACION_1.2.2.ini",
+                      "Sha256":  "b197f010c9340283b4dcd848149b94f318b6c4a96a4c48717a2a855ba1fbb5bd"
+                  },
+                  {
+                      "File":  "docs/ACTUALIZACIONES.md",
+                      "Sha256":  "323e6eb89ee1a01a6621909d9b9e5284b6e1648c7c9151cdcd18d8210963721a"
+                  },
+                  {
+                      "File":  "docs/ACTUALIZADOR_MOTOR.md",
+                      "Sha256":  "b459683061132fa763187aa6db700d919d0b4f8e44fb08eb602f860796e2ef7d"
+                  },
+                  {
+                      "File":  "docs/AYUDA_FUNCIONES_VENTAJAS.md",
+                      "Sha256":  "086393f3772d84b67276e726b50dc24545e86e873b690046292a97cfacbb6218"
+                  },
+                  {
+                      "File":  "docs/COBERTURA_LOCALIZACION_1.2.0_PREVIEW2.json",
+                      "Sha256":  "0b9a6db6f3a327d11191ded6b8d847c3cc3f2cfa9b0011eacd47a050ff8ca7df"
+                  },
+                  {
+                      "File":  "docs/COBERTURA_NUEVOS_TEXTOS_1.2.0_PREVIEW3.json",
+                      "Sha256":  "774090e0a7060bfcc47c0c07e301a46b7645aa502fbfdec871a977d4f82fce8f"
+                  },
+                  {
+                      "File":  "docs/COMO_EXPORTAR_CORREOS.md",
+                      "Sha256":  "ee28a958b3c79c73f49579cf3632d9363625857ac2394e80bd0cccdbfdc896b5"
+                  },
+                  {
+                      "File":  "docs/HOJA-DE-RUTA.md",
+                      "Sha256":  "89b14b1864165d0e3b43b9d6d8b99127ebfb9bc5ec21317b302b7074929e4d63"
+                  },
+                  {
+                      "File":  "docs/LOCALIZACION_1.2.0.md",
+                      "Sha256":  "3896a0bfe796cb8e2351acc59e1119521e6dcab1b50c6457b854c2e2444e7870"
+                  },
+                  {
+                      "File":  "docs/LOCALIZACION_1.2.0_PREVIEW2.md",
+                      "Sha256":  "9fcee167dd64e28e965b1375172f7c0e58c62389ac146023fe279902d33a4b4f"
+                  },
+                  {
+                      "File":  "docs/LOCALIZACION_1.2.0_PREVIEW3.md",
+                      "Sha256":  "9b94bc61c602f25a3a26da23b9765131c8e368058cc284269746ec149bf2f0b8"
+                  },
+                  {
+                      "File":  "docs/OFFLINE-Y-ACTUALIZACIONES.md",
+                      "Sha256":  "015d6798435ce86678ad0324178f8dc35fe0aaff09fab07bf89e6278ecbcbf11"
+                  },
+                  {
+                      "File":  "docs/OPCIONES_Y_SEGUIMIENTO.md",
+                      "Sha256":  "5421858588e5508310629df1c7fdd248fa5e6eb5c5b972a82dffecd022c73de3"
+                  },
+                  {
+                      "File":  "docs/OUTLOOK_GRAPH.md",
+                      "Sha256":  "5d513305238af269114c914d75ccb00806f7ce8f09646e551a1673557a086821"
+                  },
+                  {
+                      "File":  "docs/PALCLAM_AI_FUTURO.md",
+                      "Sha256":  "7189184e156f814bdb68a36822b444c61606857b720c8aa6e6ab51ca384baf1d"
+                  },
+                  {
+                      "File":  "docs/PALCLAM_AI_PROVEEDORES.md",
+                      "Sha256":  "5fe525f29a8d7ec46b404355689943280b81fdb04574b4d62113f65c831afd0a"
+                  },
+                  {
+                      "File":  "docs/PROMPT_PARA_WORK.md",
+                      "Sha256":  "78bce6a6e5ecc0ff7f6291254ed181ce9cfcc4cbed995c7fb85169edd165d087"
+                  },
+                  {
+                      "File":  "docs/PRUEBAS_0.10.0.md",
+                      "Sha256":  "3011f301e97c792a19222ac69fd8e9d8cfd7ec3f9f967c2775c05ee1539afa1c"
+                  },
+                  {
+                      "File":  "docs/PRUEBAS_0.7.0.md",
+                      "Sha256":  "cf6a9c831c2e1c135d8aa4e3654dd3c290e01a4c8dde5b6ae5c96e64efcd02f5"
+                  },
+                  {
+                      "File":  "docs/PRUEBAS_0.8.0.md",
+                      "Sha256":  "ed932a67478e46163b931b33f53a899a0ee890b43b1fe5ab660d802ec5eff4ee"
+                  },
+                  {
+                      "File":  "docs/PRUEBAS_0.9.0.md",
+                      "Sha256":  "01426baf992b6639e5fde53d12ce7fc13ee81d245429ce4246baa19d35869923"
+                  },
+                  {
+                      "File":  "docs/PRUEBAS_1.0.0_ESTABLE.md",
+                      "Sha256":  "4b52e5cd3673cc59285a2100418da970a8d121105317e00c94471463dfe5e62b"
+                  },
+                  {
+                      "File":  "docs/PRUEBAS_1.0.0_RC1.md",
+                      "Sha256":  "04b226c4cdfc2aab7973313d8fb732316fa671c2c93531b7a75e9a3d630b44d7"
+                  },
+                  {
+                      "File":  "docs/PRUEBAS_1.0.0_RC2.md",
+                      "Sha256":  "21a71d16a405a5f244c1640170f73ce3194495f016ab3d68f7f4148cb7e71aad"
+                  },
+                  {
+                      "File":  "docs/PRUEBAS_1.0.0_RC3.md",
+                      "Sha256":  "abda3a3816bcaf1cb9a51355dbcacd9b7911c28e52588a0b5933616070f0d62c"
+                  },
+                  {
+                      "File":  "docs/PRUEBAS_1.0.0_RC4.md",
+                      "Sha256":  "06b158e89a043676d74670b2b45cae7407409bb2dde86f731882d26ff4952cdc"
+                  },
+                  {
+                      "File":  "docs/PRUEBAS_1.0.0_RC5.md",
+                      "Sha256":  "4f42d736636d1ad2bbd77a1cf54b334daa1bb8f9d178f619e39b8be8cb301fce"
+                  },
+                  {
+                      "File":  "docs/PRUEBAS_1.0.0_RC6.md",
+                      "Sha256":  "34191a905926f3343b341399db4e48e141bd2a9cdad9fa5ec9f8d4d4c50330a7"
+                  },
+                  {
+                      "File":  "docs/PRUEBAS_1.0.0_RC7.md",
+                      "Sha256":  "63a882c191bfe029e4ad8cb6edade74ce207014f2439c0009b475ec8e84c9ce3"
+                  },
+                  {
+                      "File":  "docs/PRUEBAS_1.0.0_RC8.md",
+                      "Sha256":  "d1e49e05f2fe9b2abc49eba8705b1a8139f3fcc51918b00ad933a69644581283"
+                  },
+                  {
+                      "File":  "docs/PRUEBAS_1.1.0_FINAL.md",
+                      "Sha256":  "5a283f30f5f263b30514561ceacc61d05fa64cd5a999b5577c31dfed07e00d52"
+                  },
+                  {
+                      "File":  "docs/PRUEBAS_1.1.0_PREVIEW1.md",
+                      "Sha256":  "56aba169812eb5d978fa6459b82a7136034963fbee7ba545541070255ebb3293"
+                  },
+                  {
+                      "File":  "docs/PRUEBAS_1.1.0_PREVIEW10.md",
+                      "Sha256":  "3286888123cfaeb4160d83162fe419803882271591a16dc8d681c385c80aff3f"
+                  },
+                  {
+                      "File":  "docs/PRUEBAS_1.1.0_PREVIEW11.md",
+                      "Sha256":  "977ee74659526f5309438941f01d8114be0a2d98b342c896c4708ffe015365cc"
+                  },
+                  {
+                      "File":  "docs/PRUEBAS_1.1.0_PREVIEW12.md",
+                      "Sha256":  "63e75c9be10a50f0fd8c255bd79779c90114279d826d5399ba4f6f3d40e7315f"
+                  },
+                  {
+                      "File":  "docs/PRUEBAS_1.1.0_PREVIEW13.md",
+                      "Sha256":  "976dcf05c08d1bbda1d1afd54f203fa9b43c0dcc4d90b07e53f66da49f3007d2"
+                  },
+                  {
+                      "File":  "docs/PRUEBAS_1.1.0_PREVIEW13_FIX1.md",
+                      "Sha256":  "8dfeefc2107fdbcba9cc762daf0633149452c3c5ff9d0f4ea5db54a590e5aa63"
+                  },
+                  {
+                      "File":  "docs/PRUEBAS_1.1.0_PREVIEW13_FIX2.md",
+                      "Sha256":  "8275b31cb7f6f7eda134181a4962390b6b0a878face8a1c3a24460a4b37e23be"
+                  },
+                  {
+                      "File":  "docs/PRUEBAS_1.1.0_PREVIEW14.md",
+                      "Sha256":  "695879eff364616e26af5499616dded70a231be08bfeeb08c883524d9b51a381"
+                  },
+                  {
+                      "File":  "docs/PRUEBAS_1.1.0_PREVIEW14_AURORA_INICIO.md",
+                      "Sha256":  "acfe6386afe8ffb486a944b075c2befade61a786269138dc00fa05ecafafd978"
+                  },
+                  {
+                      "File":  "docs/PRUEBAS_1.1.0_PREVIEW14_FIX2.md",
+                      "Sha256":  "cf70012dcd9f5b2852a9e4695a57e00a564f6ca6ecf997f3d66d4a8d97ea31b3"
+                  },
+                  {
+                      "File":  "docs/PRUEBAS_1.1.0_PREVIEW15.md",
+                      "Sha256":  "1d13e115da2125b3910a64aa162194edce380c5d8f53cd49e0116fa55f43c1f9"
+                  },
+                  {
+                      "File":  "docs/PRUEBAS_1.1.0_PREVIEW16.md",
+                      "Sha256":  "93ded46d6b89fdf2f86476246b2d5acc7189d4fe37da277044212989a7e0540a"
+                  },
+                  {
+                      "File":  "docs/PRUEBAS_1.1.0_PREVIEW17.md",
+                      "Sha256":  "b04f31457137ff03a27fbe6783174874ce67154ae1d806a8abe20c6cb5bf8062"
+                  },
+                  {
+                      "File":  "docs/PRUEBAS_1.1.0_PREVIEW18.md",
+                      "Sha256":  "b841666c7d388b3c839aafba233014dab66ef434d21d702e713b669d9f21c3cf"
+                  },
+                  {
+                      "File":  "docs/PRUEBAS_1.1.0_PREVIEW19.md",
+                      "Sha256":  "c507953b7bf1349bf5f5ff752e6441ae0c85cf498142f3da03b6e656483d0285"
+                  },
+                  {
+                      "File":  "docs/PRUEBAS_1.1.0_PREVIEW2.md",
+                      "Sha256":  "d5d263f9a888d35d4df950112532386532b7e872c3e7717cd18bf76255ae013d"
+                  },
+                  {
+                      "File":  "docs/PRUEBAS_1.1.0_PREVIEW20.md",
+                      "Sha256":  "34d65fade9c88980fa257745a83c7ce32ab9511840af6bf5c6207e5a6bc80278"
+                  },
+                  {
+                      "File":  "docs/PRUEBAS_1.1.0_PREVIEW21.md",
+                      "Sha256":  "5d3b4a01b2198a37170cf0f9d24b82f8db411c38e7c13f262bf1bb609cd451b7"
+                  },
+                  {
+                      "File":  "docs/PRUEBAS_1.1.0_PREVIEW22.md",
+                      "Sha256":  "709cddf0d629fd8ed095d7676e27b4031c818d190814ef9ca682c1572f59a735"
+                  },
+                  {
+                      "File":  "docs/PRUEBAS_1.1.0_PREVIEW23.md",
+                      "Sha256":  "726bf71ec4e1e250039df22c7c6a050cb023ecf447efb0b2b00515c97cd41f23"
+                  },
+                  {
+                      "File":  "docs/PRUEBAS_1.1.0_PREVIEW24.md",
+                      "Sha256":  "8d874240a6b5eb48cdfee41e9eb3e56c6dbb6610770dc4b5f1b6c7e4c54fc20c"
+                  },
+                  {
+                      "File":  "docs/PRUEBAS_1.1.0_PREVIEW25.md",
+                      "Sha256":  "121e2e675a67bdc84afa14d8b7dbf9516cac42f41fde539781320159a571da05"
+                  },
+                  {
+                      "File":  "docs/PRUEBAS_1.1.0_PREVIEW3.md",
+                      "Sha256":  "bf376dfa3ae96ad406385840138bf0b0bafa2fdd67c2f42ff190bb9808e04c81"
+                  },
+                  {
+                      "File":  "docs/PRUEBAS_1.1.0_PREVIEW5.md",
+                      "Sha256":  "a2449a6e88af68bbb9225842a175ba71da134285f53e56f84d478253ace42025"
+                  },
+                  {
+                      "File":  "docs/PRUEBAS_1.1.0_PREVIEW6.md",
+                      "Sha256":  "8e8dbecff1bb9176abd300e0b66cd196074928b6bc2d77e1a65735d792a63425"
+                  },
+                  {
+                      "File":  "docs/PRUEBAS_1.1.0_PREVIEW7.md",
+                      "Sha256":  "5763135690f431a601660dc93e6a60f20bd3436a84e19bd20034783fcfb045af"
+                  },
+                  {
+                      "File":  "docs/PRUEBAS_1.1.0_PREVIEW8.md",
+                      "Sha256":  "373641518c600e60a5c5a2a3ec2e06f2081e63098635e2abdf451920edf084cf"
+                  },
+                  {
+                      "File":  "docs/PRUEBAS_1.1.0_PREVIEW9.md",
+                      "Sha256":  "3df869e4f8ff5a445f49593df710ab482feeacf15dff6806e29882d6cf140bae"
+                  },
+                  {
+                      "File":  "docs/PRUEBAS_1.1.0_RC1.md",
+                      "Sha256":  "e12a0ba72704ad0247a35686339388c5e705498e121d5845404dd6df7e1410bb"
+                  },
+                  {
+                      "File":  "docs/PRUEBAS_1.2.0.md",
+                      "Sha256":  "fe537f1f7d2171f99f9bc07105cd0280174146da943111a8714b7de0ab8cd34d"
+                  },
+                  {
+                      "File":  "docs/PRUEBAS_1.2.0_PREVIEW1.md",
+                      "Sha256":  "0e96acfcec19385f03b5ace0ca97afc6203de2858a2e5b3d54e78552d27ed3e1"
+                  },
+                  {
+                      "File":  "docs/PRUEBAS_1.2.0_PREVIEW2.md",
+                      "Sha256":  "793b74a98fe86c363df2e8b565da9d0929653b58e263da4eb84d29b409af65b4"
+                  },
+                  {
+                      "File":  "docs/PRUEBAS_1.2.0_PREVIEW3.md",
+                      "Sha256":  "dc74b2116cae334944d057e1bd075255bcb22f032ebe392203379d1ce2b2eaa5"
+                  },
+                  {
+                      "File":  "docs/PRUEBAS_RC1_CIERRE_VISUAL.md",
+                      "Sha256":  "ef7ed009973181e5b0acad24ffa4a41ff9f3199da38c62bbc073b70c7791c63d"
+                  },
+                  {
+                      "File":  "docs/PRUEBAS_RC1_CIERRE_VISUAL_FIX2.md",
+                      "Sha256":  "a8a926134c12423a9c3b542ad6b47c6d83f502bd9335bb66bda188bd19aa0e14"
+                  },
+                  {
+                      "File":  "docs/RESULTADOS_1.2.0.md",
+                      "Sha256":  "2a3705d353bf58f7b5fe2eedb3e4708375a28542045f4bc3c09ea82015c623b7"
+                  },
+                  {
+                      "File":  "docs/RESULTADOS_1.2.0_PREVIEW1.md",
+                      "Sha256":  "754423fcc895214383a7cbb12fb5abbd83a7019c2fe475ab6368ba8a23fb216c"
+                  },
+                  {
+                      "File":  "docs/RESULTADOS_1.2.0_PREVIEW2.md",
+                      "Sha256":  "054f83ee759be3279aa9f2042808a95728b9cae6d7a85d49ebccc9e90fb61a7e"
+                  },
+                  {
+                      "File":  "docs/RESULTADOS_1.2.0_PREVIEW3.md",
+                      "Sha256":  "fa613bd0ec45e6935487ec452bcc426bbe09de4b12061a8b7263ed88fb1164a2"
+                  },
+                  {
+                      "File":  "docs/RESULTADOS_1.2.1.md",
+                      "Sha256":  "ccd8daa911f38e1b82f9e898ed8d72dd44f18f3103e9811eea963f89fade38d4"
+                  },
+                  {
+                      "File":  "docs/RESULTADOS_1.2.2.md",
+                      "Sha256":  "4485723469ce299e6652640196fade05c3a452ef0884268c57d602a7221064f4"
+                  },
+                  {
+                      "File":  "docs/TERCEROS-Y-LEGAL.md",
+                      "Sha256":  "a7474f9c99413e696e705aa2d6c972ec17d2543181ffa6e2d6867a600949f7c9"
+                  },
+                  {
+                      "File":  "docs/TRADUCCIONES_Y_REVISION_PREVIEW2.md",
+                      "Sha256":  "74c98ec906aca475b0dbc57cf3b6f8fa84e611e41227dc341f9a5477671fa4c7"
+                  },
+                  {
+                      "File":  "docs/TRASPASO_A_WORK_MULTILENGUAJE.md",
+                      "Sha256":  "227c8281ca2b72de8d5d7650bc8f72b28680a508ed5411d70fe4b69e74440bca"
+                  },
+                  {
+                      "File":  "docs/USO_1.2.0.md",
+                      "Sha256":  "1e7896919f104a9ac01d6539f7a86a7895f936c35ee27aedafcaaff5f7ded392"
+                  },
+                  {
+                      "File":  "docs/USO_1.2.0_PREVIEW3.md",
+                      "Sha256":  "ed711b73b3be63b1c89efa87b67879a52beba82bf2d84bacc9a462b361549110"
+                  },
+                  {
+                      "File":  "docs/USO_1.2.1.md",
+                      "Sha256":  "0d88187a1a1627f7529107b06643b1d72631ac0ba7881017154105ae11a6f222"
+                  },
+                  {
+                      "File":  "docs/USO_1.2.2.md",
+                      "Sha256":  "6323f7f5b62c549a2f98202392a7667b8ed1c14c25afd2f45b6b0de3f4478397"
+                  },
+                  {
+                      "File":  "docs/validacion-1.2.0/index.json",
+                      "Sha256":  "ae12318238602a3382fef0b10d17b7e6b3e082b0d17a3e8805063c3d1866b2ef"
+                  },
+                  {
+                      "File":  "docs/validacion-1.2.0/localization.txt",
+                      "Sha256":  "d0d8670b89cd4b28c0780d0d39563e228e31acd86ce7bd59e41cc744e07c7309"
+                  },
+                  {
+                      "File":  "docs/validacion-1.2.0/service-build.txt",
+                      "Sha256":  "616d0a311f910bbd68a22f53c2f3f651dadadfcb81b2a526b5c747dc57b1f659"
+                  },
+                  {
+                      "File":  "docs/validacion-1.2.0/static.txt",
+                      "Sha256":  "81f517c9c60ac0414e541eb24db216479f1891584fcb6a99f42642daa182a2d6"
+                  },
+                  {
+                      "File":  "docs/validacion-1.2.0/version-and-integrity.txt",
+                      "Sha256":  "e5d5b6243a9bd9c0229733a6437b5186fcb2875feb83c43d3bba73559ff3f768"
+                  },
+                  {
+                      "File":  "docs/validacion-1.2.0/wpf-build.txt",
+                      "Sha256":  "66b1186cd8c710593507e4b737c1b4652ebfd24f301213bfde922561a12cd73b"
+                  },
+                  {
+                      "File":  "docs/validacion-1.2.1/distribution.txt",
+                      "Sha256":  "a5d461a9454f1c9c622dd8a32c5333c5caeaec9c0ccf86d6dc9883db8ad894b1"
+                  },
+                  {
+                      "File":  "docs/validacion-1.2.1/features.txt",
+                      "Sha256":  "7eaf1c206818941343155f7fdd65afd79ea685f3b86bd3bdd1b39e9d498ed1b4"
+                  },
+                  {
+                      "File":  "docs/validacion-1.2.1/final-compilation.json",
+                      "Sha256":  "832820ae72ab6abb161b7c9b7bf2eb429a92d9f6fc0be922cc29ceb160257bbd"
+                  },
+                  {
+                      "File":  "docs/validacion-1.2.1/index.json",
+                      "Sha256":  "ed30a28ebbd6e60482a7cc8e5c6bb9b7577e1d02ac1d19674aecf2bc2cbc6630"
+                  },
+                  {
+                      "File":  "docs/validacion-1.2.1/licenses.txt",
+                      "Sha256":  "d4712fe6fc91c8f08c3b43fa47294a3ddd4cc4964df16efe865163b2e81fc011"
+                  },
+                  {
+                      "File":  "docs/validacion-1.2.1/localization.txt",
+                      "Sha256":  "54d8427b708ac67f8317693a715730ef0ef96002b0abd09e7cb82b3b51f64c6b"
+                  },
+                  {
+                      "File":  "docs/validacion-1.2.1/packaging.txt",
+                      "Sha256":  "8e8f0b4bb497cd0d28c1e70b6da6505b3a6b8ddf5d085fa58a131ac74fdb2014"
+                  },
+                  {
+                      "File":  "docs/validacion-1.2.1/PalClam-win-x64.txt",
+                      "Sha256":  "e34e2614c20659b90bf025c250c8ce1e4825197428434ddc9c846d7b1a1beb6e"
+                  },
+                  {
+                      "File":  "docs/validacion-1.2.1/PalClam-win-x86.txt",
+                      "Sha256":  "36eaca0497a30e726bb5bfa155e15325efb67f8f873683f8537bdb0e5bbae042"
+                  },
+                  {
+                      "File":  "docs/validacion-1.2.1/PalClam.Service-win-x64.txt",
+                      "Sha256":  "59908c8632ca1db43a57322cb4e7670f88ee3995bab0ed1f961b1c211a16a191"
+                  },
+                  {
+                      "File":  "docs/validacion-1.2.1/PalClam.Service-win-x86.txt",
+                      "Sha256":  "287a91057f3852c7de639ae465f030503bcfcff7b6595b90f643c6d00bdce479"
+                  },
+                  {
+                      "File":  "docs/validacion-1.2.1/smoke.txt",
+                      "Sha256":  "2f3185a09adbbd2d7bba458eb8612c49c2874c5a6b284898510d2ced0aecdd99"
+                  },
+                  {
+                      "File":  "docs/validacion-1.2.1/source-check.txt",
+                      "Sha256":  "9820f9da3e8b79779a5a70ff66659cd0e294627302cd7dc23dcf95adc41e4a97"
+                  },
+                  {
+                      "File":  "docs/validacion-1.2.1/theme-build.txt",
+                      "Sha256":  "75bf7870d42d39eacc9a073fcd488396d2a4ef4c5cb0f043803a41f58e56157a"
+                  },
+                  {
+                      "File":  "docs/validacion-1.2.2/build-results.json",
+                      "Sha256":  "2e53afc3f446bb0bff93101b9a9d11af863f6ae89792bf258a697ed3b374f8d0"
+                  },
+                  {
+                      "File":  "docs/validacion-1.2.2/gpl3-published.txt",
+                      "Sha256":  "b47a4a027ee2198bbc4a46b656058ed17285355b55b586de6aabfc0377c6edb0"
+                  },
+                  {
+                      "File":  "docs/validacion-1.2.2/legal-inventory.txt",
+                      "Sha256":  "d4712fe6fc91c8f08c3b43fa47294a3ddd4cc4964df16efe865163b2e81fc011"
+                  },
+                  {
+                      "File":  "docs/validacion-1.2.2/packaging.txt",
+                      "Sha256":  "00204f1b37fb18e6dc49a7ccf8caa4a51c3fd37de14448fadb5dc891aba86f69"
+                  },
+                  {
+                      "File":  "docs/validacion-1.2.2/PalClam-win-x64.txt",
+                      "Sha256":  "9cf13fd2ef3e64d0acd6429f45d7dcf2b6fb12487a7f14bfd55838c08e5f492c"
+                  },
+                  {
+                      "File":  "docs/validacion-1.2.2/PalClam-win-x86.txt",
+                      "Sha256":  "c9c2e2e5f6e1915cfd62a5ca4b1e254e5946953cf7d32eccb806bc7c6b554474"
+                  },
+                  {
+                      "File":  "docs/validacion-1.2.2/PalClam.DistributionTests.txt",
+                      "Sha256":  "a5d461a9454f1c9c622dd8a32c5333c5caeaec9c0ccf86d6dc9883db8ad894b1"
+                  },
+                  {
+                      "File":  "docs/validacion-1.2.2/PalClam.FeatureTests.txt",
+                      "Sha256":  "7eaf1c206818941343155f7fdd65afd79ea685f3b86bd3bdd1b39e9d498ed1b4"
+                  },
+                  {
+                      "File":  "docs/validacion-1.2.2/PalClam.LocalizationTests.txt",
+                      "Sha256":  "54d8427b708ac67f8317693a715730ef0ef96002b0abd09e7cb82b3b51f64c6b"
+                  },
+                  {
+                      "File":  "docs/validacion-1.2.2/PalClam.Service-win-x64.txt",
+                      "Sha256":  "c90908428bcb38c86250c76374bff503073b78b42a476af8043d7a61b224a749"
+                  },
+                  {
+                      "File":  "docs/validacion-1.2.2/PalClam.Service-win-x86.txt",
+                      "Sha256":  "13c53c5b8ba1dc97737423f2092cae3463fbf0be13c0cdb7301c2ba20dcb9d25"
+                  },
+                  {
+                      "File":  "docs/validacion-1.2.2/source-check.txt",
+                      "Sha256":  "4e125a2a3a04e950042941a06242699b6e8e6cfdb3f639d5c226dc745c79f38a"
+                  },
+                  {
+                      "File":  "docs/validacion-1.2.2/Theme-build.txt",
+                      "Sha256":  "94fbddf0d5788629604907a56ba32d26b3275cc5ab4011ac2a111cbbfce80114"
+                  },
+                  {
+                      "File":  "docs/validacion-1.2.2-FIX1/bootstrap.txt",
+                      "Sha256":  "3fea784f64f8711142a7d2dc4b02f16ee1511c1c3021ff53872b1d6fc107ed9b"
+                  },
+                  {
+                      "File":  "docs/validacion-1.2.2-FIX1/packaging.txt",
+                      "Sha256":  "0a6626b3beea01a81eeb2fd1f5374bbae94a9689d9904de1133b00bc412437cb"
+                  },
+                  {
+                      "File":  "docs/validacion-1.2.2-FIX1/public-gpl3.txt",
+                      "Sha256":  "7168da61e98e37f86baa45316b99341c272c1780da6a76b80db958bfa447abb9"
+                  },
+                  {
+                      "File":  "docs/validacion-1.2.2-FIX1/public-source-check.txt",
+                      "Sha256":  "4e125a2a3a04e950042941a06242699b6e8e6cfdb3f639d5c226dc745c79f38a"
+                  },
+                  {
+                      "File":  "docs/validacion-1.2.2-FIX1/source-check.txt",
+                      "Sha256":  "4e125a2a3a04e950042941a06242699b6e8e6cfdb3f639d5c226dc745c79f38a"
+                  },
+                  {
+                      "File":  "docs/validacion-1.2.2-FIX2/bootstrap.txt",
+                      "Sha256":  "85c686bbe9a39cd3455d6f47600f510b6fa01c23a553e58a56678d0819e6c3d1"
+                  },
+                  {
+                      "File":  "docs/validacion-1.2.2-FIX2/gpl3.txt",
+                      "Sha256":  "7168da61e98e37f86baa45316b99341c272c1780da6a76b80db958bfa447abb9"
+                  },
+                  {
+                      "File":  "docs/validacion-1.2.2-FIX2/packaging.txt",
+                      "Sha256":  "d1a47008bcffab1eb198c3f03e05066d3d2439408e840d6bea2db2406205450e"
+                  },
+                  {
+                      "File":  "docs/validacion-1.2.2-FIX2/source-check.txt",
+                      "Sha256":  "4e125a2a3a04e950042941a06242699b6e8e6cfdb3f639d5c226dc745c79f38a"
+                  },
+                  {
+                      "File":  "docs/validacion-1.2.2-FIX2/support.txt",
+                      "Sha256":  "92cfbb69c5beb1cad38babdcb7d19fd14496a03a8a594a9892d0a6780dde3aae"
+                  },
+                  {
+                      "File":  "docs/validacion-1.2.2-FIX3/bootstrap.txt",
+                      "Sha256":  "85c686bbe9a39cd3455d6f47600f510b6fa01c23a553e58a56678d0819e6c3d1"
+                  },
+                  {
+                      "File":  "docs/validacion-1.2.2-FIX3/gpl3.txt",
+                      "Sha256":  "7168da61e98e37f86baa45316b99341c272c1780da6a76b80db958bfa447abb9"
+                  },
+                  {
+                      "File":  "docs/validacion-1.2.2-FIX3/packaging-stages.txt",
+                      "Sha256":  "d986b012089ec086b0c0b238b0988e9a9d844c59a63a2e5799bcdb23f71817a4"
+                  },
+                  {
+                      "File":  "docs/validacion-1.2.2-FIX3/packaging.txt",
+                      "Sha256":  "0be0bee65ac5a02b6ad9dda1cbcce97f6f8f204aa70fdfb6c82d564f763d7b1d"
+                  },
+                  {
+                      "File":  "docs/validacion-1.2.2-FIX3/public-bootstrap.txt",
+                      "Sha256":  "302045b0410310c68c99b61a85dbb757c76d580f8c1fc77be8b31fc6bc0315aa"
+                  },
+                  {
+                      "File":  "docs/validacion-1.2.2-FIX3/public-gpl3.txt",
+                      "Sha256":  "7168da61e98e37f86baa45316b99341c272c1780da6a76b80db958bfa447abb9"
+                  },
+                  {
+                      "File":  "docs/validacion-1.2.2-FIX3/public-source-check.txt",
+                      "Sha256":  "4e125a2a3a04e950042941a06242699b6e8e6cfdb3f639d5c226dc745c79f38a"
+                  },
+                  {
+                      "File":  "docs/validacion-1.2.2-FIX3/public-source-create.txt",
+                      "Sha256":  "902d1aaeae3ccfab0167c9523d1af70783105aaedcebe3fa9d5ee6a92733c4fb"
+                  },
+                  {
+                      "File":  "docs/validacion-1.2.2-FIX3/public-source-integrity.txt",
+                      "Sha256":  "ae7b30569cb1c95bbc6676c8652733575609ca1dbe6e6665327ca83c78b55612"
+                  },
+                  {
+                      "File":  "docs/validacion-1.2.2-FIX3/regression-before-after.txt",
+                      "Sha256":  "41d02eeec3cdb5e1ef4441e545002b4bc90ccb39eb6ebb45d7352c3b08a93f79"
+                  },
+                  {
+                      "File":  "docs/validacion-1.2.2-FIX3/source-check.txt",
+                      "Sha256":  "4e125a2a3a04e950042941a06242699b6e8e6cfdb3f639d5c226dc745c79f38a"
+                  },
+                  {
+                      "File":  "docs/validacion-1.2.2-FIX3/support.txt",
+                      "Sha256":  "92cfbb69c5beb1cad38babdcb7d19fd14496a03a8a594a9892d0a6780dde3aae"
+                  },
+                  {
+                      "File":  "docs/validacion-1.2.2-FIX4/distribution.txt",
+                      "Sha256":  "a5d461a9454f1c9c622dd8a32c5333c5caeaec9c0ccf86d6dc9883db8ad894b1"
+                  },
+                  {
+                      "File":  "docs/validacion-1.2.2-FIX4/dotnet-info.txt",
+                      "Sha256":  "b7c0be7bfa3f68ce6a1982181674d87fa094b779bb3a7582c3d3ef7887a8f75e"
+                  },
+                  {
+                      "File":  "docs/validacion-1.2.2-FIX4/features.txt",
+                      "Sha256":  "1da3a95bc483ed7ce89e125c276931b4acc3b6b4b4154687fae13283469bbefe"
+                  },
+                  {
+                      "File":  "docs/validacion-1.2.2-FIX4/gpl3.txt",
+                      "Sha256":  "7168da61e98e37f86baa45316b99341c272c1780da6a76b80db958bfa447abb9"
+                  },
+                  {
+                      "File":  "docs/validacion-1.2.2-FIX4/localization.txt",
+                      "Sha256":  "54d8427b708ac67f8317693a715730ef0ef96002b0abd09e7cb82b3b51f64c6b"
+                  },
+                  {
+                      "File":  "docs/validacion-1.2.2-FIX4/public-gpl3.txt",
+                      "Sha256":  "7168da61e98e37f86baa45316b99341c272c1780da6a76b80db958bfa447abb9"
+                  },
+                  {
+                      "File":  "docs/validacion-1.2.2-FIX4/public-source-check.txt",
+                      "Sha256":  "4e125a2a3a04e950042941a06242699b6e8e6cfdb3f639d5c226dc745c79f38a"
+                  },
+                  {
+                      "File":  "docs/validacion-1.2.2-FIX4/public-source-create.txt",
+                      "Sha256":  "902d1aaeae3ccfab0167c9523d1af70783105aaedcebe3fa9d5ee6a92733c4fb"
+                  },
+                  {
+                      "File":  "docs/validacion-1.2.2-FIX4/public-source-integrity.txt",
+                      "Sha256":  "68d43120b0633e290a28af7a6e9f2f0f86e0dca9bb49caad4f4b3fe9167b1276"
+                  },
+                  {
+                      "File":  "docs/validacion-1.2.2-FIX4/smoke.txt",
+                      "Sha256":  "1b641d6d6b91a14749c53580622b9a7af1e3509d47ddbe95b75a3664601fe6b8"
+                  },
+                  {
+                      "File":  "docs/validacion-1.2.2-FIX4/source-check.txt",
+                      "Sha256":  "4e125a2a3a04e950042941a06242699b6e8e6cfdb3f639d5c226dc745c79f38a"
+                  },
+                  {
+                      "File":  "docs/validacion-preview2/localization.txt",
+                      "Sha256":  "4d3632368fc3676df601b1aef2449f4abed8bc17e26e697fb77b0149becf4a65"
+                  },
+                  {
+                      "File":  "docs/validacion-preview2/service-build.txt",
+                      "Sha256":  "a0d372e40d7f0cbca07856794e2b9998f0e87999e743c5ef1e24d2fe51503ea9"
+                  },
+                  {
+                      "File":  "docs/validacion-preview2/theme-build.txt",
+                      "Sha256":  "0bffba71c57b5cc8f520cefe49e133f8171e9cd3fa28077472fcb4e521dd315b"
+                  },
+                  {
+                      "File":  "docs/validacion-preview2/wpf-build.txt",
+                      "Sha256":  "96a31279f4a41d503cfcab1375359326a5002855b27646b25c8fe9ed8c11cbc3"
+                  },
+                  {
+                      "File":  "docs/validacion-preview3/features.txt",
+                      "Sha256":  "7eaf1c206818941343155f7fdd65afd79ea685f3b86bd3bdd1b39e9d498ed1b4"
+                  },
+                  {
+                      "File":  "docs/validacion-preview3/index.json",
+                      "Sha256":  "b1a66b768af190b7ac17e87ffea77c4712e258ad796ebcdd085b901a8d9449d8"
+                  },
+                  {
+                      "File":  "docs/validacion-preview3/localization.txt",
+                      "Sha256":  "b990f8c10dc27cc4bf12968ed9206c4a46035980fbf6347646842d00ee9202e4"
+                  },
+                  {
+                      "File":  "docs/validacion-preview3/service-build.txt",
+                      "Sha256":  "8a42e0f769e30f137ce166912a76f17c7e3c734d2671f1f03be32e3eee6100b4"
+                  },
+                  {
+                      "File":  "docs/validacion-preview3/smoke.txt",
+                      "Sha256":  "2f3185a09adbbd2d7bba458eb8612c49c2874c5a6b284898510d2ced0aecdd99"
+                  },
+                  {
+                      "File":  "docs/validacion-preview3/static.txt",
+                      "Sha256":  "da2563617e36a54bb7486d0135f785e2dcd99a4083f66424804527c955f40b99"
+                  },
+                  {
+                      "File":  "docs/validacion-preview3/theme-build.txt",
+                      "Sha256":  "e701f47dd21a63dab18c49a61d9beb9562d60888ca4131f4a23fb5a457ad13ab"
+                  },
+                  {
+                      "File":  "docs/validacion-preview3/wpf-build.txt",
+                      "Sha256":  "a34fbd7b7183557fe3d327d84fecaeef9ad2763e921f54f76e5da105947ee2fd"
+                  },
+                  {
+                      "File":  "ThirdParty/Licenses/Inno-Setup-LICENSE.txt",
+                      "Sha256":  "2e5346868c2a18434489824e11d65c3031620f792fefc415d05f19cd441abf5c"
+                  },
+                  {
+                      "File":  "ThirdParty/Licenses/BouncyCastle.Cryptography-2.7.0/bouncycastle.cryptography.nuspec",
+                      "Sha256":  "89c51e6b51c6d804b0ca2bfc55e00e797ef5e5d79656680d769616995832efc1"
+                  },
+                  {
+                      "File":  "ThirdParty/Licenses/BouncyCastle.Cryptography-2.7.0/LICENSE.md",
+                      "Sha256":  "be0592a6c76f398356fbf252a4fb43476fb3ca3c45331428c2f4f22c499e8311"
+                  },
+                  {
+                      "File":  "ThirdParty/Licenses/BouncyCastle.Cryptography-2.7.0/PACKAGE-NOTICE.txt",
+                      "Sha256":  "aac1425a97dbb662c7488f0f223370931a60a36f6fd127b68e1a7262c4b2163a"
+                  },
+                  {
+                      "File":  "ThirdParty/Licenses/ClamAV-1.5.4/GPL-2.0.txt",
+                      "Sha256":  "edaef632cbb643e4e7a221717a6c441a4c1a7c918e6e4d56debc3d8739b233f6"
+                  },
+                  {
+                      "File":  "ThirdParty/Licenses/Microsoft.Identity.Client-4.92.0/microsoft.identity.client.nuspec",
+                      "Sha256":  "e05ddcae171cab1711c8c399fcb4cf607ab21324ee563ec84c8e4c983d481a97"
+                  },
+                  {
+                      "File":  "ThirdParty/Licenses/Microsoft.Identity.Client-4.92.0/PACKAGE-NOTICE.txt",
+                      "Sha256":  "e21a7048d29c2f7229a9c77d16dde461b346c9710c5a65d581c6f4b77e5c3932"
+                  },
+                  {
+                      "File":  "ThirdParty/Licenses/Microsoft.Identity.Client-4.92.0/UPSTREAM-LICENSE.txt",
+                      "Sha256":  "2f07c72751aed99790b8a4869cf2311df85a860b22ded05fa22803587a48922c"
+                  },
+                  {
+                      "File":  "ThirdParty/Licenses/Microsoft.IdentityModel.Abstractions-8.14.0/microsoft.identitymodel.abstractions.nuspec",
+                      "Sha256":  "4049fb99213889eee0d67fcc3f851732cbd49507b890a9c20fa89f572be22fcc"
+                  },
+                  {
+                      "File":  "ThirdParty/Licenses/Microsoft.IdentityModel.Abstractions-8.14.0/PACKAGE-NOTICE.txt",
+                      "Sha256":  "19422379537d96358d1d1dbcf695f3966b89433011359e10af8f6178bb78e8aa"
+                  },
+                  {
+                      "File":  "ThirdParty/Licenses/Microsoft.IdentityModel.Abstractions-8.14.0/UPSTREAM-LICENSE.txt",
+                      "Sha256":  "cba03f5387b05405e56b688376421acae396136af4b5116738dc6e5160f87ddd"
+                  },
+                  {
+                      "File":  "ThirdParty/Licenses/Microsoft.IO.RecyclableMemoryStream-4.0.1/microsoft.io.recyclablememorystream.nuspec",
+                      "Sha256":  "75320f615a84f0b627a78529e939969d0b555456323169654e8d94a23723f088"
+                  },
+                  {
+                      "File":  "ThirdParty/Licenses/Microsoft.IO.RecyclableMemoryStream-4.0.1/PACKAGE-NOTICE.txt",
+                      "Sha256":  "d36ee0b43017fcc7ee2de9120c0577b30d8a257065265358a532e16ebf12adf3"
+                  },
+                  {
+                      "File":  "ThirdParty/Licenses/Microsoft.IO.RecyclableMemoryStream-4.0.1/UPSTREAM-LICENSE.txt",
+                      "Sha256":  "7d6aa3550cf7aeb25ef542f616d8ead585633e3b607c65e1db4aa804e4971a91"
+                  },
+                  {
+                      "File":  "ThirdParty/Licenses/Microsoft.Maui.Graphics-10.0.120/LICENSE.TXT",
+                      "Sha256":  "d7a68596ab69b06f51ca278a6545148e4269a9381c26d597c13df5d88e08cf5b"
+                  },
+                  {
+                      "File":  "ThirdParty/Licenses/Microsoft.Maui.Graphics-10.0.120/microsoft.maui.graphics.nuspec",
+                      "Sha256":  "4c2824b3e22f5d9fdc2cbf2db1b2e245310f23e3d10a40cfb60587e4dd9dc13c"
+                  },
+                  {
+                      "File":  "ThirdParty/Licenses/Microsoft.Maui.Graphics-10.0.120/PACKAGE-NOTICE.txt",
+                      "Sha256":  "d23f3623f89138dbdb4e714928aabaee854dfd50fd25f08748f133e2dfdb9af1"
+                  },
+                  {
+                      "File":  "ThirdParty/Licenses/Microsoft.Maui.Graphics-10.0.120/THIRD-PARTY-NOTICES.TXT",
+                      "Sha256":  "45fb89606fe922d1615ee62be7f42342db766685af2ebaf2fe8d2a187100687c"
+                  },
+                  {
+                      "File":  "ThirdParty/Licenses/MimeKit-4.18.0/mimekit.nuspec",
+                      "Sha256":  "b100d936b7c61e4ff18ab2e5e875c3bd51bc73502cd4b9078ca6c76bf18f43e3"
+                  },
+                  {
+                      "File":  "ThirdParty/Licenses/MimeKit-4.18.0/PACKAGE-NOTICE.txt",
+                      "Sha256":  "a12df35c0c9b6aa7052b315067d30e65a356bf4046ebc7f4c7217f022ddc6915"
+                  },
+                  {
+                      "File":  "ThirdParty/Licenses/MimeKit-4.18.0/UPSTREAM-LICENSE.txt",
+                      "Sha256":  "c613af70a219d1cafd732f2cefd4fca9f1462ac5696f8461108a7d643513f3bf"
+                  },
+                  {
+                      "File":  "ThirdParty/Licenses/MsgReader-6.2.1/msgreader.nuspec",
+                      "Sha256":  "9ac6f3338002147a5d4828d1c14b680c5209b072398e904df37b18115c2e28cd"
+                  },
+                  {
+                      "File":  "ThirdParty/Licenses/MsgReader-6.2.1/PACKAGE-NOTICE.txt",
+                      "Sha256":  "8331f178f2a1c233508a03cfc89f3f303f8c50354ca4503e85eb1ddeb7c9cbcb"
+                  },
+                  {
+                      "File":  "ThirdParty/Licenses/MsgReader-6.2.1/UPSTREAM-LICENSE.txt",
+                      "Sha256":  "812d48b7932bb6cb7d38074f1eb46870f8e429771663d2de727eda0056c1b7a6"
+                  },
+                  {
+                      "File":  "ThirdParty/Licenses/OpenMcdf-3.4.0/GPL-2.0.txt",
+                      "Sha256":  "edaef632cbb643e4e7a221717a6c441a4c1a7c918e6e4d56debc3d8739b233f6"
+                  },
+                  {
+                      "File":  "ThirdParty/Licenses/OpenMcdf-3.4.0/GPL-3.0.txt",
+                      "Sha256":  "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+                  },
+                  {
+                      "File":  "ThirdParty/Licenses/OpenMcdf-3.4.0/openmcdf.nuspec",
+                      "Sha256":  "ab39e9f92f9738ef53e8fdf627311d89ca20c72e76e4b44f4208c1af5ec11a0d"
+                  },
+                  {
+                      "File":  "ThirdParty/Licenses/OpenMcdf-3.4.0/PACKAGE-NOTICE.txt",
+                      "Sha256":  "be05c5012fef576a7aafddf36fd6bb87b0a54e331ea5db74baa1a41a2b9a65e5"
+                  },
+                  {
+                      "File":  "ThirdParty/Licenses/OpenMcdf-3.4.0/PALCLAM-DISTRIBUTION-NOTICE.txt",
+                      "Sha256":  "073cf38c07ca4c36f5cd191685a9490f2cab12f252c3adc75bff376062f590ea"
+                  },
+                  {
+                      "File":  "ThirdParty/Licenses/OpenMcdf-3.4.0/Upstream/License.txt",
+                      "Sha256":  "4b89d4518bd135ab4ee154a7bce722246b57a98c3d7efc1a09409898160c2bd1"
+                  },
+                  {
+                      "File":  "ThirdParty/Licenses/OpenMcdf-3.4.0/Upstream/README.md",
+                      "Sha256":  "d732f0a3c35a5f711fb50f8c29172b288d35743283132b00d59bc8941a25d55a"
+                  },
+                  {
+                      "File":  "ThirdParty/Licenses/OpenMcdf-3.4.0/Upstream/OpenMcdf/System/LICENSE.TXT",
+                      "Sha256":  "cfc21f5e8bd655ae997eec916138b707b1d290b83272c02a95c9f821b8c87310"
+                  },
+                  {
+                      "File":  "ThirdParty/Licenses/RtfPipe-2.0.7677.4303/PACKAGE-NOTICE.txt",
+                      "Sha256":  "a09205125b5f9c712cc5333bc68d76ef6d05d6ee0b2419a4bbfd1388f5caf51b"
+                  },
+                  {
+                      "File":  "ThirdParty/Licenses/RtfPipe-2.0.7677.4303/rtfpipe.nuspec",
+                      "Sha256":  "82c35a9c60607c1e2af0eea63dc73498a9485071ee5bcdd4c38c6ea242e18e40"
+                  },
+                  {
+                      "File":  "ThirdParty/Licenses/RtfPipe-2.0.7677.4303/UPSTREAM-LICENSE.txt",
+                      "Sha256":  "5dfbb3096a1887fdc75be19f9215f79863379a16dfb1aae04d482789258cdcbc"
+                  },
+                  {
+                      "File":  "ThirdParty/Licenses/System.Security.Cryptography.Pkcs-10.0.14/DOTNET-LICENSE.TXT",
+                      "Sha256":  "cfc21f5e8bd655ae997eec916138b707b1d290b83272c02a95c9f821b8c87310"
+                  },
+                  {
+                      "File":  "ThirdParty/Licenses/System.Security.Cryptography.Pkcs-10.0.14/PACKAGE-NOTICE.txt",
+                      "Sha256":  "861e20449933f819aa0c8c1351baeb14f9dd2d40f3e4ccc6d37b207ee80a739f"
+                  },
+                  {
+                      "File":  "ThirdParty/Licenses/System.Security.Cryptography.Pkcs-10.0.14/system.security.cryptography.pkcs.nuspec",
+                      "Sha256":  "21d35a0f74d96b14dc11ab34ca0f59ca0751c668324ecf5d725fffdc14971817"
+                  },
+                  {
+                      "File":  "ThirdParty/Licenses/System.Security.Cryptography.Pkcs-10.0.14/THIRD-PARTY-NOTICES.TXT",
+                      "Sha256":  "6d15e10a101c6bfff2ab4429ed061bf76c456fc4b23ad6b03e0d0f8377148a21"
+                  },
+                  {
+                      "File":  "ThirdParty/Licenses/UTF.Unknown-2.8.0/GPL-2.0.txt",
+                      "Sha256":  "edaef632cbb643e4e7a221717a6c441a4c1a7c918e6e4d56debc3d8739b233f6"
+                  },
+                  {
+                      "File":  "ThirdParty/Licenses/UTF.Unknown-2.8.0/GPL-3.0.txt",
+                      "Sha256":  "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+                  },
+                  {
+                      "File":  "ThirdParty/Licenses/UTF.Unknown-2.8.0/PACKAGE-NOTICE.txt",
+                      "Sha256":  "8bcea64c4c87668bd9172a3b0545830849461e6a94b35b81ed709357418a1590"
+                  },
+                  {
+                      "File":  "ThirdParty/Licenses/UTF.Unknown-2.8.0/PALCLAM-DISTRIBUTION-NOTICE.txt",
+                      "Sha256":  "ccf8f120474a16ca8c40fd07de57609c4e5678e49c3f30792f6ff28027c43b58"
+                  },
+                  {
+                      "File":  "ThirdParty/Licenses/UTF.Unknown-2.8.0/utf.unknown.nuspec",
+                      "Sha256":  "fa957d640636c743d1d65fe7f62055593af374956fc18065d4c3ddb4c0a12774"
+                  },
+                  {
+                      "File":  "ThirdParty/Licenses/UTF.Unknown-2.8.0/Upstream/README.md",
+                      "Sha256":  "c4277420c6ce8a7a6106df6ce6d0c3e25e07a94752496d136da02c1d0802b7af"
+                  },
+                  {
+                      "File":  "ThirdParty/Licenses/UTF.Unknown-2.8.0/Upstream/license/gpl-2.0.txt",
+                      "Sha256":  "ab15fd526bd8dd18a9e77ebc139656bf4d33e97fc7238cd11bf60e2b9b8666c6"
+                  },
+                  {
+                      "File":  "ThirdParty/Licenses/UTF.Unknown-2.8.0/Upstream/license/lgpl-2.1.txt",
+                      "Sha256":  "5df07007198989c622f5d41de8d703e7bef3d0e79d62e24332ee739a452af62a"
+                  },
+                  {
+                      "File":  "ThirdParty/Licenses/UTF.Unknown-2.8.0/Upstream/license/MPL-1.1.txt",
+                      "Sha256":  "53692a2ed6c6a2c6ec9b32dd0b820dfae91e0a1fcdf625ca9ed0bdf8705fcc4f"
+                  },
+                  {
+                      "File":  "ThirdParty/Licenses/UTF.Unknown-2.8.0/Upstream/tests/Data/README.md",
+                      "Sha256":  "f89673dd3003f9537aeb187006994866d601de130a2f90d29cd9c6a0b37a2e23"
+                  },
+                  {
+                      "File":  "ThirdParty/SourcePackages/Libraries/OpenMcdf-3.4.0-687fae728616.zip",
+                      "Sha256":  "a3663551aa9f55f8e9305f9327776ee6547cbb75dfa3a5dfedf90665f3c06df5"
+                  },
+                  {
+                      "File":  "ThirdParty/SourcePackages/Libraries/UTF.Unknown-2.8.0-4654fbf0cdb4.zip",
+                      "Sha256":  "4ccd6a4aaea33472a833fa7e8f6747a4cc8ce89a50af0cdfc726420c86f23ca0"
+                  }
+              ]
+}

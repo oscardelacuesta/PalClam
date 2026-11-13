@@ -1,0 +1,34 @@
+[
+  {
+    "check": "PalClam.LocalizationTests",
+    "exit_code": 0
+  },
+  {
+    "check": "PalClam.DistributionTests",
+    "exit_code": 0
+  },
+  {
+    "check": "PalClam.FeatureTests",
+    "exit_code": 0
+  },
+  {
+    "check": "Theme-build",
+    "exit_code": 0
+  },
+  {
+    "check": "PalClam-win-x64",
+    "exit_code": 0
+  },
+  {
+    "check": "PalClam.Service-win-x64",
+    "exit_code": 0
+  },
+  {
+    "check": "PalClam-win-x86",
+    "exit_code": 0
+  },
+  {
+    "check": "PalClam.Service-win-x86",
+    "exit_code": 0
+  }
+]

@@ -1,0 +1,9 @@
+Aplicar exclusivamente SOBRE PalClam 1.1.0 Preview 16.
+
+1. Copia la carpeta Preview 16 en un directorio nuevo.
+2. Descomprime el parche sobre ese directorio, sobrescribiendo los archivos.
+3. Ejecuta PRUEBAS.bat (incluye compilación de WPF y del servicio en Windows).
+4. Si todas las pruebas terminan correctamente, ejecuta EMPEZAR_AQUI.bat.
+5. Prueba las nuevas acciones UAC únicamente en un equipo de laboratorio.
+
+Recomendado: ZIP COMPLETO de Preview 17 si no estás seguro de la base actual.

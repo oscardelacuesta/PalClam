@@ -1,0 +1,6 @@
+Microsoft.IO.RecyclableMemoryStream/4.0.1
+Authors: Microsoft
+Copyright: © Microsoft Corporation. All rights reserved.
+Declared license: MIT
+Distribution choice: MIT
+Original package metadata: microsoft.io.recyclablememorystream.nuspec

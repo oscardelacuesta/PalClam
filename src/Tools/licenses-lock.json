@@ -1,0 +1,459 @@
+{
+  "packages": [
+    {
+      "id": "BouncyCastle.Cryptography",
+      "version": "2.7.0",
+      "declared_license": "MIT",
+      "chosen_license": "MIT",
+      "authors": "Legion of the Bouncy Castle Inc.",
+      "copyright": "Copyright © Legion of the Bouncy Castle Inc. 2000-2026",
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/bcgit/bc-csharp",
+        "branch": "refs/heads/release/v2.7",
+        "commit": "4007498b13582d90ee1eda5d9920c324428b98b3"
+      },
+      "files": [
+        "LICENSE.md"
+      ],
+      "sources": [],
+      "legal_files": [
+        {
+          "file": "LICENSE.md",
+          "sha256": "be0592a6c76f398356fbf252a4fb43476fb3ca3c45331428c2f4f22c499e8311"
+        },
+        {
+          "file": "PACKAGE-NOTICE.txt",
+          "sha256": "aac1425a97dbb662c7488f0f223370931a60a36f6fd127b68e1a7262c4b2163a"
+        },
+        {
+          "file": "bouncycastle.cryptography.nuspec",
+          "sha256": "89c51e6b51c6d804b0ca2bfc55e00e797ef5e5d79656680d769616995832efc1"
+        }
+      ]
+    },
+    {
+      "id": "Microsoft.Identity.Client",
+      "version": "4.92.0",
+      "declared_license": "MIT",
+      "chosen_license": "MIT",
+      "authors": "Microsoft",
+      "copyright": "© Microsoft Corporation. All rights reserved.",
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/AzureAD/microsoft-authentication-library-for-dotnet",
+        "commit": "2465fc31fa2b481b68660670e2becfd3fba7c631"
+      },
+      "files": [
+        "UPSTREAM-LICENSE.txt"
+      ],
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/AzureAD/microsoft-authentication-library-for-dotnet/main/LICENSE",
+          "sha256": "2f07c72751aed99790b8a4869cf2311df85a860b22ded05fa22803587a48922c"
+        }
+      ],
+      "legal_files": [
+        {
+          "file": "PACKAGE-NOTICE.txt",
+          "sha256": "e21a7048d29c2f7229a9c77d16dde461b346c9710c5a65d581c6f4b77e5c3932"
+        },
+        {
+          "file": "UPSTREAM-LICENSE.txt",
+          "sha256": "2f07c72751aed99790b8a4869cf2311df85a860b22ded05fa22803587a48922c"
+        },
+        {
+          "file": "microsoft.identity.client.nuspec",
+          "sha256": "e05ddcae171cab1711c8c399fcb4cf607ab21324ee563ec84c8e4c983d481a97"
+        }
+      ]
+    },
+    {
+      "id": "Microsoft.IdentityModel.Abstractions",
+      "version": "8.14.0",
+      "declared_license": "MIT",
+      "chosen_license": "MIT",
+      "authors": "Microsoft",
+      "copyright": "© Microsoft Corporation. All rights reserved.",
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/AzureAD/azure-activedirectory-identitymodel-extensions-for-dotnet",
+        "commit": "c8f7d87bcda35557a68f6cb9c55856a2ee733856"
+      },
+      "files": [
+        "UPSTREAM-LICENSE.txt"
+      ],
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/AzureAD/azure-activedirectory-identitymodel-extensions-for-dotnet/dev/LICENSE.txt",
+          "sha256": "cba03f5387b05405e56b688376421acae396136af4b5116738dc6e5160f87ddd"
+        }
+      ],
+      "legal_files": [
+        {
+          "file": "PACKAGE-NOTICE.txt",
+          "sha256": "19422379537d96358d1d1dbcf695f3966b89433011359e10af8f6178bb78e8aa"
+        },
+        {
+          "file": "UPSTREAM-LICENSE.txt",
+          "sha256": "cba03f5387b05405e56b688376421acae396136af4b5116738dc6e5160f87ddd"
+        },
+        {
+          "file": "microsoft.identitymodel.abstractions.nuspec",
+          "sha256": "4049fb99213889eee0d67fcc3f851732cbd49507b890a9c20fa89f572be22fcc"
+        }
+      ]
+    },
+    {
+      "id": "Microsoft.IO.RecyclableMemoryStream",
+      "version": "4.0.1",
+      "declared_license": "MIT",
+      "chosen_license": "MIT",
+      "authors": "Microsoft",
+      "copyright": "© Microsoft Corporation. All rights reserved.",
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/Microsoft/Microsoft.IO.RecyclableMemoryStream",
+        "commit": "e4f9a2594930e2fdc877d20e9e81c2caf60706f3"
+      },
+      "files": [
+        "UPSTREAM-LICENSE.txt"
+      ],
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/microsoft/Microsoft.IO.RecyclableMemoryStream/master/LICENSE",
+          "sha256": "7d6aa3550cf7aeb25ef542f616d8ead585633e3b607c65e1db4aa804e4971a91"
+        }
+      ],
+      "legal_files": [
+        {
+          "file": "PACKAGE-NOTICE.txt",
+          "sha256": "d36ee0b43017fcc7ee2de9120c0577b30d8a257065265358a532e16ebf12adf3"
+        },
+        {
+          "file": "UPSTREAM-LICENSE.txt",
+          "sha256": "7d6aa3550cf7aeb25ef542f616d8ead585633e3b607c65e1db4aa804e4971a91"
+        },
+        {
+          "file": "microsoft.io.recyclablememorystream.nuspec",
+          "sha256": "75320f615a84f0b627a78529e939969d0b555456323169654e8d94a23723f088"
+        }
+      ]
+    },
+    {
+      "id": "Microsoft.Maui.Graphics",
+      "version": "10.0.120",
+      "declared_license": "MIT",
+      "chosen_license": "MIT",
+      "authors": "Microsoft",
+      "copyright": "© Microsoft Corporation. All rights reserved.",
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/dotnet/maui.git",
+        "commit": "6aca5366139ed0e1cd05cca3e32b6a887d5a8dd0"
+      },
+      "files": [
+        "THIRD-PARTY-NOTICES.TXT",
+        "LICENSE.TXT"
+      ],
+      "sources": [],
+      "legal_files": [
+        {
+          "file": "LICENSE.TXT",
+          "sha256": "d7a68596ab69b06f51ca278a6545148e4269a9381c26d597c13df5d88e08cf5b"
+        },
+        {
+          "file": "PACKAGE-NOTICE.txt",
+          "sha256": "d23f3623f89138dbdb4e714928aabaee854dfd50fd25f08748f133e2dfdb9af1"
+        },
+        {
+          "file": "THIRD-PARTY-NOTICES.TXT",
+          "sha256": "45fb89606fe922d1615ee62be7f42342db766685af2ebaf2fe8d2a187100687c"
+        },
+        {
+          "file": "microsoft.maui.graphics.nuspec",
+          "sha256": "4c2824b3e22f5d9fdc2cbf2db1b2e245310f23e3d10a40cfb60587e4dd9dc13c"
+        }
+      ]
+    },
+    {
+      "id": "MimeKit",
+      "version": "4.18.0",
+      "declared_license": "MIT",
+      "chosen_license": "MIT",
+      "authors": "Jeffrey Stedfast",
+      "copyright": ".NET Foundation and Contributors",
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/jstedfast/MimeKit"
+      },
+      "files": [
+        "UPSTREAM-LICENSE.txt"
+      ],
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/jstedfast/MimeKit/master/LICENSE",
+          "sha256": "c613af70a219d1cafd732f2cefd4fca9f1462ac5696f8461108a7d643513f3bf"
+        }
+      ],
+      "legal_files": [
+        {
+          "file": "PACKAGE-NOTICE.txt",
+          "sha256": "a12df35c0c9b6aa7052b315067d30e65a356bf4046ebc7f4c7217f022ddc6915"
+        },
+        {
+          "file": "UPSTREAM-LICENSE.txt",
+          "sha256": "c613af70a219d1cafd732f2cefd4fca9f1462ac5696f8461108a7d643513f3bf"
+        },
+        {
+          "file": "mimekit.nuspec",
+          "sha256": "b100d936b7c61e4ff18ab2e5e875c3bd51bc73502cd4b9078ca6c76bf18f43e3"
+        }
+      ]
+    },
+    {
+      "id": "MsgReader",
+      "version": "6.2.1",
+      "declared_license": "MIT",
+      "chosen_license": "MIT",
+      "authors": "Kees van Spelde",
+      "copyright": "(c)2013-2026 - Kees van Spelde",
+      "repository": {
+        "type": "GitHub",
+        "url": "https://github.com/Sicos1977/MSGReader",
+        "commit": "4f8d779b8c23f3f3587cd9de703c255cce7ccdf2"
+      },
+      "files": [
+        "UPSTREAM-LICENSE.txt"
+      ],
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/Sicos1977/MSGReader/master/license.txt",
+          "sha256": "812d48b7932bb6cb7d38074f1eb46870f8e429771663d2de727eda0056c1b7a6"
+        }
+      ],
+      "legal_files": [
+        {
+          "file": "PACKAGE-NOTICE.txt",
+          "sha256": "8331f178f2a1c233508a03cfc89f3f303f8c50354ca4503e85eb1ddeb7c9cbcb"
+        },
+        {
+          "file": "UPSTREAM-LICENSE.txt",
+          "sha256": "812d48b7932bb6cb7d38074f1eb46870f8e429771663d2de727eda0056c1b7a6"
+        },
+        {
+          "file": "msgreader.nuspec",
+          "sha256": "9ac6f3338002147a5d4828d1c14b680c5209b072398e904df37b18115c2e28cd"
+        }
+      ]
+    },
+    {
+      "id": "OpenMcdf",
+      "version": "3.4.0",
+      "declared_license": "MPL-2.0",
+      "chosen_license": "MPL-2.0; additionally GPL-3.0-or-later under MPL section 3.3 as part of the PalClam GPL larger work",
+      "authors": "ironfede,jeremy-visionaid",
+      "copyright": "Copyright © 2010-2026, Federico Blaseotto, Jeremy Powell",
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/openmcdf/openmcdf",
+        "commit": "687fae7286167035a2a1f2c7ab39720679a187a5"
+      },
+      "files": [
+        "Upstream/License.txt",
+        "Upstream/OpenMcdf/System/LICENSE.TXT",
+        "Upstream/README.md"
+      ],
+      "sources": [],
+      "corresponding_source": {
+        "file": "ThirdParty/SourcePackages/Libraries/OpenMcdf-3.4.0-687fae728616.zip",
+        "url": "https://codeload.github.com/openmcdf/openmcdf/zip/687fae7286167035a2a1f2c7ab39720679a187a5",
+        "commit": "687fae7286167035a2a1f2c7ab39720679a187a5",
+        "sha256": "a3663551aa9f55f8e9305f9327776ee6547cbb75dfa3a5dfedf90665f3c06df5"
+      },
+      "legal_files": [
+        {
+          "file": "GPL-2.0.txt",
+          "sha256": "edaef632cbb643e4e7a221717a6c441a4c1a7c918e6e4d56debc3d8739b233f6"
+        },
+        {
+          "file": "GPL-3.0.txt",
+          "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+        },
+        {
+          "file": "PACKAGE-NOTICE.txt",
+          "sha256": "be05c5012fef576a7aafddf36fd6bb87b0a54e331ea5db74baa1a41a2b9a65e5"
+        },
+        {
+          "file": "PALCLAM-DISTRIBUTION-NOTICE.txt",
+          "sha256": "073cf38c07ca4c36f5cd191685a9490f2cab12f252c3adc75bff376062f590ea"
+        },
+        {
+          "file": "Upstream/License.txt",
+          "sha256": "4b89d4518bd135ab4ee154a7bce722246b57a98c3d7efc1a09409898160c2bd1"
+        },
+        {
+          "file": "Upstream/OpenMcdf/System/LICENSE.TXT",
+          "sha256": "cfc21f5e8bd655ae997eec916138b707b1d290b83272c02a95c9f821b8c87310"
+        },
+        {
+          "file": "Upstream/README.md",
+          "sha256": "d732f0a3c35a5f711fb50f8c29172b288d35743283132b00d59bc8941a25d55a"
+        },
+        {
+          "file": "openmcdf.nuspec",
+          "sha256": "ab39e9f92f9738ef53e8fdf627311d89ca20c72e76e4b44f4208c1af5ec11a0d"
+        }
+      ]
+    },
+    {
+      "id": "RtfPipe",
+      "version": "2.0.7677.4303",
+      "declared_license": "",
+      "chosen_license": "MIT",
+      "authors": "Eric Domke",
+      "copyright": "",
+      "repository": {
+        "type": "git",
+        "url": "git://github.com/erdomke/RtfPipe"
+      },
+      "files": [
+        "UPSTREAM-LICENSE.txt"
+      ],
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/erdomke/RtfPipe/master/LICENSE",
+          "sha256": "5dfbb3096a1887fdc75be19f9215f79863379a16dfb1aae04d482789258cdcbc"
+        }
+      ],
+      "legal_files": [
+        {
+          "file": "PACKAGE-NOTICE.txt",
+          "sha256": "a09205125b5f9c712cc5333bc68d76ef6d05d6ee0b2419a4bbfd1388f5caf51b"
+        },
+        {
+          "file": "UPSTREAM-LICENSE.txt",
+          "sha256": "5dfbb3096a1887fdc75be19f9215f79863379a16dfb1aae04d482789258cdcbc"
+        },
+        {
+          "file": "rtfpipe.nuspec",
+          "sha256": "82c35a9c60607c1e2af0eea63dc73498a9485071ee5bcdd4c38c6ea242e18e40"
+        }
+      ]
+    },
+    {
+      "id": "System.Security.Cryptography.Pkcs",
+      "version": "10.0.14",
+      "declared_license": "MIT",
+      "chosen_license": "MIT",
+      "authors": "Microsoft",
+      "copyright": "© Microsoft Corporation. All rights reserved.",
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/dotnet/dotnet",
+        "commit": "0427b9abbead3fa64c6655eb4290c537397131fa"
+      },
+      "files": [
+        "THIRD-PARTY-NOTICES.TXT",
+        "DOTNET-LICENSE.TXT"
+      ],
+      "sources": [],
+      "legal_files": [
+        {
+          "file": "DOTNET-LICENSE.TXT",
+          "sha256": "cfc21f5e8bd655ae997eec916138b707b1d290b83272c02a95c9f821b8c87310"
+        },
+        {
+          "file": "PACKAGE-NOTICE.txt",
+          "sha256": "861e20449933f819aa0c8c1351baeb14f9dd2d40f3e4ccc6d37b207ee80a739f"
+        },
+        {
+          "file": "THIRD-PARTY-NOTICES.TXT",
+          "sha256": "6d15e10a101c6bfff2ab4429ed061bf76c456fc4b23ad6b03e0d0f8377148a21"
+        },
+        {
+          "file": "system.security.cryptography.pkcs.nuspec",
+          "sha256": "21d35a0f74d96b14dc11ab34ca0f59ca0751c668324ecf5d725fffdc14971817"
+        }
+      ]
+    },
+    {
+      "id": "UTF.Unknown",
+      "version": "2.8.0",
+      "declared_license": "MPL-1.1",
+      "chosen_license": "GPL-3.0-or-later (version 3 selected under upstream GPL-2.0-or-later alternative)",
+      "authors": "Julian Verdurmen, Rustam Sayfutdinov, Rudi Pettazzi, Shy Shalom",
+      "copyright": "",
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/CharsetDetector/UTF-unknown",
+        "commit": "4654fbf0cdb47705e74a2c74bae20d486eb23fa8"
+      },
+      "files": [
+        "GPL-2.0.txt",
+        "Upstream/README.md",
+        "Upstream/license/MPL-1.1.txt",
+        "Upstream/license/gpl-2.0.txt",
+        "Upstream/license/lgpl-2.1.txt",
+        "Upstream/tests/Data/README.md"
+      ],
+      "sources": [],
+      "corresponding_source": {
+        "file": "ThirdParty/SourcePackages/Libraries/UTF.Unknown-2.8.0-4654fbf0cdb4.zip",
+        "url": "https://codeload.github.com/CharsetDetector/UTF-unknown/zip/4654fbf0cdb47705e74a2c74bae20d486eb23fa8",
+        "commit": "4654fbf0cdb47705e74a2c74bae20d486eb23fa8",
+        "sha256": "4ccd6a4aaea33472a833fa7e8f6747a4cc8ce89a50af0cdfc726420c86f23ca0"
+      },
+      "legal_files": [
+        {
+          "file": "GPL-2.0.txt",
+          "sha256": "edaef632cbb643e4e7a221717a6c441a4c1a7c918e6e4d56debc3d8739b233f6"
+        },
+        {
+          "file": "GPL-3.0.txt",
+          "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+        },
+        {
+          "file": "PACKAGE-NOTICE.txt",
+          "sha256": "8bcea64c4c87668bd9172a3b0545830849461e6a94b35b81ed709357418a1590"
+        },
+        {
+          "file": "PALCLAM-DISTRIBUTION-NOTICE.txt",
+          "sha256": "ccf8f120474a16ca8c40fd07de57609c4e5678e49c3f30792f6ff28027c43b58"
+        },
+        {
+          "file": "Upstream/README.md",
+          "sha256": "c4277420c6ce8a7a6106df6ce6d0c3e25e07a94752496d136da02c1d0802b7af"
+        },
+        {
+          "file": "Upstream/license/MPL-1.1.txt",
+          "sha256": "53692a2ed6c6a2c6ec9b32dd0b820dfae91e0a1fcdf625ca9ed0bdf8705fcc4f"
+        },
+        {
+          "file": "Upstream/license/gpl-2.0.txt",
+          "sha256": "ab15fd526bd8dd18a9e77ebc139656bf4d33e97fc7238cd11bf60e2b9b8666c6"
+        },
+        {
+          "file": "Upstream/license/lgpl-2.1.txt",
+          "sha256": "5df07007198989c622f5d41de8d703e7bef3d0e79d62e24332ee739a452af62a"
+        },
+        {
+          "file": "Upstream/tests/Data/README.md",
+          "sha256": "f89673dd3003f9537aeb187006994866d601de130a2f90d29cd9c6a0b37a2e23"
+        },
+        {
+          "file": "utf.unknown.nuspec",
+          "sha256": "fa957d640636c743d1d65fe7f62055593af374956fc18065d4c3ddb4c0a12774"
+        }
+      ]
+    }
+  ],
+  "inno_license_source": "https://jrsoftware.org/files/is/license.txt",
+  "inno_license_sha256": "2e5346868c2a18434489824e11d65c3031620f792fefc415d05f19cd441abf5c",
+  "project_license": {
+    "spdx": "GPL-3.0-or-later",
+    "file": "LICENSE-GPL-3.0.txt",
+    "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+    "source_url": "https://www.gnu.org/licenses/gpl-3.0.txt"
+  }
+}

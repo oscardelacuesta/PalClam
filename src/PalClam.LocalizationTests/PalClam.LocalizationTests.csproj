@@ -1,0 +1,28 @@
+<!-- SPDX-FileCopyrightText: 2026 Oscar de la Cuesta Campillo; SPDX-License-Identifier: GPL-3.0-or-later -->
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>PalClam</RootNamespace>
+    <NeutralLanguage>es</NeutralLanguage>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="..\PalClam\Services\DistributionPolicy.cs" Link="DistributionPolicy.cs" />
+    <Compile Include="..\PalClam\Localization\TextCatalog.cs" Link="TextCatalog.cs" />
+    <Compile Include="..\PalClam\Localization\DisplayCatalog.cs" Link="DisplayCatalog.cs" />
+    <EmbeddedResource Include="..\PalClam\Localization\DisplayMetadata.json" LogicalName="PalClam.Localization.DisplayMetadata.json" />
+    <Compile Include="..\PalClam\Localization\UiText.cs" Link="UiText.cs" />
+    <Compile Include="..\PalClam\Infrastructure\SettingsStore.cs" Link="SettingsStore.cs" />
+    <Compile Include="..\PalClam\Services\AppearanceCatalog.cs" Link="AppearanceCatalog.cs" />
+    <Compile Include="..\PalClam\Services\AuroraMotionProfiles.cs" Link="AuroraMotionProfiles.cs" />
+    <Compile Include="..\PalClam\Services\AiProviderCatalog.cs" Link="AiProviderCatalog.cs" />
+    <Compile Include="..\PalClam\Services\GuardTuning.cs" Link="GuardTuning.cs" />
+    <Compile Include="..\PalClam\Services\RansomwarePolicy.cs" Link="RansomwarePolicy.cs" />
+    <Compile Include="..\PalClam\Services\DiskLedPolicy.cs" Link="DiskLedPolicy.cs" />
+    <EmbeddedResource Include="..\PalClam\Localization\Strings*.resx">
+      <ManifestResourceName>PalClam.Localization.%(Filename)</ManifestResourceName>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>

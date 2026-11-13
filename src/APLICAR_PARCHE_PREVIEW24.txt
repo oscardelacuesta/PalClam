@@ -1,0 +1,4 @@
+PalClam 1.1.0 Preview 24 — parche sobre Preview 23.
+Copiar los contenidos del ZIP de parche SOBRE una copia íntegra de Preview 23, conservando rutas y sobrescribiendo los ficheros indicados. No aplicarlo sobre otras versiones.
+Recomendado: utilizar el ZIP COMPLETO en una carpeta nueva.
+Ejecutar PRUEBAS.bat y EMPEZAR_AQUI.bat en Windows con .NET 10 e Inno Setup instalados; las pruebas de ejecución no se han realizado aquí.

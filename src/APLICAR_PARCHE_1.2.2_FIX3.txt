@@ -1,0 +1,13 @@
+PALCLAM 1.2.2 GPL3 - FIX3
+
+Parche exclusivamente sobre PalClam_1.2.2_GPL3_FIX2_COMPLETO.
+1. Extrae el parche en la carpeta actual de FIX2, donde esta EMPEZAR_AQUI.bat.
+2. Acepta sobrescribir los archivos coincidentes y conservar los demas.
+3. Ejecuta EMPEZAR_AQUI.bat como siempre.
+
+El completo FIX3 es la alternativa para empezar en una carpeta nueva; no necesitas ambos ZIP.
+No cambies el codigo para saltarte comprobaciones.
+Los logs de empaquetado se guardan en dist/validation/packaging-<id>.log.
+La version del programa sigue siendo 1.2.2; FIX3 identifica la revision de construccion.
+Las fuentes publicas generadas siguen sin BAT y conservan los scripts PowerShell.
+Detalles y limites de las pruebas: CORRECCION_1.2.2_FIX3.md.

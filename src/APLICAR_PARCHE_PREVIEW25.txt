@@ -1,0 +1,10 @@
+PALCLAM 1.1.0 PREVIEW 25
+
+El parche corresponde exclusivamente al ZIP completo de Preview 24.
+
+1) Haz copia de la carpeta Preview 24.
+2) Extrae este parche SOBRE la carpeta de Preview 24 y sustituye archivos.
+3) Ejecuta PRUEBAS.bat; no mezclar con Preview 23 ni una Preview 24 parcialmente parcheada.
+4) Para máxima fiabilidad, utiliza el ZIP completo de Preview 25 en carpeta nueva.
+
+No incluye ejecutables compilados ni instalador precompilado.
